@@ -1,5 +1,5 @@
 # The base URL of the site; the only required configuration variable.
-base_url = "https://Apps-For-Linux.codeberg.page/apps-for-linux"
+base_url = "https://appimage-sig.github.io/apps-for-linux"
 
 # The site title and description; used in feeds by default.
 title = "Apps for Linux"
