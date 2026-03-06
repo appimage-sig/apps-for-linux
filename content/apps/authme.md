@@ -1,8 +1,7 @@
 +++
-title: "authme"
-description: |
- "Simple cross-platform two-factor (2FA) authenticator app for desktop."
-date: "2026-01-13 16:28:00"
+title = "authme"
+description = "Simple cross-platform two-factor (2FA) authenticator app for desktop."
+date = "2026-01-13 16:28:00"
 [taxonomies]
 categories = ["Productivity"]
 authors = ["Lőrik Levente"]

@@ -1,8 +1,7 @@
 +++
-title: "Obsidian"
-description: |
- "Obsidian is a powerful and extensible knowledge base that works on top of your local folder of plain text files"
-date: "2026-01-20 21:39:00"
+title = "Obsidian"
+description = "Obsidian is a powerful and extensible knowledge base that works on top of your local folder of plain text files"
+date = "2026-01-20 21:39:00"
 [taxonomies]
 categories = ["Productivity"]
 authors = ["Obsidian Team"]

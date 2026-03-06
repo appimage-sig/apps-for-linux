@@ -1,8 +1,7 @@
 +++
-title: "Sleek"
-description: |
- "Open-source (FOSS) todo manager based on the todo.txt syntax"
-date: "2025-11-30 10:37:00"
+title = "Sleek"
+description = "Open-source (FOSS) todo manager based on the todo.txt syntax"
+date = "2025-11-30 10:37:00"
 [taxonomies]
 categories = ["Productivity"]
 authors = ["Robin Ahle"]

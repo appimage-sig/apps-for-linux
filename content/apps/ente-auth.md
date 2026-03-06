@@ -1,8 +1,7 @@
 +++
-title: "ente Auth"
-description: |
- "Open source 2FA authenticator, with end-to-end encrypted backups"
-date: "2025-12-17 15:16:00"
+title = "ente Auth"
+description = "Open source 2FA authenticator, with end-to-end encrypted backups"
+date = "2025-12-17 15:16:00"
 [taxonomies]
 categories = ["Productivity"]
 authors = ["Ente"]

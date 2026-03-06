@@ -1,8 +1,7 @@
 +++
-title: "Rare"
-description: |
- "Frontend for legendary, the open source Epic Games Launcher alternative"
-date: "2025-12-27 13:42:00"
+title = "Rare"
+description = "Frontend for legendary, the open source Epic Games Launcher alternative"
+date = "2025-12-27 13:42:00"
 [taxonomies]
 categories = ["Games"]
 authors = ["Rare Devs"]

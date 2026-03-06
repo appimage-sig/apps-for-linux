@@ -1,8 +1,7 @@
 +++
-title: "Lens"
-description: |
- "Lens is the most powerful IDE for Kubernetes developers and operators"
-date: "2025-12-12 10:14:00"
+title = "Lens"
+description = "Lens is the most powerful IDE for Kubernetes developers and operators"
+date = "2025-12-12 10:14:00"
 [taxonomies]
 categories = ["Development"]
 authors = ["Mirantis"]

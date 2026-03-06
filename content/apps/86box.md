@@ -1,8 +1,7 @@
 +++
-title: "86box"
-description: |
- "Emulator of x86-based machines based on PCem."
-date: "2025-12-22 04:42:00"
+title = "86box"
+description = "Emulator of x86-based machines based on PCem."
+date = "2025-12-22 04:42:00"
 [taxonomies]
 categories = ["Games"]
 authors = ["86box"]

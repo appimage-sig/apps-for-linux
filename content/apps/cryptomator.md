@@ -1,8 +1,7 @@
 +++
-title: "Cryptomator"
-description: |
- "Multi-platform transparent client-side encryption of your files in the cloud"
-date: "2025-11-25 12:06:00"
+title = "Cryptomator"
+description = "Multi-platform transparent client-side encryption of your files in the cloud"
+date = "2025-11-25 12:06:00"
 [taxonomies]
 categories = ["Productivity"]
 authors = ["Skymatic"]

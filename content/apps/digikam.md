@@ -1,8 +1,7 @@
 +++
-title: "digiKam"
-description: |
- "Professional Photo Management with Power of Open Source"
-date: "2025-10-17 15:56:00"
+title = "digiKam"
+description = "Professional Photo Management with Power of Open Source"
+date = "2025-10-17 15:56:00"
 [taxonomies]
 categories = ["Graphics"]
 authors = ["digiKam Team"]

@@ -1,8 +1,7 @@
 +++
-title: "Chatterino2"
-description: |
- "Chat client for Twitch.tv"
-date: "2025-09-21 13:56:00"
+title = "Chatterino2"
+description = "Chat client for Twitch.tv"
+date = "2025-09-21 13:56:00"
 [taxonomies]
 categories = ["Network"]
 authors = ["Chatterino2 Authors"]

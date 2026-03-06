@@ -1,8 +1,7 @@
 +++
-title: "superProductivity"
-description: |
- "An advanced todo list app with timeboxing & time tracking capabilities that supports importing tasks from your calendar, Jira, GitHub and others"
-date: "2026-01-18 16:44:00"
+title = "superProductivity"
+description = "An advanced todo list app with timeboxing & time tracking capabilities that supports importing tasks from your calendar, Jira, GitHub and others"
+date = "2026-01-18 16:44:00"
 [taxonomies]
 categories = ["Productivity"]
 authors = ["Johannes Millan"]

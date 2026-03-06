@@ -1,8 +1,7 @@
 +++
-title: "Butterfly"
-description: |
- "Powerful, minimalistic, cross-platform, opensource note-taking app"
-date: "2025-12-24 15:44:00"
+title = "Butterfly"
+description = "Powerful, minimalistic, cross-platform, opensource note-taking app"
+date = "2025-12-24 15:44:00"
 [taxonomies]
 categories = ["Productivity"]
 authors = ["LinwoodDev"]

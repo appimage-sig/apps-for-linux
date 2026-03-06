@@ -1,8 +1,7 @@
 +++
-title: "Antares"
-description: |
- "A modern, fast and productivity driven SQL client with a focus in UX"
-date: "2025-01-20 10:32:00"
+title = "Antares"
+description = "A modern, fast and productivity driven SQL client with a focus in UX"
+date = "2025-01-20 10:32:00"
 [taxonomies]
 categories = ["Development"]
 authors = ["Fabio Di Stasio"]

@@ -1,8 +1,7 @@
 +++
-title: "Conky"
-description: |
- "Light-weight system monitor for X, Wayland, and other things, too"
-date: "2025-07-06 15:23:00"
+title = "Conky"
+description = "Light-weight system monitor for X, Wayland, and other things, too"
+date = "2025-07-06 15:23:00"
 [taxonomies]
 categories = ["Utilities"]
 authors = ["Brenden Matthews"]

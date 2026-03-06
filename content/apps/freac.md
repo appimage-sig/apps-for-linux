@@ -1,8 +1,7 @@
 +++
-title: "Freac"
-description: |
- "Free and open source audio converter"
-date: "2026-01-23 18:12:00"
+title = "Freac"
+description = "Free and open source audio converter"
+date = "2026-01-23 18:12:00"
 [taxonomies]
 categories = ["AudioVideo"]
 authors = ["Robert Kausch"]

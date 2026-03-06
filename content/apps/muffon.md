@@ -1,8 +1,7 @@
 +++
-title: "muffon"
-description: |
- "Advanced multi-source music streaming"
-date: "2025-08-19 11:36:00"
+title = "muffon"
+description = "Advanced multi-source music streaming"
+date = "2025-08-19 11:36:00"
 [taxonomies]
 categories = ["AudioVideo"]
 authors = ["Aleksey Shpakovsky"]

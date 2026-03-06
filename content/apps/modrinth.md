@@ -1,8 +1,7 @@
 +++
-title: "Modrinth"
-description: |
- "Open-source mod platform, built by the community, for the community."
-date: "2025-12-12 23:55:00"
+title = "Modrinth"
+description = "Open-source mod platform, built by the community, for the community."
+date = "2025-12-12 23:55:00"
 [taxonomies]
 categories = ["Games"]
 authors = ["Rinth"]

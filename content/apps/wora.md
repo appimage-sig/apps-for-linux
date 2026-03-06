@@ -1,8 +1,7 @@
 +++
-title: "Wora"
-description: |
- "A beautiful player for audiophiles."
-date: "2025-06-23 11:06:00"
+title = "Wora"
+description = "A beautiful player for audiophiles."
+date = "2025-06-23 11:06:00"
 [taxonomies]
 categories = ["AudioVideo"]
 authors = ["Aaryan Kapoor"]

@@ -1,8 +1,7 @@
 +++
-title: "Play!"
-description: |
- "Play! is a PlayStation2 emulator for Windows, macOS, UNIX, Android, iOS and web browser platforms"
-date: "2025-05-27 15:48:00"
+title = "Play!"
+description = "Play! is a PlayStation2 emulator for Windows, macOS, UNIX, Android, iOS and web browser platforms"
+date = "2025-05-27 15:48:00"
 [taxonomies]
 categories = ["Games"]
 authors = ["Jean-Philip Desjardins"]

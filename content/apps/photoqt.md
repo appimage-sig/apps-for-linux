@@ -1,8 +1,7 @@
 +++
-title: "PhotoQt"
-description: |
- "PhotoQt is a simple yet powerful and good looking image viewer, based on Qt/QML, published as open-source and completely free"
-date: "2026-01-16 11:15:00"
+title = "PhotoQt"
+description = "PhotoQt is a simple yet powerful and good looking image viewer, based on Qt/QML, published as open-source and completely free"
+date = "2026-01-16 11:15:00"
 [taxonomies]
 categories = ["Graphics"]
 authors = ["Lukas Spies"]

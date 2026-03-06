@@ -1,8 +1,7 @@
 +++
-title: "osu!"
-description: |
- "Free-to-win rhythm game"
-date: "2026-01-19 13:39:00"
+title = "osu!"
+description = "Free-to-win rhythm game"
+date = "2026-01-19 13:39:00"
 [taxonomies]
 categories = ["Games"]
 authors = ["Dean Herbert"]

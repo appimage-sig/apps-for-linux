@@ -1,8 +1,7 @@
 +++
-title: "Logseq"
-description: |
- "A privacy-first, open-source platform for knowledge management and collaboration"
-date: "2025-12-01 15:33:00"
+title = "Logseq"
+description = "A privacy-first, open-source platform for knowledge management and collaboration"
+date = "2025-12-01 15:33:00"
 [taxonomies]
 categories = ["Productivity"]
 authors = ["Logseq"]

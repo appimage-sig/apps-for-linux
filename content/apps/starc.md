@@ -1,8 +1,7 @@
 +++
-title: "Story Architect"
-description: |
- "All in one screenwriting app"
-date: "2025-12-09 19:00:00"
+title = "Story Architect"
+description = "All in one screenwriting app"
+date = "2025-12-09 19:00:00"
 [taxonomies]
 categories = ["Productivity"]
 authors = ["Story Apps"]

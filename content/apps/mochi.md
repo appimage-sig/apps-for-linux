@@ -1,8 +1,7 @@
 +++
-title: "Mochi"
-description: |
- "Take notes and make flashcards using markdown, then study them using spaced repetition."
-date: "2026-01-27 00:00:00"
+title = "Mochi"
+description = "Take notes and make flashcards using markdown, then study them using spaced repetition."
+date = "2026-01-27 00:00:00"
 [taxonomies]
 categories = ["Productivity"]
 authors = ["Mochi Cards"]

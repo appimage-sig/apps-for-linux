@@ -1,8 +1,7 @@
 +++
-title: "Naev"
-description: |
- "Naev is a 2d action/rpg space game that combines elements from the action, rpg and simulation genres."
-date: "2025-08-31 05:06:00"
+title = "Naev"
+description = "Naev is a 2d action/rpg space game that combines elements from the action, rpg and simulation genres."
+date = "2025-08-31 05:06:00"
 [taxonomies]
 categories = ["Games"]
 authors = ["Naev DevTeam"]

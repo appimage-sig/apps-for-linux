@@ -1,8 +1,7 @@
 +++
-title: "Cutter"
-description: |
- "Free and Open Source Reverse Engineering platform powered by Rizin"
-date: "2025-05-11 17:58:00"
+title = "Cutter"
+description = "Free and Open Source Reverse Engineering platform powered by Rizin"
+date = "2025-05-11 17:58:00"
 [taxonomies]
 categories = ["Development"]
 authors = ["Rizin"]

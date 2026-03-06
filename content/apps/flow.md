@@ -1,8 +1,7 @@
 +++
-title: "Flow"
-description: |
- "Feature rich event, group and time managment system"
-date: "2026-01-07 20:18:00"
+title = "Flow"
+description = "Feature rich event, group and time managment system"
+date = "2026-01-07 20:18:00"
 [taxonomies]
 categories = ["Productivity"]
 authors = ["LinwoodDev"]

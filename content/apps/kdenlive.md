@@ -1,8 +1,7 @@
 +++
-title: "Kdenlive"
-description: |
- "Free and Open Source Video Editor"
-date: "2025-12-18 16:44:00"
+title = "Kdenlive"
+description = "Free and Open Source Video Editor"
+date = "2025-12-18 16:44:00"
 [taxonomies] 	
 categories = ["AudioVideo"]
 authors = ["Kdenlive Team"]

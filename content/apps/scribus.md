@@ -1,8 +1,7 @@
 +++
-title: "Scribus"
-description: |
- "Powerful desktop publishing software"
-date: "2026-01-10 03:32:00"
+title = "Scribus"
+description = "Powerful desktop publishing software"
+date = "2026-01-10 03:32:00"
 [taxonomies]
 categories = ["Productivity"]
 authors = ["The Scribus Team"]

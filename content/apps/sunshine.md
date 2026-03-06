@@ -1,8 +1,7 @@
 +++
-title: "Sunshine"
-description: |
- "Self-hosted game stream host for Moonlight."
-date: "2026-01-18 01:53:00"
+title = "Sunshine"
+description = "Self-hosted game stream host for Moonlight."
+date = "2026-01-18 01:53:00"
 [taxonomies]
 categories = ["Games"]
 authors = ["LizardByte"]

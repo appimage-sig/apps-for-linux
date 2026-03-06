@@ -1,8 +1,7 @@
 +++
-title: "Notesnook"
-description: |
- "End-to-end encrypted note taking alternative to Evernote."
-date: "2026-01-16 13:05:00"
+title = "Notesnook"
+description = "End-to-end encrypted note taking alternative to Evernote."
+date = "2026-01-16 13:05:00"
 [taxonomies]
 categories = ["Productivity"]
 authors = ["Streetwriters"]

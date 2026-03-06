@@ -1,8 +1,7 @@
 +++
-title: "Cartero"
-description: |
- "Native, lightweight, multiplatform and free HTTP client that you can use to test your APIs"
-date: "2025-11-15 00:20:00"
+title = "Cartero"
+description = "Native, lightweight, multiplatform and free HTTP client that you can use to test your APIs"
+date = "2025-11-15 00:20:00"
 [taxonomies]
 categories = ["Development"]
 authors = ["the Cartero authors"]

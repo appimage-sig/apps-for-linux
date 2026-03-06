@@ -1,8 +1,7 @@
 +++
-title: "Ricochet Refresh"
-description: |
- "Anonymous peer-to-peer instant messaging"
-date: "2026-01-28 16:18:00"
+title = "Ricochet Refresh"
+description = "Anonymous peer-to-peer instant messaging"
+date = "2026-01-28 16:18:00"
 [taxonomies]
 categories = ["Network"]
 authors = ["Blueprint for Free Speech"]

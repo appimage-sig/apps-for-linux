@@ -1,8 +1,7 @@
 +++
-title: "Linphone"
-description: |
- "Linphone is an open source SIP phone for voice/video calls, instant messaging and conference calling"
-date: "2025-11-12 14:16:00"
+title = "Linphone"
+description = "Linphone is an open source SIP phone for voice/video calls, instant messaging and conference calling"
+date = "2025-11-12 14:16:00"
 [taxonomies]
 categories = ["Network"]
 authors = ["Belledonne Communications"]

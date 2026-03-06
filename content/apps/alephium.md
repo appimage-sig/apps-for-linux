@@ -1,8 +1,7 @@
 +++
-title: "Alephium"
-description: |
- "The official Alephium desktop wallet."
-date: "2025-10-07 19:45:00"
+title = "Alephium"
+description = "The official Alephium desktop wallet."
+date = "2025-10-07 19:45:00"
 [taxonomies]
 categories = ["Finance"]
 authors = ["Alephium Team"]

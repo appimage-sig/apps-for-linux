@@ -1,8 +1,7 @@
 +++
-title: "Blockstream"
-description: |
- "Non-custodial Bitcoin wallet"
-date: "2026-01-14T01:17:00"
+title = "Blockstream"
+description = "Non-custodial Bitcoin wallet"
+date = "2026-01-14T01:17:00"
 [taxonomies]
 categories = ["Finance"]
 authors = ["Blockstream"]

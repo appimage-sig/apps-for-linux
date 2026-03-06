@@ -1,8 +1,7 @@
 +++
-title: "DevilutionX"
-description: |
- "Port of Diablo and Hellfire that strives to make it simple to run the game while providing engine improvements, bugfixes, and some optional quality of life features"
-date: "2025-10-30 20:00:00"
+title = "DevilutionX"
+description = "Port of Diablo and Hellfire that strives to make it simple to run the game while providing engine improvements, bugfixes, and some optional quality of life features"
+date = "2025-10-30 20:00:00"
 [taxonomies]
 categories = ["Games"]
 authors = ["diasurgical"]

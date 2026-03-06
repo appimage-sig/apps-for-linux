@@ -1,8 +1,7 @@
 +++
-title: "Bforartists"
-description: |
- "Bforartists is a fork of the popular 3D software Blender, with the goal to improve the UI"
-date: "2025-12-30 21:40:00"
+title = "Bforartists"
+description = "Bforartists is a fork of the popular 3D software Blender, with the goal to improve the UI"
+date = "2025-12-30 21:40:00"
 [taxonomies]
 categories = ["Graphics"]
 authors = ["Reiner Prokein"]

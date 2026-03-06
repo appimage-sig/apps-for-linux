@@ -1,8 +1,7 @@
 +++
-title: "GDevelop"
-description: |
- "Full-featured, no-code, open-source game development software"
-date: "2026-01-16 12:40:00"
+title = "GDevelop"
+description = "Full-featured, no-code, open-source game development software"
+date = "2026-01-16 12:40:00"
 [taxonomies]
 categories = ["Development"]
 authors = ["Florian Rival"]

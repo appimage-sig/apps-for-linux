@@ -1,8 +1,7 @@
 +++
-title: "GitFourchette"
-description: |
- "The comfortable Git UI for Linux."
-date: "2026-02-02 01:54:00"
+title = "GitFourchette"
+description = "The comfortable Git UI for Linux."
+date = "2026-02-02 01:54:00"
 [taxonomies]
 categories = ["Development"]
 authors = ["Iliyas Jorio"]

@@ -1,8 +1,7 @@
 +++
-title: "appimagecraft"
-description: |
- "appimagecraft completely automates the AppImage build process"
-date: "2026-01-19 04:55:00"
+title = "appimagecraft"
+description = "appimagecraft completely automates the AppImage build process"
+date = "2026-01-19 04:55:00"
 [taxonomies]
 categories = ["Development"]
 authors = ["TheAssassin"]

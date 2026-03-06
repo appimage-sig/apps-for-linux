@@ -1,8 +1,7 @@
 +++
-title: "Wavebox"
-description: |
- "Connect all the apps and websites you need to run your business and stay signed-in to every account"
-date: "2026-01-21 13:11:00"
+title = "Wavebox"
+description = "Connect all the apps and websites you need to run your business and stay signed-in to every account"
+date = "2026-01-21 13:11:00"
 [taxonomies]
 categories = ["Network"]
 authors = ["Wavebox"]

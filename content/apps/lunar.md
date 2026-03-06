@@ -1,8 +1,7 @@
 +++
-title: "Lunar"
-description: |
- "A modpack for all modern versions of Minecraft"
-date: "2025-12-18 00:00:00"
+title = "Lunar"
+description = "A modpack for all modern versions of Minecraft"
+date = "2025-12-18 00:00:00"
 [taxonomies]
 categories = ["Games"]
 authors = ["Moonsworth"]

@@ -1,8 +1,7 @@
 +++
-title: "Anytype"
-description: |
- "Anytype is a personal knowledge base"
-date: "2026-02-09 18:31:00"
+title = "Anytype"
+description = "Anytype is a personal knowledge base"
+date = "2026-02-09 18:31:00"
 [taxonomies]
 categories = ["Productivity"]
 authors = ["Anytype"]

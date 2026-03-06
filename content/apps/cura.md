@@ -1,8 +1,7 @@
 +++
-title: "Cura"
-description: |
- "3D printer / slicing GUI built on top of the Uranium framework"
-date: "2025-10-23 16:04:00"
+title = "Cura"
+description = "3D printer / slicing GUI built on top of the Uranium framework"
+date = "2025-10-23 16:04:00"
 [taxonomies]
 categories = ["Graphics"]
 authors = ["Ultimaker"]

@@ -1,8 +1,7 @@
 +++
-title: "Session"
-description: |
- "Session Desktop - Onion routing based messenger."
-date: "2026-01-08 02:42:00"
+title = "Session"
+description = "Session Desktop - Onion routing based messenger."
+date = "2026-01-08 02:42:00"
 [taxonomies]
 categories = ["Network"]
 authors = ["The Oxen Project"]

@@ -1,8 +1,7 @@
 +++
-title: "CPU-X"
-description: |
- "Free software that gathers information on CPU, motherboard and more."
-date: "2025-08-22 18:05:00"
+title = "CPU-X"
+description = "Free software that gathers information on CPU, motherboard and more."
+date = "2025-08-22 18:05:00"
 [taxonomies]
 categories = ["Utilities"]
 authors = ["The Tumultuous Unicorn Of Darkness"]

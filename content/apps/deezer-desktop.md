@@ -1,8 +1,7 @@
 +++
-title: "deezer-desktop"
-description: |
- "An universal linux port of deezer, supporting Flatpak, Appimage, Snap, RPM, DEB."
-date: "2026-01-21 02:16:00"
+title = "deezer-desktop"
+description = "An universal linux port of deezer, supporting Flatpak, Appimage, Snap, RPM, DEB."
+date = "2026-01-21 02:16:00"
 [taxonomies]
 categories = ["AudioVideo"]
 authors = ["Aurélien Hamy"]

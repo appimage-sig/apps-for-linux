@@ -1,8 +1,7 @@
 +++
-title: "Cursor"
-description: |
- "The AI Code Editor"
-date: "2025-12-22 00:00:00"
+title = "Cursor"
+description = "The AI Code Editor"
+date = "2025-12-22 00:00:00"
 [taxonomies]
 categories = ["Development"]
 authors = ["Anysphere"]

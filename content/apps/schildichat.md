@@ -1,8 +1,7 @@
 +++
-title: "SchildiChat"
-description: |
- "Matrix client / Element Desktop fork."
-date: "2025-08-15 18:13:00"
+title = "SchildiChat"
+description = "Matrix client / Element Desktop fork."
+date = "2025-08-15 18:13:00"
 [taxonomies]
 categories = ["Network"]
 authors = ["SchildiChat"]

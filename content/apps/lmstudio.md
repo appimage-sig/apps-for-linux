@@ -1,8 +1,7 @@
 +++
-title: "LM Studio"
-description: |
- "Discover, download, and run local LLMs"
-date: "2026-01-15 00:00:00"
+title = "LM Studio"
+description = "Discover, download, and run local LLMs"
+date = "2026-01-15 00:00:00"
 [taxonomies]
 categories = ["Productivity"]
 authors = ["Element Labs"]

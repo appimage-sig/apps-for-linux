@@ -1,8 +1,7 @@
 +++
-title: "Pulsar"
-description: |
- "A Community-led Hyper-Hackable Text Editor"
-date: "2025-10-10 03:15:00"
+title = "Pulsar"
+description = "A Community-led Hyper-Hackable Text Editor"
+date = "2025-10-10 03:15:00"
 [taxonomies]
 categories = ["Development"]
 authors = ["Pulsar-Edit Original work"]

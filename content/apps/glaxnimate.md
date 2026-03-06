@@ -1,8 +1,7 @@
 +++
-title: "Glaxnimate"
-description: |
- "Simple vector animation program."
-date: "2025-02-05 17:25:00"
+title = "Glaxnimate"
+description = "Simple vector animation program."
+date = "2025-02-05 17:25:00"
 [taxonomies]
 categories = ["Graphics"]
 authors = ["Mattia Basaglia"]

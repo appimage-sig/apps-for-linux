@@ -1,8 +1,7 @@
 +++
-title: "DB Browser for SQLite"
-description: |
- "High quality, visual, open source tool to create, design, and edit database files compatible with SQLite"
-date: "2026-01-28 21:49:00"
+title = "DB Browser for SQLite"
+description = "High quality, visual, open source tool to create, design, and edit database files compatible with SQLite"
+date = "2026-01-28 21:49:00"
 [taxonomies]
 categories = ["Development"]
 authors = ["DB Browser for SQLite Team"]

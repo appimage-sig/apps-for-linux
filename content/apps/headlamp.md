@@ -1,8 +1,7 @@
 +++
-title: "Headlamp"
-description: |
- "A Kubernetes web UI that is fully-featured, user-friendly and extensible"
-date: "2025-12-17 16:45:00"
+title = "Headlamp"
+description = "A Kubernetes web UI that is fully-featured, user-friendly and extensible"
+date = "2025-12-17 16:45:00"
 [taxonomies]
 categories = ["Development"]
 authors = ["The Headlamp Contributors"]

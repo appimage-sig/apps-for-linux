@@ -1,8 +1,7 @@
 +++
-title: "MQTTX"
-description: |
- "MQTTX makes developing and testing MQTT applications faster and easier.."
-date: "2025-09-30 12:09:00"
+title = "MQTTX"
+description = "MQTTX makes developing and testing MQTT applications faster and easier.."
+date = "2025-09-30 12:09:00"
 [taxonomies]
 categories = ["Development"]
 authors = ["EMQX Team"]

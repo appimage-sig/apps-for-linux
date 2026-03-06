@@ -1,8 +1,7 @@
 +++
-title: "Nuclear"
-description: |
- "Streaming music player that finds free music for you"
-date: "2025-06-11T01:31:00"
+title = "Nuclear"
+description = "Streaming music player that finds free music for you"
+date = "2025-06-11T01:31:00"
 [taxonomies]
 categories = ["AudioVideo"]
 authors = ["nukeop"]

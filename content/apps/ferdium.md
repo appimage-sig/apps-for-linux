@@ -1,8 +1,7 @@
 +++
-title: "Ferdium"
-description: |
- "All your services in one place, built by the community."
-date: "2025-10-08T01:05:00"
+title = "Ferdium"
+description = "All your services in one place, built by the community."
+date = "2025-10-08T01:05:00"
 [taxonomies]
 categories = ["Network"]
 authors = ["Ferdium Team"]

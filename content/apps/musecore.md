@@ -1,8 +1,7 @@
 +++
-title: "MuseScore"
-description: |
- "MuseScore is an open source and free music notation software"
-date: "2025-12-18 17:09:00"
+title = "MuseScore"
+description = "MuseScore is an open source and free music notation software"
+date = "2025-12-18 17:09:00"
 [taxonomies]
 categories = ["AudioVideo"]
 authors = ["MuseScore BVBA"]

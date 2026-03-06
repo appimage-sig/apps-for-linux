@@ -1,8 +1,7 @@
 +++
-title: "Koodo Reader"
-description: |
- "A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web"
-date: "2026-01-06 03:33:00"
+title = "Koodo Reader"
+description = "A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web"
+date = "2026-01-06 03:33:00"
 [taxonomies]
 categories = ["Productivity"]
 authors = ["App by Troye"]

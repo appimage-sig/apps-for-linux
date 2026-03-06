@@ -1,8 +1,7 @@
 +++
-title: "S3Drive"
-description: |
- "Zero Knowledge E2E encrypted storage compatible with multiple providers"
-date: "2026-01-12 12:52:00"
+title = "S3Drive"
+description = "Zero Knowledge E2E encrypted storage compatible with multiple providers"
+date = "2026-01-12 12:52:00"
 [taxonomies]
 categories = ["Network"]
 authors = ["Cloud storage"]

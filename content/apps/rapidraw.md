@@ -1,8 +1,7 @@
 +++
-title: "RapidRAW"
-description: |
- "A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind."
-date: "2026-01-27 00:06:00"
+title = "RapidRAW"
+description = "A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind."
+date = "2026-01-27 00:06:00"
 [taxonomies]
 categories = ["Graphics"]
 authors = ["Timon Käch"]

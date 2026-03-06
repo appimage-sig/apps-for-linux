@@ -1,8 +1,7 @@
 +++
-title: "ownCloud"
-description: |
- "Open-source software for highly secure, borderless collaboration and filesharing on any device"
-date: "2025-11-11 16:04:00"
+title = "ownCloud"
+description = "Open-source software for highly secure, borderless collaboration and filesharing on any device"
+date = "2025-11-11 16:04:00"
 [taxonomies]
 categories = ["Network"]
 authors = ["ownCloud"]

@@ -1,8 +1,7 @@
 +++
-title: "Delta Chat Desktop"
-description: |
- "Email-based instant messaging for Desktop."
-date: "2025-12-23 23:53:00"
+title = "Delta Chat Desktop"
+description = "Email-based instant messaging for Desktop."
+date = "2025-12-23 23:53:00"
 [taxonomies]
 categories = ["Network"]
 authors = ["Delta Chat contributors"]

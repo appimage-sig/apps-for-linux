@@ -1,8 +1,7 @@
 +++
-title: "Beekeeper Studio"
-description: |
- "Beekeeper Studio is a cross-platform SQL editor and database manager"
-date: "2026-01-20 00:59:00"
+title = "Beekeeper Studio"
+description = "Beekeeper Studio is a cross-platform SQL editor and database manager"
+date = "2026-01-20 00:59:00"
 [taxonomies]
 categories = ["Development"]
 authors = ["Matthew Rathbone"]

@@ -1,8 +1,7 @@
 +++
-title: "draw.io"
-description: |
- "Security-first diagramming for teams."
-date: "2025-12-09 12:59:00"
+title = "draw.io"
+description = "Security-first diagramming for teams."
+date = "2025-12-09 12:59:00"
 [taxonomies]
 categories = ["Graphics"]
 authors = ["JGraph"]

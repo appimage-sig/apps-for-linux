@@ -1,8 +1,7 @@
 +++
-title: "Tiled"
-description: |
- "Tiled is a general purpose tile map editor for all tile-based games, such as RPGs, platformers or Breakout clones."
-date: "2025-01-28 04:42:00"
+title = "Tiled"
+description = "Tiled is a general purpose tile map editor for all tile-based games, such as RPGs, platformers or Breakout clones."
+date = "2025-01-28 04:42:00"
 [taxonomies]
 categories = ["Games"]
 authors = ["Tiled Authors"]

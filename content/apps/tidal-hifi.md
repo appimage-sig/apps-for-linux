@@ -1,8 +1,7 @@
 +++
-title: "Tidal-Hifi"
-description: |
- "The web version of TIDAL running in electron with Hi-Fi (High & Max) support thanks to widevine."
-date: "2026-01-11 23:20:00"
+title = "Tidal-Hifi"
+description = "The web version of TIDAL running in electron with Hi-Fi (High & Max) support thanks to widevine."
+date = "2026-01-11 23:20:00"
 [taxonomies]
 slug: Tidal-Hifi
 categories = ["AudioVideo"]

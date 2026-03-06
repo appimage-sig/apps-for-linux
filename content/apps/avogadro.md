@@ -1,8 +1,7 @@
 +++
-title: "Avogadro"
-description: |
- "Advanced molecular editor designed for cross-platform use in computational chemistry, molecular modeling, bioinformatics, materials science, and related areas"
-date: "2026-02-06 03:35:00"
+title = "Avogadro"
+description = "Advanced molecular editor designed for cross-platform use in computational chemistry, molecular modeling, bioinformatics, materials science, and related areas"
+date = "2026-02-06 03:35:00"
 [taxonomies]
 categories = ["Science"]
 authors = ["Open Chemistry"]

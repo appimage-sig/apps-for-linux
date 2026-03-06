@@ -1,8 +1,7 @@
 +++
-title: "Inkscape"
-description: |
- "A Free and open source vector graphics editor"
-date: "2025-12-25 15:35:00"
+title = "Inkscape"
+description = "A Free and open source vector graphics editor"
+date = "2025-12-25 15:35:00"
 [taxonomies]
 categories = ["Graphics"]
 authors = ["Inkscape Authors"]

@@ -1,8 +1,7 @@
 +++
-title: "Bitwarden"
-description: |
- "Open source password management solutions for individuals, teams, and business organizations."
-date: "2025-01-13 22:40:00"
+title = "Bitwarden"
+description = "Open source password management solutions for individuals, teams, and business organizations."
+date = "2025-01-13 22:40:00"
 [taxonomies]
 categories = ["Utilities"]
 authors = ["BitWarden"]

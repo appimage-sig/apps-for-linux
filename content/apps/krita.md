@@ -1,8 +1,7 @@
 +++
-title: "Krita"
-description: |
- "Krita is a professional free and open source painting program"
-date: "2026-01-24 13:30:00"
+title = "Krita"
+description = "Krita is a professional free and open source painting program"
+date = "2026-01-24 13:30:00"
 [taxonomies]
 categories = ["Graphics"]
 authors = ["Stichting Krita Foundation"]

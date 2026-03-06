@@ -1,8 +1,7 @@
 +++
-title: "Mendeley"
-description: |
- "The free all-in-one reference manager"
-date: "2026-01-20 00:00:00"
+title = "Mendeley"
+description = "The free all-in-one reference manager"
+date = "2026-01-20 00:00:00"
 [taxonomies]
 categories = ["Science"]
 authors = ["Elsevier"]

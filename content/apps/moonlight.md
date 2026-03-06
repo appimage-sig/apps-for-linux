@@ -1,8 +1,7 @@
 +++
-title: "Moonlight"
-description: |
- "Moonlight PC is an open source PC client for NVIDIA GameStream and Sunshine."
-date: " 2024-09-17 04:35:00"
+title = "Moonlight"
+description = "Moonlight PC is an open source PC client for NVIDIA GameStream and Sunshine."
+date = " 2024-09-17 04:35:00"
 [taxonomies]
 categories = ["Games"]
 authors = ["Moonlight Game Streaming Project"]

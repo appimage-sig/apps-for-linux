@@ -1,8 +1,7 @@
 +++
-title: "Bruno"
-description: |
- "Open-source IDE for exploring and testing APIs"
-date: "2026-01-07 23:05:00"
+title = "Bruno"
+description = "Open-source IDE for exploring and testing APIs"
+date = "2026-01-07 23:05:00"
 [taxonomies]
 categories = ["Development"]
 authors = ["Bruno Authors"]

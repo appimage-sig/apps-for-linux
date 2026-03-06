@@ -1,8 +1,7 @@
 +++
-title: "ente Photos"
-description: |
- "End-to-end encryption for photos and more."
-date: "2026-01-08 14:23:00"
+title = "ente Photos"
+description = "End-to-end encryption for photos and more."
+date = "2026-01-08 14:23:00"
 [taxonomies]
 categories = ["Network"]
 authors = ["Ente"]

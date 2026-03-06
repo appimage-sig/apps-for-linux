@@ -1,8 +1,7 @@
 +++
-title: "ungoogled-chromium"
-description: |
- "ungoogled-chromium is Google Chromium, sans dependency on Google web services."
-date: "2026-01-23 08:15:00"
+title = "ungoogled-chromium"
+description = "ungoogled-chromium is Google Chromium, sans dependency on Google web services."
+date = "2026-01-23 08:15:00"
 [taxonomies]
 categories = ["Network"]
 authors = ["The ungoogled-chromium Authors"]

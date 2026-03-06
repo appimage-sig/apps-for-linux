@@ -1,8 +1,7 @@
 +++
-title: "KOReader"
-description: |
- "An ebook reader application"
-date: "2025-11-01 14:16:00"
+title = "KOReader"
+description = "An ebook reader application"
+date = "2025-11-01 14:16:00"
 [taxonomies]
 categories = ["Productivity"]
 authors = ["KOReader Community"]

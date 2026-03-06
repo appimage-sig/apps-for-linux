@@ -1,8 +1,7 @@
 +++
-title: "Tockler"
-description: |
- "An application that tracks your time by monitoring your active window title and idle time."
-date: "2025-04-12 11:05:00"
+title = "Tockler"
+description = "An application that tracks your time by monitoring your active window title and idle time."
+date = "2025-04-12 11:05:00"
 [taxonomies]
 categories = ["Productivity"]
 authors = ["Maigo Erit"]

@@ -1,8 +1,7 @@
 +++
-title: "OpenRGB"
-description: |
- "Open source RGB lighting control that doesn't depend on manufacturer software"
-date: "2025-09-14 22:32:00"
+title = "OpenRGB"
+description = "Open source RGB lighting control that doesn't depend on manufacturer software"
+date = "2025-09-14 22:32:00"
 [taxonomies]
 categories = ["Utilities"]
 authors = ["Adam Honse"]

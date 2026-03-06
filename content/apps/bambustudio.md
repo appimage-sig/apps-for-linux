@@ -1,8 +1,7 @@
 +++
-title: "Bambu Studio"
-description: |
- "Bambu Studio is an open-source, cutting-edge, feature-rich slicing software"
-date: "2025-11-19 06:00:00"
+title = "Bambu Studio"
+description = "Bambu Studio is an open-source, cutting-edge, feature-rich slicing software"
+date = "2025-11-19 06:00:00"
 [taxonomies]
 categories = ["Graphics"]
 authors = ["Bambu Lab"]

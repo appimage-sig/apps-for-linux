@@ -1,8 +1,7 @@
 +++
-title: "Zen Browser"
-description: |
- "Performance-optimized and privacy-focused browser built atop Firefox"
-date: "2026-01-25T01:49:00"
+title = "Zen Browser"
+description = "Performance-optimized and privacy-focused browser built atop Firefox"
+date = "2026-01-25T01:49:00"
 [taxonomies]
 categories = ["Network"]
 authors = ["Zen Browser Team"]

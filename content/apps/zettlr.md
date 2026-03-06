@@ -1,8 +1,7 @@
 +++
-title: "Zettlr"
-description: |
- "Your One-Stop Publication Workbench"
-date: "2026-01-28 11:27:00"
+title = "Zettlr"
+description = "Your One-Stop Publication Workbench"
+date = "2026-01-28 11:27:00"
 [taxonomies]
 categories = ["Productivity"]
 authors = ["Hendrik Erz"]

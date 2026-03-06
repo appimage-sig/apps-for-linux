@@ -1,8 +1,7 @@
 +++
-title: "LibreWolf"
-description: |
- "A custom version of Firefox, focused on privacy, security and freedom."
-date: "2026-01-14T01:35:00"
+title = "LibreWolf"
+description = "A custom version of Firefox, focused on privacy, security and freedom."
+date = "2026-01-14T01:35:00"
 [taxonomies]
 categories = ["Network"]
 authors = ["LibreWolf"]

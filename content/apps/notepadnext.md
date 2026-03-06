@@ -1,8 +1,7 @@
 +++
-title: "NotepadNext"
-description: |
- "A cross-platform, reimplementation of Notepad++"
-date: "2026-01-25 23:21:00"
+title = "NotepadNext"
+description = "A cross-platform, reimplementation of Notepad++"
+date = "2026-01-25 23:21:00"
 [taxonomies]
 categories = ["Development"]
 authors = ["Justin Dailey"]

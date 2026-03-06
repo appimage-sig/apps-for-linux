@@ -1,8 +1,7 @@
 +++
-title: "Friction"
-description: |
- "Powerful and versatile free and open-source motion graphics application."
-date: "2026-01-01 00:53:00"
+title = "Friction"
+description = "Powerful and versatile free and open-source motion graphics application."
+date = "2026-01-01 00:53:00"
 [taxonomies]
 categories = ["Graphics"]
 authors = ["Friction contributors"]

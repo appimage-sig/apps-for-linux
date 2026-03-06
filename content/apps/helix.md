@@ -1,8 +1,7 @@
 +++
-title: "Helix"
-description: |
- "A post-modern modal text editor."
-date: "2025-07-18 18:13:00"
+title = "Helix"
+description = "A post-modern modal text editor."
+date = "2025-07-18 18:13:00"
 [taxonomies]
 categories = ["Development"]
 authors = ["Blaž Hrastnik"]

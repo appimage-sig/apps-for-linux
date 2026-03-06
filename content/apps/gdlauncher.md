@@ -1,8 +1,7 @@
 +++
-title: "GDLauncher"
-description: |
- "GDLauncher is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience"
-date: "2025-01-12 12:28:00"
+title = "GDLauncher"
+description = "GDLauncher is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience"
+date = "2025-01-12 12:28:00"
 [taxonomies]
 categories = ["Games"]
 authors = ["Gorilla Devs"]

@@ -1,8 +1,7 @@
 +++
-title: "Trezor"
-description: |
- "Trezor desktop and web application for managing Trezor hardware wallet"
-date: "2025-12-16 14:31:00"
+title = "Trezor"
+description = "Trezor desktop and web application for managing Trezor hardware wallet"
+date = "2025-12-16 14:31:00"
 [taxonomies]
 categories = ["Finance"]
 authors = ["Trezor company"]

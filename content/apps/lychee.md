@@ -1,8 +1,7 @@
 +++
-title: "Lychee"
-description: |
- "Lychee simplifies the printing process and makes 3D printing accessible to everyone by offering the most innovative and user-friendly solutions."
-date: "2025-12-17 00:00:00"
+title = "Lychee"
+description = "Lychee simplifies the printing process and makes 3D printing accessible to everyone by offering the most innovative and user-friendly solutions."
+date = "2025-12-17 00:00:00"
 [taxonomies]
 categories = ["Graphics"]
 authors = ["Mango 3D"]

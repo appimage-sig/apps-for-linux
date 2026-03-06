@@ -1,8 +1,7 @@
 +++
-title: "Nextcloud"
-description: |
- "Nextcloud is the industry-leading, fully open-source, on-premises content collaboration platform."
-date: "2025-12-15 21:39:00"
+title = "Nextcloud"
+description = "Nextcloud is the industry-leading, fully open-source, on-premises content collaboration platform."
+date = "2025-12-15 21:39:00"
 [taxonomies]
 categories = ["Network"]
 authors = ["Nextcloud"]

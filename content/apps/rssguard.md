@@ -1,8 +1,7 @@
 +++
-title: "RSS Guard"
-description: |
- "Simple RSS/ATOM feed reader"
-date: "2026-01-17 11:56:00"
+title = "RSS Guard"
+description = "Simple RSS/ATOM feed reader"
+date = "2026-01-17 11:56:00"
 [taxonomies]
 categories = ["Network"]
 authors = ["Martin Rotter"]

@@ -1,8 +1,7 @@
 +++
-title: "WebCord"
-description: |
- "A Discord and SpaceBar :electron:-based client implemented without Discord API."
-date: "2025-11-18 03:55:00"
+title = "WebCord"
+description = "A Discord and SpaceBar :electron:-based client implemented without Discord API."
+date = "2025-11-18 03:55:00"
 [taxonomies]
 categories = ["Network"]
 authors = ["SpacingBat3"]

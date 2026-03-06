@@ -18,7 +18,7 @@ echo "+++
 title: $title
 description: |
 $summary
-date: "
+date = "
 categories:
 authors: $author
 license: $license

@@ -1,8 +1,7 @@
 +++
-title: "Wireguard GUI"
-description: |
- "A wireguard client GUI for Linux made with nextauri"
-date: "2025-10-27 20:18:00"
+title = "Wireguard GUI"
+description = "A wireguard client GUI for Linux made with nextauri"
+date = "2025-10-27 20:18:00"
 [taxonomies]
 categories = ["Network"]
 authors = ["Wireguard GUI Contributors"]

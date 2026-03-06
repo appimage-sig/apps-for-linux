@@ -1,8 +1,7 @@
 +++
-title: "GIMP"
-description: |
- "The Free & Open Source Image Editor"
-date: "2025-12-14 22:32:00"
+title = "GIMP"
+description = "The Free & Open Source Image Editor"
+date = "2025-12-14 22:32:00"
 [taxonomies]
 categories = ["Graphics"]
 authors = ["GIMP’s Team"]

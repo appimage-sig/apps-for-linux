@@ -1,8 +1,7 @@
 +++
-title: "Vesktop"
-description: |
- "Vesktop is a custom Discord App aiming to give you better performance and improve linux support"
-date: "2026-01-24 09:43:00"
+title = "Vesktop"
+description = "Vesktop is a custom Discord App aiming to give you better performance and improve linux support"
+date = "2026-01-24 09:43:00"
 [taxonomies]
 categories = ["Network"]
 authors = ["Vendicated"]

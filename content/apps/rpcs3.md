@@ -1,8 +1,7 @@
 +++
-title: "RPCS3"
-description: |
- "Free and Open-source PlayStation 3 emulator/debugger"
-date: "2026-01-17 11:22:00"
+title = "RPCS3"
+description = "Free and Open-source PlayStation 3 emulator/debugger"
+date = "2026-01-17 11:22:00"
 [taxonomies]
 categories = ["Games"]
 authors = ["RPCS3 Authors"]

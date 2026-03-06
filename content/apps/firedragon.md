@@ -1,8 +1,7 @@
 +++
-title: "FireDragon"
-description: |
- "A Floorp fork with custom branding and opinionated settings."
-date: "2025-12-22 09:36:00"
+title = "FireDragon"
+description = "A Floorp fork with custom branding and opinionated settings."
+date = "2025-12-22 09:36:00"
 [taxonomies]
 categories = ["Network"]
 authors = ["Nico Jensch"]

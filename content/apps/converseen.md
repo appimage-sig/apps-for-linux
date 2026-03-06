@@ -1,8 +1,7 @@
 +++
-title: "Converseen"
-description: |
- "Converseen is a batch image converter and resizer"
-date: "2025-12-01 17:04:00"
+title = "Converseen"
+description = "Converseen is a batch image converter and resizer"
+date = "2025-12-01 17:04:00"
 [taxonomies]
 categories = ["Graphics"]
 authors = ["Francesco Mondello"]

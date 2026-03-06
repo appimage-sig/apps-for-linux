@@ -1,8 +1,7 @@
 +++
-title: "ProtonUp-Qt"
-description: |
- "Install and manage GE-Proton and Luxtorpeda for Steam and Wine-GE for Lutris with this graphical user interface"
-date: "2025-09-22 16:56:00"
+title = "ProtonUp-Qt"
+description = "Install and manage GE-Proton and Luxtorpeda for Steam and Wine-GE for Lutris with this graphical user interface"
+date = "2025-09-22 16:56:00"
 [taxonomies]
 categories = ["Games"]
 authors = ["DavidoTek"]

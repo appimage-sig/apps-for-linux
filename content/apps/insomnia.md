@@ -1,8 +1,7 @@
 +++
-title: "Insomnia"
-description: |
- "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC"
-date: "2026-01-15 04:39:00"
+title = "Insomnia"
+description = "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC"
+date = "2026-01-15 04:39:00"
 [taxonomies]
 categories = ["Development"]
 authors = ["Kong"]

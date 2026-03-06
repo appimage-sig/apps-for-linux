@@ -1,8 +1,7 @@
 +++
-title: "Feishin"
-description: |
- "A modern self-hosted music player"
-date: "2026-01-19 06:41:00"
+title = "Feishin"
+description = "A modern self-hosted music player"
+date = "2026-01-19 06:41:00"
 [taxonomies]
 categories = ["AudioVideo"]
 authors = ["Jeff"]

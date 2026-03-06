@@ -1,8 +1,7 @@
 +++
-title: "FreeTube"
-description: |
- "FreeTube is an open source desktop YouTube player built with privacy in mind"
-date: "2026-01-18 01:28:00"
+title = "FreeTube"
+description = "FreeTube is an open source desktop YouTube player built with privacy in mind"
+date = "2026-01-18 01:28:00"
 [taxonomies]
 categories = ["Network"]
 authors = ["FreeTube Authors"]

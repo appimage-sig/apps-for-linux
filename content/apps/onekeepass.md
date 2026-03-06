@@ -1,8 +1,7 @@
 +++
-title: "OneKeePass"
-description: |
- "OneKeePass is a cross-platform, open source and secure password manager"
-date: "2025-11-10 20:55:00"
+title = "OneKeePass"
+description = "OneKeePass is a cross-platform, open source and secure password manager"
+date = "2025-11-10 20:55:00"
 [taxonomies]
 categories = ["Utilities"]
 authors = ["jeyasankar"]

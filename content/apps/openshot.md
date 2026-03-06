@@ -1,8 +1,7 @@
 +++
-title: "OpenShot"
-description: |
- "OpenShot Video Editor is an award-winning free and open-source video editor"
-date: "2025-12-16 10:26:00"
+title = "OpenShot"
+description = "OpenShot Video Editor is an award-winning free and open-source video editor"
+date = "2025-12-16 10:26:00"
 [taxonomies]
 categories = ["AudioVideo"]
 authors = ["OpenShot Studios"]

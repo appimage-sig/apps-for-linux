@@ -1,8 +1,7 @@
 +++
-title: "Eclipse Theia"
-description: |
- "Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript."
-date: "2025-12-10 19:06:00"
+title = "Eclipse Theia"
+description = "Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript."
+date = "2025-12-10 19:06:00"
 [taxonomies]
 categories = ["Development"]
 authors = ["Eclipse Foundation"]

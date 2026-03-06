@@ -1,8 +1,7 @@
 +++
-title: "Actual Budget"
-description: |
- "Actual Budget is a super fast and privacy-focused app for managing your finances"
-date: "2026-01-04 20:57:00"
+title = "Actual Budget"
+description = "Actual Budget is a super fast and privacy-focused app for managing your finances"
+date = "2026-01-04 20:57:00"
 [taxonomies]
 categories = ["Finance"]
 authors = ["James Long"]

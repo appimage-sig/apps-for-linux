@@ -1,8 +1,7 @@
 +++
-title: "XPipe"
-description: |
- "XPipe is a new type of shell connection hub and remote file manager that allows you to access your entire server infrastructure from your local machine"
-date: "2025-12-06 13:01:00"
+title = "XPipe"
+description = "XPipe is a new type of shell connection hub and remote file manager that allows you to access your entire server infrastructure from your local machine"
+date = "2025-12-06 13:01:00"
 [taxonomies]
 categories = ["Development"]
 authors = ["XPipe UG"]

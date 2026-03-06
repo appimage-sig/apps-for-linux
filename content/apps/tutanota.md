@@ -1,8 +1,7 @@
 +++
-title: "Tuta"
-description: |
- "Email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices."
-date: "2026-01-08 12:16:00"
+title = "Tuta"
+description = "Email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices."
+date = "2026-01-08 12:16:00"
 [taxonomies]
 categories = ["Network"]
 authors = ["Tutao"]

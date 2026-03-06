@@ -1,8 +1,7 @@
 +++
-title: "Cinelerra GG"
-description: |
- "Cinelerra GG Infinity is a free and open source video editing software for Linux"
-date: "2025-11-21 20:54:00"
+title = "Cinelerra GG"
+description = "Cinelerra GG Infinity is a free and open source video editing software for Linux"
+date = "2025-11-21 20:54:00"
 [taxonomies]
 categories = ["AudioVideo"]
 authors = ["Cinelerra GG community"]

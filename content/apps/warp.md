@@ -1,8 +1,7 @@
 +++
-title: "Warp"
-description: |
- "Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster"
-date: "2025-12-17 00:00:00"
+title = "Warp"
+description = "Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster"
+date = "2025-12-17 00:00:00"
 [taxonomies]
 categories = ["Utilities"]
 authors = ["Warp"]

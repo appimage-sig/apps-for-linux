@@ -1,8 +1,7 @@
 +++
-title: "CherryTree"
-description: |
- "A hierarchical note taking application, featuring rich text and syntax highlighting"
-date: "2026-01-13T01:44:00"
+title = "CherryTree"
+description = "A hierarchical note taking application, featuring rich text and syntax highlighting"
+date = "2026-01-13T01:44:00"
 [taxonomies]
 categories = ["Productivity"]
 authors = ["Giuseppe Penone"]

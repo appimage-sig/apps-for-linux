@@ -1,8 +1,7 @@
 +++
-title: "Hayase"
-description: |
- "Stream anime torrents, real-time with no waiting for downloads"
-date: "2026-01-20 00:00:00"
+title = "Hayase"
+description = "Stream anime torrents, real-time with no waiting for downloads"
+date = "2026-01-20 00:00:00"
 [taxonomies]
 categories = ["Network"]
 authors = ["Cas"]

@@ -1,8 +1,7 @@
 +++
-title: "SimpleX Chat"
-description: |
- "First messaging platform that has no user identifiers of any kind"
-date: "2025-12-10 23:12:00"
+title = "SimpleX Chat"
+description = "First messaging platform that has no user identifiers of any kind"
+date = "2025-12-10 23:12:00"
 [taxonomies]
 categories = ["Network"]
 authors = ["SimpleX Chat"]

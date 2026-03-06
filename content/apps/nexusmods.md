@@ -1,8 +1,7 @@
 +++
-title: "The Nexus Mods app"
-description: |
- "Mod installer, creator and manager for all your popular games."
-date: "2025-11-17 12:54:00"
+title = "The Nexus Mods app"
+description = "Mod installer, creator and manager for all your popular games."
+date = "2025-11-17 12:54:00"
 [taxonomies]
 categories = ["Games"]
 authors = ["Black Tree Gaming Ltd"]

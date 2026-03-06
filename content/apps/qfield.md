@@ -1,8 +1,7 @@
 +++
-title: "QField"
-description: |
- "Geodata collection app."
-date: "2026-01-11 18:28:00"
+title = "QField"
+description = "Geodata collection app."
+date = "2026-01-11 18:28:00"
 [taxonomies]
 categories = ["Science"]
 authors = ["OPENGIS.ch"]

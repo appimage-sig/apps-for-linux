@@ -1,8 +1,7 @@
 +++
-title: "Lunatask"
-description: |
- "All-in-one encrypted to-do list, habit and mood tracker, journaling and notes app"
-date: "2025-12-22 20:02:00"
+title = "Lunatask"
+description = "All-in-one encrypted to-do list, habit and mood tracker, journaling and notes app"
+date = "2025-12-22 20:02:00"
 [taxonomies]
 categories = ["Productivity"]
 authors = ["Michal Krejci"]

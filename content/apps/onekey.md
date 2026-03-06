@@ -1,8 +1,7 @@
 +++
-title: "OneKey"
-description: |
- "Secure, open source and community driven crypto wallet runs on all platforms and trusted by millions"
-date: "2026-01-07 09:16:00"
+title = "OneKey"
+description = "Secure, open source and community driven crypto wallet runs on all platforms and trusted by millions"
+date = "2026-01-07 09:16:00"
 [taxonomies]
 categories = ["Finance"]
 authors = ["OneKey"]

@@ -1,8 +1,7 @@
 +++
-title: "SMPlayer"
-description: |
- "Free Media Player with built-in codecs"
-date: "2026-01-12 12:34:00"
+title = "SMPlayer"
+description = "Free Media Player with built-in codecs"
+date = "2026-01-12 12:34:00"
 [taxonomies]
 categories = ["AudioVideo"]
 authors = ["Ricardo Villalba"]
