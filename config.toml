@@ -1,8 +1,8 @@
 # The URL the site will be built for
-base_url = "https://appimage-sig.github.io/vonge-zola-theme"
+base_url = "https://appimage-sig.github.io/apps-for-linux"
 
-title = "Vonge"
-description = "Vonge is a portfolio site template for Zola"
+title = "Apps for Linux"
+description = "Apps for Linux catalog"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -22,6 +22,8 @@ taxonomies = [
     { name = "architectures" },
     { name = "license" },
 ]
+
+taxonomy_root = "apps"
 
 [extra]
 logo_image = "images/logo.svg"
