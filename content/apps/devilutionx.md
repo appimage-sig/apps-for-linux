@@ -5,7 +5,7 @@ date = "2025-10-30 20:00:00"
 [taxonomies]
 categories = ["Games"]
 authors = ["diasurgical"]
-tags = [OSS Game
+tags = ["OSS Game"]
 frameworks = ["SDL2"]
 architectures = ["x86_64"]
 license = ["SUL-1.0"]
