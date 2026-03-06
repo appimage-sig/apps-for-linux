@@ -6,8 +6,7 @@ date = "2025-12-06 13:01:00"
 categories = ["Development"]
 authors = ["XPipe UG"]
 tags = ["Server Management", "Kubernetes"]
-frameworks:
-- "Java"
+frameworks = ["Java"]
 architectures = ["x86_64", "arm64"]
 license = ["Apache-2.0"]
 +++

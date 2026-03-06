@@ -5,7 +5,7 @@ date = "2025-12-11 22:05:00"
 [taxonomies]
 categories = ["Games"]
 authors = ["Diego Duclos"]
-tags = ["Game client", "WxWidgets"
+tags = ["Game client", "WxWidgets"]
 architectures = ["x86_64"]
 license = ["GPL-3.0"]
 +++

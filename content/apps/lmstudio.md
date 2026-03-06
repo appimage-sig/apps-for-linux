@@ -5,8 +5,7 @@ date = "2026-01-15 00:00:00"
 [taxonomies]
 categories = ["Productivity"]
 authors = ["Element Labs"]
-tags: 
-- "AI-powered software", "Chatbot"
+tags = ["AI-powered software", "Chatbot"]
 architectures = ["x86_64", "arm64"]
 license = ["EULA"]
 +++

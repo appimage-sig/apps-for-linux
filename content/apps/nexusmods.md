@@ -6,8 +6,7 @@ date = "2025-11-17 12:54:00"
 categories = ["Games"]
 authors = ["Black Tree Gaming Ltd"]
 tags = ["Gaming tool", "Mod marketplace"]
-frameworks:
-- "Avalonia"
+frameworks = ["Avalonia"]
 architectures = ["x86_64"]
 license = ["GPL-3.0"]
 +++

@@ -6,8 +6,7 @@ date = "2025-06-09T01:58:00"
 categories = ["Development"]
 authors = ["Lite XL Team"]
 tags = ["Code editor"]
-frameworks:
-- "Lua"
+frameworks = ["Lua"]
 architectures = ["x86_64"]
 license = ["MIT"]
 +++

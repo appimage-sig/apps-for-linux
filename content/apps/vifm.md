@@ -5,7 +5,7 @@ date = "2025-06-04 20:43:00"
 [taxonomies]
 categories = ["System"]
 authors = ["vifm Authors"]
-tags = ["File Manager", "ncurses"
+tags = ["File Manager", "ncurses"]
 architectures = ["x86_64"]
 license = ["GPL-2.0"]
 +++

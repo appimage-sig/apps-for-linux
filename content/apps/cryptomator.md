@@ -6,8 +6,7 @@ date = "2025-11-25 12:06:00"
 categories = ["Productivity"]
 authors = ["Skymatic"]
 tags = ["Cloud encryption"]
-frameworks:
-- "Java"
+frameworks = ["Java"]
 architectures = ["x86_64", "arm64"]
 license = ["GPL-3.0"]
 +++

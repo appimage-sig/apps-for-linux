@@ -5,7 +5,7 @@ date = "2026-01-18 01:53:00"
 [taxonomies]
 categories = ["Games"]
 authors = ["LizardByte"]
-tags = ["Streaming software"
+tags = ["Streaming software"]
 architectures = ["x86_64", "arm64"]
 license = ["GPL-3.0"]
 +++

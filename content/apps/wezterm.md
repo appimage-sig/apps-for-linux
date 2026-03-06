@@ -5,7 +5,7 @@ date = " 2024-02-03 21:32:00"
 [taxonomies]
 categories = ["System"]
 authors = ["Wez Furlong"]
-tags = ["Terminal"
+tags = ["Terminal"]
 architectures = ["x86_64"]
 license = ["MIT"]
 +++

@@ -5,7 +5,7 @@ date = "2026-01-14 08:06:00"
 [taxonomies]
 categories = ["System"]
 authors = ["the xonsh developers"]
-tags = ["Shell language"
+tags = ["Shell language"]
 architectures = ["x86_64"]
 license = ["BSD-2-Clause"]
 +++

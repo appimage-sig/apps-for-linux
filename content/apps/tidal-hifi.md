@@ -6,8 +6,7 @@ date = "2026-01-11 23:20:00"
 slug: Tidal-Hifi
 categories = ["AudioVideo"]
 authors = ["Rick van Lieshout"]
-tags: 
-- "Music streaming client", "Cross-platform software"]
+tags = ["Music streaming client", "Cross-platform software"]
 frameworks = ["Electron"]
 architectures = ["x86_64"]
 license = ["MIT"]

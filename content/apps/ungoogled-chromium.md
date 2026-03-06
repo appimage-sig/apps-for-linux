@@ -5,7 +5,7 @@ date = "2026-01-23 08:15:00"
 [taxonomies]
 categories = ["Network"]
 authors = ["The ungoogled-chromium Authors"]
-tags = ["Browser", "Chromium"
+tags = ["Browser", "Chromium"]
 architectures = ["x86_64", "arm64"]
 license = ["BSD-3-Clause"]
 +++

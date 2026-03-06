@@ -7,8 +7,7 @@ categories = ["Development"]
 authors = ["Fabio Di Stasio"]
 tags = ["SQL"]
 frameworks = ["Electron"]
-architectures = ["x86_64", "arm64"]
-- "armv7l"
+architectures = ["x86_64", "arm64", "armv7l"]
 license = ["MIT"]
 +++
 

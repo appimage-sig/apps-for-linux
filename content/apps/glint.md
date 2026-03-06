@@ -5,7 +5,7 @@ date = "2025-10-31 19:51:00"
 [taxonomies]
 categories = ["Development"]
 authors = ["Logic Over Snacks"]
-tags = ["Git client"
+tags = ["Git client"]
 architectures = ["x86_64"]
 license = ["EULA"]
 +++

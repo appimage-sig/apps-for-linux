@@ -5,7 +5,7 @@ date = "2026-01-19 08:21:00"
 [taxonomies]
 categories = ["Development"]
 authors = ["Neovim contributors"]
-tags = ["Code editor", "TUI"
+tags = ["Code editor", "TUI"]
 architectures = ["x86_64", "arm64"]
 license = ["Apache-2.0"]
 +++

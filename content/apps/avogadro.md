@@ -5,8 +5,7 @@ date = "2026-02-06 03:35:00"
 [taxonomies]
 categories = ["Science"]
 authors = ["Open Chemistry"]
-tags: 
-- "Chemistry"]
+tags = ["Chemistry"]
 frameworks = ["Qt6"]
 architectures = ["x86_64", "arm64"]
 license = ["BSD-3-Clause"]

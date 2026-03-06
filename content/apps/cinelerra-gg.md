@@ -6,8 +6,7 @@ date = "2025-11-21 20:54:00"
 categories = ["AudioVideo"]
 authors = ["Cinelerra GG community"]
 tags = ["Video Editor"]
-frameworks:
-- "GTK2"
+frameworks = ["GTK2"]
 architectures = ["x86_64"]
 license = ["GPL-2.0"]
 +++

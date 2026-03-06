@@ -5,8 +5,7 @@ date = "2025-08-19 11:36:00"
 [taxonomies]
 categories = ["AudioVideo"]
 authors = ["Aleksey Shpakovsky"]
-tags: 
-- "Music streaming client", "SoundCloud client", "YouTube Music client", "YouTube Client"]
+tags = ["Music streaming client", "SoundCloud client", "YouTube Music client", "YouTube Client"]
 frameworks = ["Electron"]
 architectures = ["x86_64", "arm64"]
 license = ["AGPL-3.0"]

@@ -6,8 +6,7 @@ date = "2026-01-16 10:14:00"
 categories = ["Games"]
 authors = ["xemu Project"]
 tags = ["Xbox emulator", "Console emulator"]
-frameworks:
-- "GTK3"
+frameworks = ["GTK3"]
 architectures = ["x86_64", "arm64"]
 license = ["GPL-2.0"]
 +++

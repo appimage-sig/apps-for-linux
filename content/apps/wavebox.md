@@ -5,7 +5,7 @@ date = "2026-01-21 13:11:00"
 [taxonomies]
 categories = ["Network"]
 authors = ["Wavebox"]
-tags = ["Web apps", "Browser"
+tags = ["Web apps", "Browser"]
 architectures = ["x86_64"]
 license = ["EULA"]
 +++

@@ -5,8 +5,7 @@ date = "2025-08-31 05:06:00"
 [taxonomies]
 categories = ["Games"]
 authors = ["Naev DevTeam"]
-tags: 
-- "OSS Game", "RPG"
+tags = ["OSS Game", "RPG"]
 architectures = ["x86_64"]
 license = ["GPL-3.0"]
 +++

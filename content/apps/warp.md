@@ -5,7 +5,7 @@ date = "2025-12-17 00:00:00"
 [taxonomies]
 categories = ["Utilities"]
 authors = ["Warp"]
-tags = ["Terminal", "AI-powered software"
+tags = ["Terminal", "AI-powered software"]
 architectures = ["x86_64", "arm64"]
 license = ["EULA"]
 +++

@@ -5,7 +5,7 @@ date = "2025-12-17 00:00:00"
 [taxonomies]
 categories = ["Graphics"]
 authors = ["Mango 3D"]
-tags = ["3D", "Slicing software"
+tags = ["3D", "Slicing software"]
 architectures = ["x86_64"]
 license = ["EULA"]
 +++

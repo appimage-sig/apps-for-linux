@@ -5,7 +5,7 @@ date = "2025-12-22 09:36:00"
 [taxonomies]
 categories = ["Network"]
 authors = ["Nico Jensch"]
-tags = ["Browser", "Firefox-based"
+tags = ["Browser", "Firefox-based"]
 architectures = ["x86_64", "arm64"]
 license = ["MPL-2.0"]
 +++

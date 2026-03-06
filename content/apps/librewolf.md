@@ -5,7 +5,7 @@ date = "2026-01-14T01:35:00"
 [taxonomies]
 categories = ["Network"]
 authors = ["LibreWolf"]
-tags = ["Firefox-based", "Browser"
+tags = ["Firefox-based", "Browser"]
 architectures = ["x86_64", "arm64"]
 license = ["MPL-2.0"]
 +++

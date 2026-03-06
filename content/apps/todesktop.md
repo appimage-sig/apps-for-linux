@@ -5,7 +5,7 @@ date = "2025-12-11 00:00:00"
 [taxonomies]
 categories = ["Network"]
 authors = ["ToDesktop"]
-tags = ["Web apps management"
+tags = ["Web apps management"]
 architectures = ["x86_64"]
 license = ["EULA"]
 +++

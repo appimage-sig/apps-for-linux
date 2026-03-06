@@ -5,8 +5,7 @@ date = "2026-01-12 12:52:00"
 [taxonomies]
 categories = ["Network"]
 authors = ["Cloud storage"]
-tags: 
-- "Cloud storage client", "Cross-platform software"
+tags = ["Cloud storage client", "Cross-platform software"]
 architectures = ["x86_64"]
 license = ["EULA"]
 +++

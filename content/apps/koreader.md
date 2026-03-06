@@ -6,8 +6,7 @@ date = "2025-11-01 14:16:00"
 categories = ["Productivity"]
 authors = ["KOReader Community"]
 tags = ["eBook reader"]
-frameworks:
-- "Lua"
+frameworks = ["Lua"]
 architectures = ["x86_64", "arm64"]
 license = ["AGPL-3.0"]
 +++

@@ -5,7 +5,7 @@ date = "2026-01-19 13:39:00"
 [taxonomies]
 categories = ["Games"]
 authors = ["Dean Herbert"]
-tags = ["OSS Game"
+tags = ["OSS Game"]
 architectures = ["x86_64"]
 license = ["MIT"]
 +++

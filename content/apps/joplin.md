@@ -5,8 +5,7 @@ date = "2026-01-18 23:10:00"
 [taxonomies]
 categories = ["Productivity"]
 authors = ["Laurent Cozic"]
-tags: 
-- "Notes", "To-do", "Cross-platform software"]
+tags = ["Notes", "To-do", "Cross-platform software"]
 frameworks = ["Electron"]
 architectures = ["x86_64"]
 license = ["AGPL-3.0"]

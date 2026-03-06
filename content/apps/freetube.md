@@ -7,8 +7,7 @@ categories = ["Network"]
 authors = ["FreeTube Authors"]
 tags = ["Youtube client"]
 frameworks = ["Electron"]
-architectures = ["x86_64", "arm64"]
-- "armv7l"
+architectures = ["x86_64", "arm64", "armv7l"]
 license = ["AGPL-3.0"]
 +++
 

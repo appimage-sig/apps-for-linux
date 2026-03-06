@@ -5,8 +5,7 @@ date = "2026-01-29 00:59:00"
 [taxonomies]
 categories = ["System"]
 authors = ["Klarälvdalens Datakonsult"]
-tags: 
-- "Resource Monitor"]
+tags = ["Resource Monitor"]
 frameworks = ["Qt6"]
 architectures = ["x86_64"]
 license = ["GPL-2.0"]

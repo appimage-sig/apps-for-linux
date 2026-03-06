@@ -5,8 +5,7 @@ date = "2025-12-13T01:05:00"
 [taxonomies]
 categories = ["Network"]
 authors = ["Ismael Martinez"]
-tags: 
-- "Conference calling", "Cross-platform software"]
+tags = ["Conference calling", "Cross-platform software"]
 frameworks = ["Electron"]
 architectures = ["x86_64", "arm64"]
 license = ["GPL-3.0"]

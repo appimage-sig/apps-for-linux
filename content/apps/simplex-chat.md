@@ -6,8 +6,7 @@ date = "2025-12-10 23:12:00"
 categories = ["Network"]
 authors = ["SimpleX Chat"]
 tags = ["Messenger", "Censorship-resistance software", "Cross-platform software"]
-frameworks:
-- "Java"
+frameworks = ["Java"]
 architectures = ["x86_64", "arm64"]
 license = ["AGPL-3.0"]
 +++

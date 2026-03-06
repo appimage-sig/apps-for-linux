@@ -5,9 +5,8 @@ date = "2026-01-12T01:03:00"
 [taxonomies]
 categories = ["Games"]
 authors = ["Jérôme Arzel"]
-tags:
-- Games
-- Qt6
+tags = ["Games"]
+frameworks = ["Qt6"]
 architectures = ["x86_64"]
 license = ["GPL-3.0"]
 +++

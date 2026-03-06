@@ -6,8 +6,7 @@ date = "2025-12-30 21:40:00"
 categories = ["Graphics"]
 authors = ["Reiner Prokein"]
 tags = ["3D", "Blender"]
-frameworks:
-- "SDL2"
+frameworks = ["SDL2"]
 architectures = ["x86_64"]
 license = ["GPL-2.0"]
 +++

@@ -5,7 +5,7 @@ date = "2026-01-17 11:22:00"
 [taxonomies]
 categories = ["Games"]
 authors = ["RPCS3 Authors"]
-tags = ["Console emulator", "PlayStation emulator"
+tags = ["Console emulator", "PlayStation emulator"]
 architectures = ["x86_64"]
 license = ["GPL-2.0"]
 +++

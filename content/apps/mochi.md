@@ -5,7 +5,7 @@ date = "2026-01-27 00:00:00"
 [taxonomies]
 categories = ["Productivity"]
 authors = ["Mochi Cards"]
-tags = ["Notes", "Cross-platform software"
+tags = ["Notes", "Cross-platform software"]
 architectures = ["x86_64"]
 license = ["EULA"]
 +++

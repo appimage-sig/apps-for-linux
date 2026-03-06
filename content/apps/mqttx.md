@@ -5,8 +5,7 @@ date = "2025-09-30 12:09:00"
 [taxonomies]
 categories = ["Development"]
 authors = ["EMQX Team"]
-tags: 
-- "API Testing"]
+tags = ["API Testing"]
 frameworks = ["Electron"]
 architectures = ["x86_64", "arm64"]
 license = ["Apache-2.0"]

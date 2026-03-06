@@ -5,8 +5,7 @@ date = "2025-01-28 04:42:00"
 [taxonomies]
 categories = ["Games"]
 authors = ["Tiled Authors"]
-tags: 
-- "Map Editor"]
+tags = ["Map Editor"]
 frameworks = ["Qt5"]
 architectures = ["x86_64"]
 license = ["GPL-2.0"]

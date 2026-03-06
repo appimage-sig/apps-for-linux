@@ -6,8 +6,7 @@ date = "2025-12-21 21:57:00"
 categories = ["Development"]
 authors = ["WerWolv"]
 tags = ["Hex editor"]
-frameworks:
-- "IMGUI"
+frameworks = ["IMGUI"]
 architectures = ["x86_64", "arm64"]
 license = ["GPL-2.0"]
 +++

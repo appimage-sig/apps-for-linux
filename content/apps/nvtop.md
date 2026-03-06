@@ -6,8 +6,7 @@ date = "2026-01-18 16:18:00"
 categories = ["Utilities"]
 authors = ["Maxime Schmitt"]
 tags = ["Resource Monitor", "GPU"]
-frameworks:
-- "ncurses"
+frameworks = ["ncurses"]
 architectures = ["x86_64"]
 license = ["GPL-3.0"]
 +++

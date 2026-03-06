@@ -5,8 +5,7 @@ date = "2025-09-04 17:41:00"
 [taxonomies]
 categories = ["AudioVideo"]
 authors = ["Gyroflow Team"]
-tags: 
-- "Video stabilization", "Cross-platform software"]
+tags = ["Video stabilization", "Cross-platform software"]
 frameworks = ["Qt6"]
 architectures = ["x86_64"]
 license = ["GPL-3.0"]

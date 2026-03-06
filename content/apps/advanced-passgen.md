@@ -5,8 +5,7 @@ date = "2024-11-20 11:02:00"
 [taxonomies]
 categories = ["Productivity"]
 authors = ["CodeDead"]
-tags: 
-- "Password Generator"]
+tags = ["Password Generator"]
 frameworks = ["Tauri"]
 architectures = ["x86_64"]
 license = ["GPL-3.0"]

@@ -6,8 +6,7 @@ date = "2025-07-18 18:13:00"
 categories = ["Development"]
 authors = ["Blaž Hrastnik"]
 tags = ["Code editor", "TUI"]
-frameworks:
-- "tui-rs"
+frameworks = ["tui-rs"]
 architectures = ["x86_64"]
 license = ["MPL-2.0"]
 +++

@@ -5,8 +5,7 @@ date = "2025-07-25 05:34:00"
 [taxonomies]
 categories = ["Games"]
 authors = ["Outer Wilds Mods"]
-tags: 
-- "Game Mods"
+tags = ["Game Mods"]
 architectures = ["x86_64"]
 license = ["GPL-3.0"]
 +++

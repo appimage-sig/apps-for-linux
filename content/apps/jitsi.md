@@ -5,8 +5,7 @@ date = "2026-02-04 19:42:00"
 [taxonomies]
 categories = ["Network"]
 authors = ["Jitsi team"]
-tags: 
-- "Conference calling", "Cross-platform software"]
+tags = ["Conference calling", "Cross-platform software"]
 frameworks = ["Electron"]
 architectures = ["x86_64", "arm64"]
 license = ["Apache-2.0"]

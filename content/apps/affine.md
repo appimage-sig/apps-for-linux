@@ -5,8 +5,7 @@ date = "2026-01-18 18:01:00"
 [taxonomies]
 categories = ["Productivity"]
 authors = ["TOEVERYTHING"]
-tags: 
-- "Knowledge Base", "Cross-platform software"]
+tags = ["Knowledge Base", "Cross-platform software"]
 frameworks = ["Electron"]
 architectures = ["x86_64"]
 license = ["MIT"]

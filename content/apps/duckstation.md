@@ -7,8 +7,7 @@ categories = ["Games"]
 authors = ["Connor McLaughlin"]
 tags = ["Console emulator", "PlayStation Emulator"]
 frameworks = ["Qt6"]
-architectures = ["x86_64", "arm64"]
-- "armv7l"
+architectures = ["x86_64", "arm64", "armv7l"]
 license = ["GPL-3.0"]
 +++
 

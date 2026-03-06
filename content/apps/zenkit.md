@@ -5,7 +5,7 @@ date = "2025-12-18 00:00:00"
 [taxonomies]
 categories = ["Productivity"]
 authors = ["Axonic"]
-tags = ["Project Management"
+tags = ["Project Management"]
 architectures = ["x86_64"]
 license = ["EULA"]
 +++

@@ -5,9 +5,7 @@ date = "2025-12-11 02:19:00"
 [taxonomies]
 categories = ["Games"]
 authors = ["Florian Märkl"]
-tags:
-- Game Simulator
-- Retro Game Simulator
+tags = ["Game Simulator", "Retro Game Simulator"]
 architectures = ["x86_64"]
 license = ["GPL-3.0"]
 +++

@@ -6,8 +6,7 @@ date = "2026-01-10 19:28:00"
 categories = ["Games"]
 authors = ["Flyinghead"]
 tags = ["Sega Emulator", "Console Emulator"]
-frameworks:
-- "IMGUI"
+frameworks = ["IMGUI"]
 architectures = ["x86_64"]
 license = ["GPL-2.0"]
 +++

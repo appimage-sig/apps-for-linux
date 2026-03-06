@@ -5,9 +5,7 @@ date = " 2022-12-26 08:48:00"
 [taxonomies]
 categories = ["Games"]
 authors = ["FLARE Team"]
-tags:
-- Game
-- OSS Game
+tags = ["Game", "OSS Game"]
 architectures = ["x86_64"]
 license = ["GPL-3.0"]
 +++

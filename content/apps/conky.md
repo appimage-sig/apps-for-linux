@@ -6,8 +6,7 @@ date = "2025-07-06 15:23:00"
 categories = ["Utilities"]
 authors = ["Brenden Matthews"]
 tags = ["System Monitor", "OSD"]
-frameworks:
-- "ncurses"
+frameworks = ["ncurses"]
 architectures = ["x86_64"]
 license = ["GPL-3.0"]
 +++

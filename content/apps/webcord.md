@@ -7,8 +7,7 @@ categories = ["Network"]
 authors = ["SpacingBat3"]
 tags = ["Messenger", "Discord client"]
 frameworks = ["Electron"]
-architectures = ["x86_64", "arm64"]
-- "armv7l"
+architectures = ["x86_64", "arm64", "armv7l"]
 license = ["MIT"]
 +++
 

@@ -5,8 +5,7 @@ date = "2025-12-18 16:44:00"
 [taxonomies] 	
 categories = ["AudioVideo"]
 authors = ["Kdenlive Team"]
-tags: 
-- "Video Editor"]
+tags = ["Video Editor"]
 frameworks = ["Qt6"]
 architectures = ["x86_64"]
 license = ["GPL-3.0"]

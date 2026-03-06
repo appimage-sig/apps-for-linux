@@ -6,8 +6,7 @@ date = "2025-12-07 19:29:00"
 categories = ["AudioVideo"]
 authors = ["Peter Rudenko and contributors"]
 tags = ["Audio editor"]
-frameworks:
-- "JUCE"
+frameworks = ["JUCE"]
 architectures = ["x86_64"]
 license = ["MIT"]
 +++

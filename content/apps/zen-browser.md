@@ -5,7 +5,7 @@ date = "2026-01-25T01:49:00"
 [taxonomies]
 categories = ["Network"]
 authors = ["Zen Browser Team"]
-tags = ["Browser", "Firefox-based"
+tags = ["Browser", "Firefox-based"]
 architectures = ["x86_64", "arm64"]
 license = ["MPL-2.0"]
 +++

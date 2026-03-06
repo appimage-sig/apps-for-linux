@@ -5,8 +5,7 @@ date = "2026-01-14T01:17:00"
 [taxonomies]
 categories = ["Finance"]
 authors = ["Blockstream"]
-tags: 
-- "Cryptocurrency"]
+tags = ["Cryptocurrency"]
 frameworks = ["Qt6"]
 architectures = ["x86_64"]
 license = ["GPL-3.0"]

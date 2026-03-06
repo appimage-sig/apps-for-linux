@@ -5,7 +5,7 @@ date = "2026-01-20 00:00:00"
 [taxonomies]
 categories = ["Science"]
 authors = ["Elsevier"]
-tags = ["Reference manager"
+tags = ["Reference manager"]
 architectures = ["x86_64"]
 license = ["EULA"]
 +++

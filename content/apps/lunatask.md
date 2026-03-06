@@ -5,7 +5,7 @@ date = "2025-12-22 20:02:00"
 [taxonomies]
 categories = ["Productivity"]
 authors = ["Michal Krejci"]
-tags = ["Notes", "To-do", "Cross-platform software"
+tags = ["Notes", "To-do", "Cross-platform software"]
 architectures = ["x86_64"]
 license = ["EULA"]
 +++

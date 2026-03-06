@@ -6,8 +6,7 @@ date = "2026-02-05 08:38:00"
 categories = ["Utilities"]
 authors = ["Umio Yasuno"]
 tags = ["Resource Monitor", "GPU", "TUI"]
-frameworks:
-- "egui", "cursive"
+frameworks = ["egui", "cursive"]
 architectures = ["x86_64", "arm64"]
 license = ["MIT"]  
 +++

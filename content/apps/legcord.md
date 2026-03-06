@@ -5,11 +5,9 @@ date = "2025-10-05 15:25:00"
 [taxonomies]
 categories = ["Network"]
 authors = ["Legcord"]
-tags = ["Messenger" 
-- "Discord client"]
+tags = ["Messenger", "Discord client"]
 frameworks = ["Electron"]
-architectures = ["x86_64", "arm64"]
-- "armv7l"
+architectures = ["x86_64", "arm64", "armv7l"]
 license = ["OSL-3.0"]
 +++
 
