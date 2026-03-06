@@ -5,7 +5,6 @@ date = "2025-11-15 19:20:00"
 [taxonomies]
 categories = ["Network"]
 authors = ["c0re100"]
-[taxonomies]]
 tags = ["Torrent client", "Download manager"]
 frameworks = ["Qt6"]
 architectures = ["x86_64"]
