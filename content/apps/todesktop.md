@@ -1,6 +1,6 @@
 +++
 title = "ToDesktop"
-description: "Web app to desktop app in minutes"
+description = "Web app to desktop app in minutes"
 date = "2025-12-11 00:00:00"
 [taxonomies]
 categories = ["Network"]
