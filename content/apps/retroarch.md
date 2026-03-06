@@ -1,18 +1,17 @@
----
++++
 title: "RetroArch"
 description: |
  "RetroArch is the reference frontend for the libretro API"
-pubDate: 2025-12-11T02:19:00Z
-categories: ["Games"]
-authors: ["Florian Märkl"]
+date: "2025-12-11 02:19:00"
+[taxonomies]
+categories = ["Games"]
+authors = ["Florian Märkl"]
 tags:
 - Game Simulator
 - Retro Game Simulator
-architectures: 
-- "x86_64"
-license: ["GPL-3.0"]
-draft: false
----
+architectures = ["x86_64"]
+license = ["GPL-3.0"]
++++
 
 RetroArch is the reference frontend for the libretro API
 

@@ -1,21 +1,16 @@
----
++++
 title: "RawTherapee"
 description: |
  "RawTherapee is a free, cross-platform raw image processing program"
-pubDate: 2025-05-28T09:47:00Z
-categories: ["Graphics"]
-authors: ["The RawTherapee Team"]
-tags:
-- "RAW processing"
-- "Image editor"
-frameworks:
-- "GTK+3"
-architectures: 
-- "x86_64"
-- "arm64"
-license: ["GPL-3.0"]
-draft: false
----
+date: "2025-05-28 09:47:00"
+[taxonomies]
+categories = ["Graphics"]
+authors = ["The RawTherapee Team"]
+tags = ["RAW processing", "Image editor"]
+frameworks = ["GTK+3"]
+architectures = ["x86_64", "arm64"]
+license = ["GPL-3.0"]
++++
 
 RawTherapee is a free, cross-platform raw image processing program
 

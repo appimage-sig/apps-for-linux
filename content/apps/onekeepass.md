@@ -1,19 +1,16 @@
----
++++
 title: "OneKeePass"
 description: |
  "OneKeePass is a cross-platform, open source and secure password manager"
-pubDate: 2025-11-10T20:55:00Z
-categories: ["Utilities"]
-authors: ["jeyasankar"]
-tags:
-- "Offline password manager"
-frameworks:
-- "Tauri"
-architectures: 
-- "x86_64"
-license: ["GPL-3.0"]
-draft: false
----
+date: "2025-11-10 20:55:00"
+[taxonomies]
+categories = ["Utilities"]
+authors = ["jeyasankar"]
+tags = ["Offline password manager"]
+frameworks = ["Tauri"]
+architectures = ["x86_64"]
+license = ["GPL-3.0"]
++++
 
 <img src="https://raw.githubusercontent.com/OneKeePass/desktop/refs/heads/main/screenshots/entrycategory-type-allentries.jpg" alt="Main Window">
 

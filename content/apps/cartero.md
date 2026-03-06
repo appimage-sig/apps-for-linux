@@ -1,20 +1,16 @@
----
++++
 title: "Cartero"
 description: |
  "Native, lightweight, multiplatform and free HTTP client that you can use to test your APIs"
-pubDate: 2025-11-15T00:20:00Z
-categories: ["Development"]
-authors: ["the Cartero authors"]
-tags:
-- "API Testing"
-frameworks:
-- "GTK4"
-architectures: 
-- "x86_64"
-- "arm64"
-license: ["GPL-3.0"]
-draft: false
----
+date: "2025-11-15 00:20:00"
+[taxonomies]
+categories = ["Development"]
+authors = ["the Cartero authors"]
+tags = ["API Testing"]
+frameworks = ["GTK4"]
+architectures = ["x86_64", "arm64"]
+license = ["GPL-3.0"]
++++
 
 <img src="https://raw.githubusercontent.com/danirod/cartero/trunk/data/screenshots/cartero-payload.png">
 

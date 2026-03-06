@@ -1,22 +1,17 @@
----
++++
 title: "SimpleX Chat"
 description: |
  "First messaging platform that has no user identifiers of any kind"
-pubDate: 2025-12-10T23:12:00Z
-categories: ["Network"]
-authors: ["SimpleX Chat"]
-tags:
-- "Messenger"
-- "Censorship-resistance software"
-- "Cross-platform software"
+date: "2025-12-10 23:12:00"
+[taxonomies]
+categories = ["Network"]
+authors = ["SimpleX Chat"]
+tags = ["Messenger", "Censorship-resistance software", "Cross-platform software"]
 frameworks:
 - "Java"
-architectures: 
-- "x86_64"
-- "arm64"
-license: ["AGPL-3.0"]
-draft: false
----
+architectures = ["x86_64", "arm64"]
+license = ["AGPL-3.0"]
++++
 
 <img src="https://simplex.chat/blog/images/simplex-desktop-light.png">
 

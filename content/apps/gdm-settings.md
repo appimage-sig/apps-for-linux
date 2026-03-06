@@ -1,19 +1,16 @@
----
++++
 title: "GDM Settings"
 description: |
  "A settings app for GNOME's Login Manager, GDM"
-pubDate: 2024-11-27T22:19:00Z
-categories: ["System"]
-authors: ["Mazhar Hussain"]
-tags:
-- "Appearance"
-frameworks:
-- "GTK4"
-architectures: 
-- "x86_64"
-license: ["AGPL-3.0"]
-draft: false
----
+date: " 2024-11-27 22:19:00"
+[taxonomies]
+categories = ["System"]
+authors = ["Mazhar Hussain"]
+tags = ["Appearance"]
+frameworks = ["GTK4"]
+architectures = ["x86_64"]
+license = ["AGPL-3.0"]
++++
 
 <img src="https://raw.githubusercontent.com/gdm-settings/screenshots/v5.0/light/default.png">
 

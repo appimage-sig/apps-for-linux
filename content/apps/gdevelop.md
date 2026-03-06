@@ -1,20 +1,16 @@
----
++++
 title: "GDevelop"
 description: |
  "Full-featured, no-code, open-source game development software"
-pubDate: 2026-01-16T12:40:00Z
-categories: ["Development"]
-authors: ["Florian Rival"]
-tags:
-- "Game development"
-frameworks:
-- "Electron"
-architectures: 
-- "x86_64"
-- "arm64"
-license: ["MIT"]
-draft: false
----
+date: "2026-01-16 12:40:00"
+[taxonomies]
+categories = ["Development"]
+authors = ["Florian Rival"]
+tags = ["Game development"]
+frameworks = ["Electron"]
+architectures = ["x86_64", "arm64"]
+license = ["MIT"]
++++
 
 <img src="https://raw.githubusercontent.com/4ian/GDevelop/master/newIDE/GDevelop%20screenshot.png">
 

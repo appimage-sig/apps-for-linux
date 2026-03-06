@@ -1,20 +1,16 @@
----
++++
 title: "CPU-X"
 description: |
  "Free software that gathers information on CPU, motherboard and more."
-pubDate: 2025-08-22T18:05:00Z
-categories: ["Utilities"]
-authors: ["The Tumultuous Unicorn Of Darkness"]
-tags:
-- "System Monitor"
-frameworks:
-- "GTK+3"
-architectures: 
-- "x86_64"
-- "arm64"
-license: ["GPL-3.0"]
-draft: false
----
+date: "2025-08-22 18:05:00"
+[taxonomies]
+categories = ["Utilities"]
+authors = ["The Tumultuous Unicorn Of Darkness"]
+tags = ["System Monitor"]
+frameworks = ["GTK+3"]
+architectures = ["x86_64", "arm64"]
+license = ["GPL-3.0"]
++++
 
 <img src="https://raw.githubusercontent.com/wiki/TheTumultuousUnicornOfDarkness/CPU-X/gallery/screenshots/v5.0.1_CPU_light.png">
 

@@ -1,20 +1,16 @@
----
++++
 title: "AntimicroX"
 description: |
  "Graphical program used to map gamepad keys to keyboard, mouse, scripts and macros"
-pubDate: 2025-01-27T22:21:00Z
-categories: ["Utilities"]
-authors: ["AntiMicroX Authors"]
-tags:
-- "Gamepad"
-- "Gaming controllers"
-frameworks:
-- "Qt6"
-architectures: 
-- "x86_64"
-license: ["GPL-3.0"]
-draft: false
----
+date: "2025-01-27 22:21:00"
+[taxonomies]
+categories = ["Utilities"]
+authors = ["AntiMicroX Authors"]
+tags = ["Gamepad", "Gaming controllers"]
+frameworks = ["Qt6"]
+architectures = ["x86_64"]
+license = ["GPL-3.0"]
++++
 
 <img src="https://raw.githubusercontent.com/AntiMicroX/antimicrox/refs/heads/master/other/appdata/screenshots/app_light.png" alt="Main Window (Light Theme)">
 

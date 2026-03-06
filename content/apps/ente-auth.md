@@ -1,20 +1,16 @@
----
++++
 title: "ente Auth"
 description: |
  "Open source 2FA authenticator, with end-to-end encrypted backups"
-pubDate: 2025-12-17T15:16:00Z
-categories: ["Productivity"]
-authors: ["Ente"]
-tags:
-- "Authentificator"
-- "Cross-platform software"
-frameworks:
-- "Flutter"
-architectures: 
-- "x86_64"
-license: ["GPL-3.0"]
-draft: false
----
+date: "2025-12-17 15:16:00"
+[taxonomies]
+categories = ["Productivity"]
+authors = ["Ente"]
+tags = ["Authentificator", "Cross-platform software"]
+frameworks = ["Flutter"]
+architectures = ["x86_64"]
+license = ["GPL-3.0"]
++++
 
 <img src="https://raw.githubusercontent.com/ente-io/ente/refs/heads/main/.github/assets/auth.png">
 

@@ -1,19 +1,16 @@
----
++++
 title: "Cardo"
 description: |
  "Cardo is a podcast client for desktop"
-pubDate: 2025-10-19T13:14:00Z
-categories: ["Network"]
-authors: ["n0vella"]
-tags:
-- "Podcast player"
-frameworks:
-- "Tauri"
-architectures: 
-- "x86_64"
-license: ["GPL-3.0"] 
-draft: false
----
+date: "2025-10-19 13:14:00"
+[taxonomies]
+categories = ["Network"]
+authors = ["n0vella"]
+tags = ["Podcast player"]
+frameworks = ["Tauri"]
+architectures = ["x86_64"]
+license = ["GPL-3.0"] 
++++
 
 <img src="https://raw.githubusercontent.com/cardo-podcast/cardo/refs/heads/master/assets/readme/1.png">
 

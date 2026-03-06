@@ -1,20 +1,16 @@
----
++++
 title: "GB Studio"
 description: |
  "A quick and easy to use drag and drop retro game creator for your favourite handheld video game system"
-pubDate: 2026-01-19T18:15:00Z
-categories: ["Development"]
-authors: ["Chris Maltby"]
-tags:
-- "Game development"
-frameworks:
-- "Electron"
-architectures: 
-- "x86_64"
-- "arm64"
-license: ["MIT"]
-draft: false
----
+date: "2026-01-19 18:15:00"
+[taxonomies]
+categories = ["Development"]
+authors = ["Chris Maltby"]
+tags = ["Game development"]
+frameworks = ["Electron"]
+architectures = ["x86_64", "arm64"]
+license = ["MIT"]
++++
 
 <img src="https://www.gbstudio.dev/img/home/screenshot_win_1_v4.png">
 

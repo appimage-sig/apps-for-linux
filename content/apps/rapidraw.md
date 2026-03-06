@@ -1,21 +1,16 @@
----
++++
 title: "RapidRAW"
 description: |
  "A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind."
-pubDate: 2026-01-27T00:06:00Z
-categories: ["Graphics"]
-authors: ["Timon Käch"]
-tags:
-- "RAW processing"
-- "Image editor"
-frameworks:
-- "Tauri"
-architectures: 
-- "x86_64"
-- "arm64"
-license: ["AGPL-3.0"]
-draft: false
----
+date: "2026-01-27 00:06:00"
+[taxonomies]
+categories = ["Graphics"]
+authors = ["Timon Käch"]
+tags = ["RAW processing", "Image editor"]
+frameworks = ["Tauri"]
+architectures = ["x86_64", "arm64"]
+license = ["AGPL-3.0"]
++++
 
 A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind.
 

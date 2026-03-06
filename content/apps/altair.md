@@ -1,20 +1,16 @@
----
++++
 title: "Altair"
 description: |
  "A beautiful feature-rich GraphQL Client"
-pubDate: 2025-12-20T18:47:00Z
-categories: ["Development"]
-authors: ["Samuel Imolorhe"]
-tags:
-- "GraphQL"
-frameworks:
-- "Tauri"
-architectures: 
-- "x86_64"
-- "arm64"
-license: ["MIT"]
-draft: false
----
+date: "2025-12-20 18:47:00"
+[taxonomies]
+categories = ["Development"]
+authors = ["Samuel Imolorhe"]
+tags = ["GraphQL"]
+frameworks = ["Tauri"]
+architectures = ["x86_64", "arm64"]
+license = ["MIT"]
++++
 
 <img src="https://raw.githubusercontent.com/altair-graphql/altair/refs/heads/master/packages/altair-docs/public/assets/img/app-shot.png
 

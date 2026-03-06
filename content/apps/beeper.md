@@ -1,22 +1,16 @@
----
++++
 title: "Beeper"
 description: |
  "Beeper is a universal chat app. With Beeper, you can send and receive messages to friends, family and colleagues on 14 different chat networks, all from a single app."
-pubDate: 2026-01-14T00:00:00Z
-categories: ["Network"]
-authors: ["Automattic"]
-tags:
-- "Messenger"
-- "Matrix"
-- "Cross-platform software"
-frameworks:
-- "Electron"
-architectures: 
-- "x86_64"
-- "arm64"
-license: ["EULA"]
-draft: false
----
+date: "2026-01-14 00:00:00"
+[taxonomies]
+categories = ["Network"]
+authors = ["Automattic"]
+tags = ["Messenger", "Matrix", "Cross-platform software"]
+frameworks = ["Electron"]
+architectures = ["x86_64", "arm64"]
+license = ["EULA"]
++++
 
 Beeper is a universal chat app. With Beeper, you can send and receive messages to friends, family and colleagues on 14 different chat networks, all from a single app.
 

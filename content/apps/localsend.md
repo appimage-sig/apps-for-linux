@@ -1,20 +1,16 @@
----
++++
 title: "Localsend"
 description: |
  "Open source cross-platform alternative to AirDrop"
-pubDate: 2025-02-20T04:23:00Z
-categories: ["Network"]
-authors: ["Tien Do Nam"]
-tags:
-- "Sending files"
-- "Cross-platform software"
-frameworks:
-- "Flutter"
-architectures: 
-- "x86_64"
-license: ["MIT"]
-draft: false
----
+date: "2025-02-20 04:23:00"
+[taxonomies]
+categories = ["Network"]
+authors = ["Tien Do Nam"]
+tags = ["Sending files", "Cross-platform software"]
+frameworks = ["Flutter"]
+architectures = ["x86_64"]
+license = ["MIT"]
++++
 
 <img src="https://localsend.org/img/screenshot-pc.webp">
 

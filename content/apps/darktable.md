@@ -1,20 +1,16 @@
----
++++
 title: "Darktable"
 description: |
  "darktable is an open source photography workflow application and raw developer"
-pubDate: 2026-02-05T12:30:00Z
-categories: ["Graphics"]
-authors: ["the darktable team"]
-tags:
-- "RAW processing"
-- "Image editor"
-frameworks:
-- "GTK+3"
-architectures: 
-- "x86_64"
-license: ["GPL-3.0"]
-draft: false
----
+date: "2026-02-05 12:30:00"
+[taxonomies]
+categories = ["Graphics"]
+authors = ["the darktable team"]
+tags = ["RAW processing", "Image editor"]
+frameworks = ["GTK+3"]
+architectures = ["x86_64"]
+license = ["GPL-3.0"]
++++
 
 <img src="https://user-images.githubusercontent.com/45535283/148689197-e53dd75f-32f1-4297-9a0f-a9547fd4e7c7.jpg">
 

@@ -1,20 +1,16 @@
----
++++
 title: "MusE"
 description: |
  "MusE is a digital audio workstation with support for both Audio and MIDI"
-pubDate: 2025-02-21T00:59:00Z
-categories: ["AudioVideo"]
-authors: ["The MusE development team"]
-tags:
-- "Audio editor"
-- "DAW"
-frameworks:
-- "Qt5"
-architectures: 
-- "x86_64"
-license: ["GPL-2.0"]
-draft: false
----
+date: "2025-02-21 00:59:00"
+[taxonomies]
+categories = ["AudioVideo"]
+authors = ["The MusE development team"]
+tags = ["Audio editor", "DAW"]
+frameworks = ["Qt5"]
+architectures = ["x86_64"]
+license = ["GPL-2.0"]
++++
 
 MusE is a digital audio workstation with support for both Audio and MIDI
 

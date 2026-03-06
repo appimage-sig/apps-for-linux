@@ -1,21 +1,16 @@
----
++++
 title: "Nuclear"
 description: |
  "Streaming music player that finds free music for you"
-pubDate: 2025-06-11T01:31:00Z
-categories: ["AudioVideo"]
-authors: ["nukeop"]
-tags:
-- "Music streaming client"
-- "YouTube Music client"
-- "Soundcloud client"
-frameworks:
-- "Electron"
-architectures: 
-- "x86_64"
-license: ["AGPL-3.0"]
-draft: false
----
+date: "2025-06-11T01:31:00"
+[taxonomies]
+categories = ["AudioVideo"]
+authors = ["nukeop"]
+tags = ["Music streaming client", "YouTube Music client", "Soundcloud client"]
+frameworks = ["Electron"]
+architectures = ["x86_64"]
+license = ["AGPL-3.0"]
++++
 
 <img src="https://raw.githubusercontent.com/nukeop/nuclear/refs/heads/master/screenshots/screenshot_default.jpg" alt="Main Screen">
 

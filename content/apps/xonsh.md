@@ -1,17 +1,15 @@
----
++++
 title: "xonsh"
 description: |
  "Python-powered, cross-platform, Unix-gazing shell language and command prompt."
-pubDate: 2026-01-14T08:06:00Z
-categories: ["System"]
-authors: ["the xonsh developers"]
-tags:
-- "Shell language"
-architectures: 
-- "x86_64"
-license: ["BSD-2-Clause"]
-draft: false
----
+date: "2026-01-14 08:06:00"
+[taxonomies]
+categories = ["System"]
+authors = ["the xonsh developers"]
+tags = ["Shell language"
+architectures = ["x86_64"]
+license = ["BSD-2-Clause"]
++++
 
 Python-powered, cross-platform, Unix-gazing shell language and command prompt
 

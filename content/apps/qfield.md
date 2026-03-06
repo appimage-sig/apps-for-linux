@@ -1,19 +1,16 @@
----
++++
 title: "QField"
 description: |
  "Geodata collection app."
-pubDate: 2026-01-11T18:28:00Z
-categories: ["Science"]
-authors: ["OPENGIS.ch"]
-tags:
-- "Geodata"
-frameworks:
-- "Qt6"
-architectures: 
-- "x86_64"
-license: ["GPL-2.0"]
-draft: false
----
+date: "2026-01-11 18:28:00"
+[taxonomies]
+categories = ["Science"]
+authors = ["OPENGIS.ch"]
+tags = ["Geodata"]
+frameworks = ["Qt6"]
+architectures = ["x86_64"]
+license = ["GPL-2.0"]
++++
 
 Geodata collection app.
 

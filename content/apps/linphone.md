@@ -1,21 +1,16 @@
----
++++
 title: "Linphone"
 description: |
  "Linphone is an open source SIP phone for voice/video calls, instant messaging and conference calling"
-pubDate: 2025-11-12T14:16:00Z
-categories: ["Network"]
-authors: ["Belledonne Communications"]
-tags:
-- "SIP Phone"
-- "Conference calling"
-- "Cross-platform software"
-frameworks:
-- "Qt6"
-architectures: 
-- "x86_64"
-license: ["GPL-3.0"]
-draft: false
----
+date: "2025-11-12 14:16:00"
+[taxonomies]
+categories = ["Network"]
+authors = ["Belledonne Communications"]
+tags = ["SIP Phone", "Conference calling", "Cross-platform software"]
+frameworks = ["Qt6"]
+architectures = ["x86_64"]
+license = ["GPL-3.0"]
++++
 
 Linphone is an open source SIP phone for voice/video calls, instant messaging and conference calling
 

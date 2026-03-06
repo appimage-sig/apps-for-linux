@@ -1,21 +1,16 @@
----
++++
 title: "Flow"
 description: |
  "Feature rich event, group and time managment system"
-pubDate: 2026-01-07T20:18:00Z
-categories: ["Productivity"]
-authors: ["LinwoodDev"]
-tags:
-- "Time management"
-- "Cross-platform software"
-frameworks:
-- "Flutter"
-architectures: 
-- "x86_64"
-- "arm64"
-license: ["AGPL-3.0"]
-draft: false
----
+date: "2026-01-07 20:18:00"
+[taxonomies]
+categories = ["Productivity"]
+authors = ["LinwoodDev"]
+tags = ["Time management", "Cross-platform software"]
+frameworks = ["Flutter"]
+architectures = ["x86_64", "arm64"]
+license = ["AGPL-3.0"]
++++
 
 Feature rich event, group and time managment system
 

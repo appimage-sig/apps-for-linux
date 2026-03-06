@@ -1,19 +1,15 @@
----
++++
 title: "ungoogled-chromium"
 description: |
  "ungoogled-chromium is Google Chromium, sans dependency on Google web services."
-pubDate: 2026-01-23T08:15:00Z
-categories: ["Network"]
-authors: ["The ungoogled-chromium Authors"]
-tags:
-- "Browser"
-- "Chromium"
-architectures: 
-- "x86_64"
-- "arm64"
-license: ["BSD-3-Clause"]
-draft: false
----
+date: "2026-01-23 08:15:00"
+[taxonomies]
+categories = ["Network"]
+authors = ["The ungoogled-chromium Authors"]
+tags = ["Browser", "Chromium"
+architectures = ["x86_64", "arm64"]
+license = ["BSD-3-Clause"]
++++
 
 ungoogled-chromium is Google Chromium, sans dependency on Google web services.
 

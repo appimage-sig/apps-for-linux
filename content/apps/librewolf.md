@@ -1,19 +1,15 @@
----
++++
 title: "LibreWolf"
 description: |
  "A custom version of Firefox, focused on privacy, security and freedom."
-pubDate: 2026-01-14T01:35:00Z
-categories: ["Network"]
-authors: ["LibreWolf"]
-tags:
-- "Firefox-based"
-- "Browser"
-architectures: 
-- "x86_64"
-- "arm64"
-license: ["MPL-2.0"]
-draft: false
----
+date: "2026-01-14T01:35:00"
+[taxonomies]
+categories = ["Network"]
+authors = ["LibreWolf"]
+tags = ["Firefox-based", "Browser"
+architectures = ["x86_64", "arm64"]
+license = ["MPL-2.0"]
++++
 
 A custom version of Firefox, focused on privacy, security and freedom.
 

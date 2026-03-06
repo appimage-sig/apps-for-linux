@@ -1,21 +1,16 @@
----
++++
 title: "deezer-desktop"
 description: |
  "An universal linux port of deezer, supporting Flatpak, Appimage, Snap, RPM, DEB."
-pubDate: 2026-01-21T02:16:00Z
-categories: ["AudioVideo"]
-authors: ["Aurélien Hamy"]
-tags:
-- "Music streaming client"
-- "Cross-platform software"
-frameworks:
-- "Electron"
-architectures: 
-- "x86_64"
-- "arm64"
-license: ["MIT"]
-draft: false
----
+date: "2026-01-21 02:16:00"
+[taxonomies]
+categories = ["AudioVideo"]
+authors = ["Aurélien Hamy"]
+tags = ["Music streaming client", "Cross-platform software"]
+frameworks = ["Electron"]
+architectures = ["x86_64", "arm64"]
+license = ["MIT"]
++++
 
 <img src="https://raw.githubusercontent.com/flathub/dev.aunetx.deezer/master/screenshots/screenshot_dark.png">
 

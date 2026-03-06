@@ -1,19 +1,16 @@
----
++++
 title: "ProtonUp-Qt"
 description: |
  "Install and manage GE-Proton and Luxtorpeda for Steam and Wine-GE for Lutris with this graphical user interface"
-pubDate: 2025-09-22T16:56:00Z
-categories: ["Games"]
-authors: ["DavidoTek"]
-tags:
-- "Wine version manager"
-frameworks:
-- "Qt6"
-architectures: 
-- "x86_64"
-license: ["GPL-3.0"]
-draft: false
----
+date: "2025-09-22 16:56:00"
+[taxonomies]
+categories = ["Games"]
+authors = ["DavidoTek"]
+tags = ["Wine version manager"]
+frameworks = ["Qt6"]
+architectures = ["x86_64"]
+license = ["GPL-3.0"]
++++
 
 Install and manage GE-Proton and Luxtorpeda for Steam and Wine-GE for Lutris with this graphical user interface
 

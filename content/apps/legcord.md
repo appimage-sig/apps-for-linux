@@ -1,22 +1,18 @@
----
++++
 title: "Legcord"
 description: |
  "Legcord is a custom client designed to enhance your Discord experience while keeping everything lightweight"
-pubDate: 2025-10-05T15:25:00Z
-categories: ["Network"]
-authors: ["Legcord"]
-tags:
-- "Messenger" 
-- "Discord client"
-frameworks:
-- "Electron"
-architectures: 
-- "x86_64"
-- "arm64"
+date: "2025-10-05 15:25:00"
+[taxonomies]
+categories = ["Network"]
+authors = ["Legcord"]
+tags = ["Messenger" 
+- "Discord client"]
+frameworks = ["Electron"]
+architectures = ["x86_64", "arm64"]
 - "armv7l"
-license: ["OSL-3.0"]
-draft: false
----
+license = ["OSL-3.0"]
++++
 
 Legcord is a custom client designed to enhance your Discord experience while keeping everything lightweight
 

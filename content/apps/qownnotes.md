@@ -1,19 +1,16 @@
----
++++
 title: "QOwnNotes"
 description: |
  "Open source notepad with Markdown support and todo list manager for GNU/Linux"
-pubDate: 2026-01-17T16:08:00Z
-categories: ["Productivity"]
-authors: ["Patrizio Bekerle"]
-tags:
-- "Notes"
-frameworks:
-- "Qt6"
-architectures: 
-- "x86_64"
-license: ["GPL-2.0"]
-draft: false
----
+date: "2026-01-17 16:08:00"
+[taxonomies]
+categories = ["Productivity"]
+authors = ["Patrizio Bekerle"]
+tags = ["Notes"]
+frameworks = ["Qt6"]
+architectures = ["x86_64"]
+license = ["GPL-2.0"]
++++
 
 <img src="https://raw.githubusercontent.com/pbek/QOwnNotes/refs/heads/main/screenshots/screenshot.png">
 

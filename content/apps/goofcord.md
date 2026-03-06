@@ -1,20 +1,16 @@
----
++++
 title: "GoofCord"
 description: |
  "Take control of your Discord experience with GoofCord – the highly configurable and privacy-focused Discord client"
-pubDate: 2026-01-17T13:54:00Z
-categories: ["Network"]
-authors: ["Milkshift"]
-tags:
-- "Messenger"
-- "Discord client"
-frameworks:
-- "Electron"
-architectures: 
-- "x86_64"
-license: ["OSL-3.0"]
-draft: false
----
+date: "2026-01-17 13:54:00"
+[taxonomies]
+categories = ["Network"]
+authors = ["Milkshift"]
+tags = ["Messenger", "Discord client"]
+frameworks = ["Electron"]
+architectures = ["x86_64"]
+license = ["OSL-3.0"]
++++
 
 <img src="https://raw.githubusercontent.com/Milkshiift/GoofCord/refs/heads/main/assetsDev/screenshot1_rounded.png">
 

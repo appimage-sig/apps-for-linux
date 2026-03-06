@@ -1,19 +1,16 @@
----
++++
 title: "PYDT"
 description: |
  "Civilization 5 / 6 / Beyond Earth / Old World Hotseat Multiplayer Management."
-pubDate: 2025-07-06T21:19:00Z
-categories: ["Games"]
-authors: ["Michael Rosack"]
-tags:
-- "Game client"
-frameworks:
-- "Electron"
-architectures: 
-- "x86_64"
-license: ["MIT"]
-draft: false
----
+date: "2025-07-06 21:19:00"
+[taxonomies]
+categories = ["Games"]
+authors = ["Michael Rosack"]
+tags = ["Game client"]
+frameworks = ["Electron"]
+architectures = ["x86_64"]
+license = ["MIT"]
++++
 
 Civilization 5 / 6 / Beyond Earth / Old World Hotseat Multiplayer Management.
 

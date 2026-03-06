@@ -1,19 +1,16 @@
----
++++
 title: "Arduino IDE"
 description: |
  "The open-source Arduino Software (IDE) makes it easy to write code and upload it to the board"
-pubDate: 2025-12-17T19:17:00Z
-categories: ["Development"]
-authors: ["Arduino"]
-tags:
-- "IDE"
-frameworks:
-- "Electron"
-architectures: 
-- "x86_64"
-license: ["AGPL-3.0"]
-draft: false
----
+date: "2025-12-17 19:17:00"
+[taxonomies]
+categories = ["Development"]
+authors = ["Arduino"]
+tags = ["IDE"]
+frameworks = ["Electron"]
+architectures = ["x86_64"]
+license = ["AGPL-3.0"]
++++
 
 <img src="https://raw.githubusercontent.com/arduino/arduino-ide/refs/heads/main/static/screenshot.png" alt="Main Window (Light Theme)">
 

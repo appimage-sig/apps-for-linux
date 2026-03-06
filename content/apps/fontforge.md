@@ -1,19 +1,16 @@
----
++++
 title: "FontForge"
 description: |
  "An outline font editor"
-pubDate: 2025-10-09T22:23:00Z
-categories: ["Graphics"]
-authors: ["FontForge Project contributors"]
-tags:
-- "Font editor"
-frameworks:
-- "GTK+3"
-architectures: 
-- "x86_64"
-license: ["GPL-3.0"]
-draft: false
----
+date: "2025-10-09 22:23:00"
+[taxonomies]
+categories = ["Graphics"]
+authors = ["FontForge Project contributors"]
+tags = ["Font editor"]
+frameworks = ["GTK+3"]
+architectures = ["x86_64"]
+license = ["GPL-3.0"]
++++
 
 <img src="https://raw.githubusercontent.com/fontforge/fontforge/master/desktop/ff-screenshot.png">
 

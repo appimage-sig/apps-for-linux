@@ -1,20 +1,16 @@
----
++++
 title: "Aptakube"
 description: |
  "Modern, lightweight and multi-cluster Kubernetes GUI"
-pubDate: 2025-12-10T14:07:00Z
-categories: ["Development"]
-authors: ["Sumbit Labs Limited"]
-tags:
-- "Kubernetes"
-- "IDE"
-frameworks:
-- "Tauri"
-architectures: 
-- "x86_64"
-license: ["EULA"]
-draft: false
----
+date: "2025-12-10 14:07:00"
+[taxonomies]
+categories = ["Development"]
+authors = ["Sumbit Labs Limited"]
+tags = ["Kubernetes", "IDE"]
+frameworks = ["Tauri"]
+architectures = ["x86_64"]
+license = ["EULA"]
++++
 <img src="https://aptakube.com/screenshot.png" alt="Main Window (Dark Theme)">
 
 Modern, lightweight and multi-cluster Kubernetes GUI

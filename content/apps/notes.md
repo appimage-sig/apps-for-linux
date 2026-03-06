@@ -1,19 +1,16 @@
----
++++
 title: "Notes"
 description: |
  "Notes is an open source and cross-platform note-taking app that is both beautiful and powerful"
-pubDate: 2024-10-01T15:59:00Z
-categories: ["Productivity"]
-authors: ["Ruby Mamistvalove"]
-tags:
-- "Notes"
-frameworks:
-- "Qt6"
-architectures: 
-- "x86_64"
-license: ["MPL-2.0"]
-draft: false
----
+date: " 2024-10-01 15:59:00"
+[taxonomies]
+categories = ["Productivity"]
+authors = ["Ruby Mamistvalove"]
+tags = ["Notes"]
+frameworks = ["Qt6"]
+architectures = ["x86_64"]
+license = ["MPL-2.0"]
++++
 
 Notes is an open source and cross-platform note-taking app that is both beautiful and powerful
 

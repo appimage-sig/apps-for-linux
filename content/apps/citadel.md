@@ -1,19 +1,16 @@
----
++++
 title: "Citadel"
 description: |
  "Manage your ebook library without frustrations. Calibre compatible."
-pubDate: 2024-10-29T10:25:00Z
-categories: ["Productivity"]
-authors: ["Phil Denhoff"]
-tags:
-- "eBook reader"
-frameworks:
-- "Tauri"
-architectures: 
-- "x86_64"
-license: ["MIT"]
-draft: false
----
+date: " 2024-10-29 10:25:00"
+[taxonomies]
+categories = ["Productivity"]
+authors = ["Phil Denhoff"]
+tags = ["eBook reader"]
+frameworks = ["Tauri"]
+architectures = ["x86_64"]
+license = ["MIT"]
++++
 
 Manage your ebook library without frustrations. Calibre compatible.
 

@@ -1,19 +1,16 @@
----
++++
 title: "digiKam"
 description: |
  "Professional Photo Management with Power of Open Source"
-pubDate: 2025-10-17T15:56:00Z
-categories: ["Graphics"]
-authors: ["digiKam Team"]
-tags:
-- "Photo Management"
-frameworks:
-- "Qt6"
-architectures: 
-- "x86_64"
-license: ["GPL-2.0"]
-draft: false
----
+date: "2025-10-17 15:56:00"
+[taxonomies]
+categories = ["Graphics"]
+authors = ["digiKam Team"]
+tags = ["Photo Management"]
+frameworks = ["Qt6"]
+architectures = ["x86_64"]
+license = ["GPL-2.0"]
++++
 
 Professional Photo Management with Power of Open Source
 

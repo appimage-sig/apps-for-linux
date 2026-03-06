@@ -1,20 +1,17 @@
----
++++
 title: "AFFiNE"
 description: |
  "AFFiNE is a workspace with fully merged docs, whiteboards and databases. Get more things done, your creativity isn’t monotone"
-pubDate: 2026-01-18T18:01:00Z
-categories: ["Productivity"]
-authors: ["TOEVERYTHING"]
+date: "2026-01-18 18:01:00"
+[taxonomies]
+categories = ["Productivity"]
+authors = ["TOEVERYTHING"]
 tags: 
-- "Knowledge Base"
-- "Cross-platform software"
-frameworks:
-- "Electron"
-architectures: 
-- "x86_64"
-license: ["MIT"]
-draft: false
----
+- "Knowledge Base", "Cross-platform software"]
+frameworks = ["Electron"]
+architectures = ["x86_64"]
+license = ["MIT"]
++++
 
 <img src="https://affine.pro/overview/Write.jpg" alt="Document writing interface with block-based editing">
 

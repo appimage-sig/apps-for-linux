@@ -1,22 +1,16 @@
----
++++
 title: "Saber"
 description: |
  "Cross-platform libre handwritten notes app"
-pubDate: 2026-02-01T23:16:00Z
-categories: ["Productivity"]
-authors: ["Adil Hanney"]
-tags:
-- "Notes"
-- "Handwriting"
-- "Cross-platform software"
-frameworks:
-- "Flutter"
-architectures: 
-- "x86_64"
-- "arm64"
-license: ["GPL-3.0"]
-draft: false
----
+date: "2026-02-01 23:16:00"
+[taxonomies]
+categories = ["Productivity"]
+authors = ["Adil Hanney"]
+tags = ["Notes", "Handwriting", "Cross-platform software"]
+frameworks = ["Flutter"]
+architectures = ["x86_64", "arm64"]
+license = ["GPL-3.0"]
++++
 
 <img src="https://raw.githubusercontent.com/saber-notes/saber/main/metadata/en-US/images/tenInchScreenshots/1_home.png">
 

@@ -1,19 +1,16 @@
----
++++
 title: "Insomnia"
 description: |
  "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC"
-pubDate: 2026-01-15T04:39:00Z
-categories: ["Development"]
-authors: ["Kong"]
-tags:
-- "API Testing"
-frameworks:
-- "Electron"
-architectures: 
-- "x86_64"
-license: ["MIT"]
-draft: false
----
+date: "2026-01-15 04:39:00"
+[taxonomies]
+categories = ["Development"]
+authors = ["Kong"]
+tags = ["API Testing"]
+frameworks = ["Electron"]
+architectures = ["x86_64"]
+license = ["MIT"]
++++
 
 <img src="https://raw.githubusercontent.com/Kong/insomnia/develop/screenshots/main.png">
 

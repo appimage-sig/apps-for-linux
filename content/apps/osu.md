@@ -1,17 +1,15 @@
----
++++
 title: "osu!"
 description: |
  "Free-to-win rhythm game"
-pubDate: 2026-01-19T13:39:00Z
-categories: ["Games"]
-authors: ["Dean Herbert"]
-tags:
-- "OSS Game"
-architectures: 
-- "x86_64"
-license: ["MIT"]
-draft: false
----
+date: "2026-01-19 13:39:00"
+[taxonomies]
+categories = ["Games"]
+authors = ["Dean Herbert"]
+tags = ["OSS Game"
+architectures = ["x86_64"]
+license = ["MIT"]
++++
 
 Free-to-win rhythm game
 

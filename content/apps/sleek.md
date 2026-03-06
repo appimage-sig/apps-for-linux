@@ -1,20 +1,16 @@
----
++++
 title: "Sleek"
 description: |
  "Open-source (FOSS) todo manager based on the todo.txt syntax"
-pubDate: 2025-11-30T10:37:00Z
-categories: ["Productivity"]
-authors: ["Robin Ahle"]
-tags:
-- "To-do"
-frameworks:
-- "Electron"
-architectures: 
-- "x86_64"
-- "arm64"
-license: ["MIT"]
-draft: false
----
+date: "2025-11-30 10:37:00"
+[taxonomies]
+categories = ["Productivity"]
+authors = ["Robin Ahle"]
+tags = ["To-do"]
+frameworks = ["Electron"]
+architectures = ["x86_64", "arm64"]
+license = ["MIT"]
++++
 
 <img src="https://github.com/ransome1/sleek/assets/11188741/304d2da2-e8bd-4901-9d12-04a0f5426317">
 

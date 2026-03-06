@@ -1,20 +1,16 @@
----
++++
 title: "Prism Launcher"
 description: |
  "A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)"
-pubDate: 2026-01-11T22:00:00Z
-categories: ["Games"]
-authors: ["Prism Launcher Contributors"]
-tags:
-- "Minecraft launcher"
-frameworks:
-- "Qt6"
-architectures: 
-- "x86_64"
-- "arm64"
-license: ["GPL-3.0"]
-draft: false
----
+date: "2026-01-11 22:00:00"
+[taxonomies]
+categories = ["Games"]
+authors = ["Prism Launcher Contributors"]
+tags = ["Minecraft launcher"]
+frameworks = ["Qt6"]
+architectures = ["x86_64", "arm64"]
+license = ["GPL-3.0"]
++++
 
 A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
 

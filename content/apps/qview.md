@@ -1,19 +1,16 @@
----
++++
 title: "qView"
 description: |
  "Practical and minimal image viewer"
-pubDate: 2025-07-27T01:25:00Z
-categories: ["Graphics"]
-authors: ["Benjamin O"]
-tags:
-- "Image Viewer"
-frameworks:
-- "Qt6"
-architectures: 
-- "x86_64"
-license: ["GPL-3.0"]
-draft: false
----
+date: "2025-07-27T01:25:00"
+[taxonomies]
+categories = ["Graphics"]
+authors = ["Benjamin O"]
+tags = ["Image Viewer"]
+frameworks = ["Qt6"]
+architectures = ["x86_64"]
+license = ["GPL-3.0"]
++++
 
 Practical and minimal image viewer
 

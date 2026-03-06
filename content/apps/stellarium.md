@@ -1,19 +1,16 @@
----
++++
 title: "Stellarium"
 description: |
  "Stellarium is a free open source planetarium for your computer."
-pubDate: 2025-09-29T17:16:00Z
-categories: ["Science"]
-authors: ["Stellarium contributors"]
-tags:
-- "Planetarium"
-frameworks:
-- "Qt6"
-architectures: 
-- "x86_64"
-license: ["GPL-2.0"]
-draft: false
----
+date: "2025-09-29 17:16:00"
+[taxonomies]
+categories = ["Science"]
+authors = ["Stellarium contributors"]
+tags = ["Planetarium"]
+frameworks = ["Qt6"]
+architectures = ["x86_64"]
+license = ["GPL-2.0"]
++++
 
 Stellarium is a free open source planetarium for your computer
 

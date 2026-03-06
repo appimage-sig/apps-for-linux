@@ -1,23 +1,16 @@
----
++++
 title: "OpenRGB"
 description: |
  "Open source RGB lighting control that doesn't depend on manufacturer software"
-pubDate: 2025-09-14T22:32:00Z
-categories: ["Utilities"]
-authors: ["Adam Honse"]
-tags:
-- "Hardware controller"
-- "RGB lighting control"
-frameworks:
-- "Qt5"
-architectures: 
-- "x86_64"
-- "x86"
-- "arm64"
-- "armv7l"
-license: ["GPL-2.0"]
-draft: false
----
+date: "2025-09-14 22:32:00"
+[taxonomies]
+categories = ["Utilities"]
+authors = ["Adam Honse"]
+tags = ["Hardware controller", "RGB lighting control"]
+frameworks = ["Qt5"]
+architectures = ["x86_64", "x86", "arm64", "armv7l"]
+license = ["GPL-2.0"]
++++
 
 <img src="https://gitlab.com/CalcProgrammer1/OpenRGB/-/raw/master/Documentation/Images/OpenRGB_Screenshot.png" alt="Main Window">
 

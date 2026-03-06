@@ -1,19 +1,15 @@
----
++++
 title: "appimagecraft"
 description: |
  "appimagecraft completely automates the AppImage build process"
-pubDate: 2026-01-19T04:55:00Z
-categories: ["Development"]
-authors: ["TheAssassin"]
-tags:
-- "AppImage"
-- "TUI"
-architectures: 
-- "x86_64"
-- "arm64"
-license: ["MIT"]
-draft: false
----
+date: "2026-01-19 04:55:00"
+[taxonomies]
+categories = ["Development"]
+authors = ["TheAssassin"]
+tags = ["AppImage", "TUI"
+architectures = ["x86_64", "arm64"]
+license = ["MIT"]
++++
 
 appimagecraft completely automates the AppImage build process
 

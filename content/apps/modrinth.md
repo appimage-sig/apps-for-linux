@@ -1,20 +1,16 @@
----
++++
 title: "Modrinth"
 description: |
  "Open-source mod platform, built by the community, for the community."
-pubDate: 2025-12-12T23:55:00Z
-categories: ["Games"]
-authors: ["Rinth"]
-tags:
-- "Gaming tool"
-- "Mod marketplace"
-frameworks:
-- "Tauri"
-architectures: 
-- "x86_64"
-license: ["GPL-3.0"]
-draft: false
----
+date: "2025-12-12 23:55:00"
+[taxonomies]
+categories = ["Games"]
+authors = ["Rinth"]
+tags = ["Gaming tool", "Mod marketplace"]
+frameworks = ["Tauri"]
+architectures = ["x86_64"]
+license = ["GPL-3.0"]
++++
 
 <img src="https://cdn-raw.modrinth.com/app-landing/app-screenshot.webp">
 

@@ -1,19 +1,17 @@
----
++++
 title: "Hotspot"
 description: |
  "Linux perf GUI for performance analysis."
-pubDate: 2026-01-29T00:59:00Z
-categories: ["System"]
-authors: ["Klarälvdalens Datakonsult"]
+date: "2026-01-29 00:59:00"
+[taxonomies]
+categories = ["System"]
+authors = ["Klarälvdalens Datakonsult"]
 tags: 
-- "Resource Monitor"
-frameworks:
-- "Qt6"
-architectures: 
-- "x86_64"
-license: ["GPL-2.0"]
-draft: false
----
+- "Resource Monitor"]
+frameworks = ["Qt6"]
+architectures = ["x86_64"]
+license = ["GPL-2.0"]
++++
 
 <img src="https://raw.githubusercontent.com/KDAB/hotspot/refs/heads/master/screenshots/summary.png">
 

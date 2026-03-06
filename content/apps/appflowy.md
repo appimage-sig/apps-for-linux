@@ -1,20 +1,16 @@
----
++++
 title: "AppFlowy"
 description: |
  "Open-source alternative to Notion. You are in charge of your data and customizations"
-pubDate: 2026-01-12T11:18:00Z
-categories: ["Productivity"]
-authors: ["AppFlowy"]
-tags:
-- "Knowledge Base"
-- "Cross-platform software"
-frameworks:
-- "Flutter"
-architectures: 
-- "x86_64"
-license: ["AGPL-3.0"]
-draft: false
----
+date: "2026-01-12 11:18:00"
+[taxonomies]
+categories = ["Productivity"]
+authors = ["AppFlowy"]
+tags = ["Knowledge Base", "Cross-platform software"]
+frameworks = ["Flutter"]
+architectures = ["x86_64"]
+license = ["AGPL-3.0"]
++++
 
 <img src="https://raw.githubusercontent.com/AppFlowy-IO/appflowy/main/doc/imgs/welcome.png" alt="Main Window (Light Theme)">
 

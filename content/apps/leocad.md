@@ -1,19 +1,16 @@
----
++++
 title: "LeoCAD"
 description: |
  "A CAD application for creating virtual LEGO models"
-pubDate: 2025-09-02T03:31:00Z
-categories: ["Graphics"]
-authors: ["Leonardo Zide"]
-tags:
-- "CAD"
-frameworks:
-- "Qt5"
-architectures: 
-- "x86_64"
-license: ["GPL-2.0"]
-draft: false
----
+date: "2025-09-02 03:31:00"
+[taxonomies]
+categories = ["Graphics"]
+authors = ["Leonardo Zide"]
+tags = ["CAD"]
+frameworks = ["Qt5"]
+architectures = ["x86_64"]
+license = ["GPL-2.0"]
++++
 
 <img src="https://www.leocad.org/towerbridge.png">
 

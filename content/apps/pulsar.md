@@ -1,20 +1,16 @@
----
++++
 title: "Pulsar"
 description: |
  "A Community-led Hyper-Hackable Text Editor"
-pubDate: 2025-10-10T03:15:00Z
-categories: ["Development"]
-authors: ["Pulsar-Edit Original work"]
-tags:
-- "Code editor"
-frameworks:
-- "Electron"
-architectures: 
-- "x86_64"
-- "arm64"
-license: ["MIT"]
-draft: false
----
+date: "2025-10-10 03:15:00"
+[taxonomies]
+categories = ["Development"]
+authors = ["Pulsar-Edit Original work"]
+tags = ["Code editor"]
+frameworks = ["Electron"]
+architectures = ["x86_64", "arm64"]
+license = ["MIT"]
++++
 
 A Community-led Hyper-Hackable Text Editor
 

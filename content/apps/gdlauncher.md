@@ -1,19 +1,16 @@
----
++++
 title: "GDLauncher"
 description: |
  "GDLauncher is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience"
-pubDate: 2025-01-12T12:28:00Z
-categories: ["Games"]
-authors: ["Gorilla Devs"]
-tags:
-- "Minecraft Launcher"
-frameworks:
-- "Electron"
-architectures: 
-- "x86_64"
-license: ["BUSL-1.1"]
-draft: false
----
+date: "2025-01-12 12:28:00"
+[taxonomies]
+categories = ["Games"]
+authors = ["Gorilla Devs"]
+tags = ["Minecraft Launcher"]
+frameworks = ["Electron"]
+architectures = ["x86_64"]
+license = ["BUSL-1.1"]
++++
 
 <img src="https://cdn.gdl.gg/assets/website-home-app-screenshot.webp">
 

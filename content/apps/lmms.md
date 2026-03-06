@@ -1,21 +1,16 @@
----
++++
 title: "LMMS"
 description: |
  "LMMS is an open-source cross-platform digital audio workstation designed for music production."
-pubDate: 2021-12-13T02:07:00Z
-categories: ["AudioVideo"]
-authors: ["LMMS"]
-tags:
-- "DAW"
-- "Audio Editor"
-frameworks:
-- "Qt5"
-architectures: 
-- "x86_64"
-- "arm64"
-license: ["GPL-2.0"]
-draft: false
----
+date: " 2021-12-13 02:07:00"
+[taxonomies]
+categories = ["AudioVideo"]
+authors = ["LMMS"]
+tags = ["DAW", "Audio Editor"]
+frameworks = ["Qt5"]
+architectures = ["x86_64", "arm64"]
+license = ["GPL-2.0"]
++++
 
 LMMS is an open-source cross-platform digital audio workstation designed for music production.
 

@@ -1,20 +1,16 @@
----
++++
 title: "Audacity"
 description: |
  "Easy-to-use, multi-track audio editor and recorder"
-pubDate: 2025-12-11T22:48:00Z
-categories: ["AudioVideo"]
-authors: ["Audacity Developer Team"]
-tags:
-- "Audio recording"
-- "DAW"
-frameworks:
-- "Qt6"
-architectures: 
-- "x86_64"
-license: ["GPL-3.0"]
-draft: false
----
+date: "2025-12-11 22:48:00"
+[taxonomies]
+categories = ["AudioVideo"]
+authors = ["Audacity Developer Team"]
+tags = ["Audio recording", "DAW"]
+frameworks = ["Qt6"]
+architectures = ["x86_64"]
+license = ["GPL-3.0"]
++++
 
 Easy-to-use, multi-track audio editor and recorder
 

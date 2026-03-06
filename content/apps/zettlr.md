@@ -1,21 +1,18 @@
----
++++
 title: "Zettlr"
 description: |
  "Your One-Stop Publication Workbench"
-pubDate: 2026-01-28T11:27:00Z
-categories: ["Productivity"]
-authors: ["Hendrik Erz"]
-tags:
-- "Notes"
-frameworks:
-- "Electron"
-architectures: 
-- "x86_64"
-- "arm64"
-license: ["GPL-3.0"]
+date: "2026-01-28 11:27:00"
+[taxonomies]
+categories = ["Productivity"]
+authors = ["Hendrik Erz"]
+tags = ["Notes"]
+frameworks = ["Electron"]
+architectures = ["x86_64", "arm64"]
+license = ["GPL-3.0"]
 draft: false
 
----
++++
 
 <img src="https://raw.githubusercontent.com/Zettlr/Zettlr/refs/heads/develop/resources/screenshots/zettlr_view.png">
 

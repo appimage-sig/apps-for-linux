@@ -1,20 +1,16 @@
----
++++
 title: "Frigoligo"
 description: |
  "Frigoligo is a wallabag client crafted using Flutter"
-pubDate: 2025-03-14T20:30:00Z
-categories: ["Network"]
-authors: ["Martin Chaine"]
-tags:
-- "Bookmark manager"
-frameworks:
-- "Flutter"
-architectures: 
-- "x86_64"
-- "arm64"
-license: ["MIT"]
-draft: false
----
+date: "2025-03-14 20:30:00"
+[taxonomies]
+categories = ["Network"]
+authors = ["Martin Chaine"]
+tags = ["Bookmark manager"]
+frameworks = ["Flutter"]
+architectures = ["x86_64", "arm64"]
+license = ["MIT"]
++++
 
 <img src="https://raw.githubusercontent.com/casimir/frigoligo/refs/heads/main/assets/screenshots/desktop.png">
 

@@ -1,18 +1,17 @@
----
++++
 title: "Flare"
 description: |
  "Fantasy action RPG using the FLARE engine"
-pubDate: 2022-12-26T08:48:00Z
-categories: ["Games"]
-authors: ["FLARE Team"]
+date: " 2022-12-26 08:48:00"
+[taxonomies]
+categories = ["Games"]
+authors = ["FLARE Team"]
 tags:
 - Game
 - OSS Game
-architectures: 
-- "x86_64"
-license: ["GPL-3.0"]
-draft: false
----
+architectures = ["x86_64"]
+license = ["GPL-3.0"]
++++
 
 <img src="https://raw.githubusercontent.com/flareteam/flare-game/refs/heads/master/distribution/screenshot1.jpg">
 

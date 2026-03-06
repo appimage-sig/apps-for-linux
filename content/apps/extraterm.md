@@ -1,19 +1,16 @@
----
++++
 title: "Extraterm"
 description: |
  "The swiss army chainsaw of terminal emulators."
-pubDate: 2025-07-02T19:15:00Z
-categories: ["System"]
-authors: ["Simon Edwards"]
-tags:
-- "Terminal"
-frameworks:
-- "Qt6"
-architectures: 
-- "x86_64"
-license: ["MIT"]
-draft: false
----
+date: "2025-07-02 19:15:00"
+[taxonomies]
+categories = ["System"]
+authors = ["Simon Edwards"]
+tags = ["Terminal"]
+frameworks = ["Qt6"]
+architectures = ["x86_64"]
+license = ["MIT"]
++++
 
 <img src="https://extraterm.org/minimap_450.png">
 

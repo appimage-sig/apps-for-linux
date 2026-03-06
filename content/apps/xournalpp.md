@@ -1,21 +1,16 @@
----
++++
 title: "Xournal++"
 description: |
  "Handwriting notetaking software with PDF annotation support"
-pubDate: 2025-12-22T01:12:00Z
-categories: ["Productivity"]
-authors: ["Xournal Team"]
-tags:
-- "Notes"
-- "Handwriting"
-frameworks:
-- "GTK+3"
-architectures: 
-- "x86_64"
-- "arm64"
-license: ["GPL-2.0"]
-draft: false
----
+date: "2025-12-22 01:12:00"
+[taxonomies]
+categories = ["Productivity"]
+authors = ["Xournal Team"]
+tags = ["Notes", "Handwriting"]
+frameworks = ["GTK+3"]
+architectures = ["x86_64", "arm64"]
+license = ["GPL-2.0"]
++++
 
 <img src="https://xournalpp.github.io/img/Physics%20Problem.png" alt="Main Screen">
 

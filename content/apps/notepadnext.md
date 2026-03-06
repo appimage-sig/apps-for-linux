@@ -1,19 +1,16 @@
----
++++
 title: "NotepadNext"
 description: |
  "A cross-platform, reimplementation of Notepad++"
-pubDate: 2026-01-25T23:21:00Z
-categories: ["Development"]
-authors: ["Justin Dailey"]
-tags:
-- "Code editor"
-frameworks:
-- "Qt6"
-architectures: 
-- "x86_64"
-license: ["GPL-3.0"]
-draft: false
----
+date: "2026-01-25 23:21:00"
+[taxonomies]
+categories = ["Development"]
+authors = ["Justin Dailey"]
+tags = ["Code editor"]
+frameworks = ["Qt6"]
+architectures = ["x86_64"]
+license = ["GPL-3.0"]
++++
 
 <img src="https://raw.githubusercontent.com/dail8859/NotepadNext/master/doc/screenshot_linux.png">
 

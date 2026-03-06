@@ -1,19 +1,17 @@
----
++++
 title: "Helio"
 description: |
  "Free and open-source music sequencer for desktop and mobile platforms"
-pubDate: 2025-12-07T19:29:00Z
-categories: ["AudioVideo"]
-authors: ["Peter Rudenko and contributors"]
-tags:
-- "Audio editor"
+date: "2025-12-07 19:29:00"
+[taxonomies]
+categories = ["AudioVideo"]
+authors = ["Peter Rudenko and contributors"]
+tags = ["Audio editor"]
 frameworks:
 - "JUCE"
-architectures: 
-- "x86_64"
-license: ["MIT"]
-draft: false
----
+architectures = ["x86_64"]
+license = ["MIT"]
++++
 
 <img src="https://raw.githubusercontent.com/helio-fm/helio-sequencer/refs/heads/develop/Docs/images/screen-v3.png">
 

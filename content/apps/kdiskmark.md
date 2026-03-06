@@ -1,20 +1,16 @@
----
++++
 title: "KDiskMark"
 description: |
  "A simple open-source disk benchmark tool for Linux distros"
-pubDate: 2025-06-21T15:13:00Z
-categories: ["Utilities"]
-authors: ["Dmitry Sidorov"]
-tags:
-- "Benchmarking"
-- "Resource monitor"
-frameworks:
-- "Qt5"
-architectures: 
-- "x86_64"
-license: ["GPL-3.0"]
-draft: false
----
+date: "2025-06-21 15:13:00"
+[taxonomies]
+categories = ["Utilities"]
+authors = ["Dmitry Sidorov"]
+tags = ["Benchmarking", "Resource monitor"]
+frameworks = ["Qt5"]
+architectures = ["x86_64"]
+license = ["GPL-3.0"]
++++
 
 <img src="https://raw.githubusercontent.com/JonMagon/KDiskMark/master/assets/images/kdiskmark.png">
 

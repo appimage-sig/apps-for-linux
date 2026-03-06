@@ -1,21 +1,17 @@
----
++++
 title: "XPipe"
 description: |
  "XPipe is a new type of shell connection hub and remote file manager that allows you to access your entire server infrastructure from your local machine"
-pubDate: 2025-12-06T13:01:00Z
-categories: ["Development"]
-authors: ["XPipe UG"]
-tags:
-- "Server Management"
-- "Kubernetes"
+date: "2025-12-06 13:01:00"
+[taxonomies]
+categories = ["Development"]
+authors = ["XPipe UG"]
+tags = ["Server Management", "Kubernetes"]
 frameworks:
 - "Java"
-architectures: 
-- "x86_64"
-- "arm64"
-license: ["Apache-2.0"]
-draft: false
----
+architectures = ["x86_64", "arm64"]
+license = ["Apache-2.0"]
++++
 
 <img src="https://raw.githubusercontent.com/xpipe-io/.github/main/img/hub_shadow.png">
 

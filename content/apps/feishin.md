@@ -1,23 +1,16 @@
----
++++
 title: "Feishin"
 description: |
  "A modern self-hosted music player"
-pubDate: 2026-01-19T06:41:00Z
-categories: ["AudioVideo"]
-authors: ["Jeff"]
-tags:
-- "OpenSubsonic"
-- "Jellyfin"
-- "Navidrome"
-- "Self-hosted"
-- "Music streaming client"
-frameworks:
-- "Electron"
-architectures: 
-- "x86_64"
-license: ["GPL-3.0"]
-draft: false
----
+date: "2026-01-19 06:41:00"
+[taxonomies]
+categories = ["AudioVideo"]
+authors = ["Jeff"]
+tags = ["OpenSubsonic", "Jellyfin", "Navidrome", "Self-hosted", "Music streaming client"]
+frameworks = ["Electron"]
+architectures = ["x86_64"]
+license = ["GPL-3.0"]
++++
 
 <img src="https://raw.githubusercontent.com/jeffvli/feishin/development/media/preview_full_screen_player.png">
 

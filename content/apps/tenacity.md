@@ -1,19 +1,15 @@
----
++++
 title: "tenacity"
 description: |
  "Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor."
-pubDate: 2025-10-12T18:38:00Z
-categories: ["AudioVideo"]
-authors: ["Tenacity community"]
-tags:
-- "Audio editor"
-- "DAW"
-- "wxWidgets"
-architectures: 
-- "x86_64"
-license: ["GPL-2.0"]
-draft: false
----
+date: "2025-10-12 18:38:00"
+[taxonomies]
+categories = ["AudioVideo"]
+authors = ["Tenacity community"]
+tags = ["Audio editor", "DAW", "wxWidgets"
+architectures = ["x86_64"]
+license = ["GPL-2.0"]
++++
 
 <img src="https://tenacityaudio.org/images/screenshots/tenacity-screenshot-light-3840x2160.png">
 

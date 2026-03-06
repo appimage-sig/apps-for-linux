@@ -1,20 +1,16 @@
----
++++
 title: "Play!"
 description: |
  "Play! is a PlayStation2 emulator for Windows, macOS, UNIX, Android, iOS and web browser platforms"
-pubDate: 2025-05-27T15:48:00Z
-categories: ["Games"]
-authors: ["Jean-Philip Desjardins"]
-tags:
-- "PlayStation Emulator"
-- "Console Emulator"
-frameworks:
-- "Qt6"
-architectures: 
-- "x86_64"
-license: ["BSD-2-Clause"]
-draft: false
----
+date: "2025-05-27 15:48:00"
+[taxonomies]
+categories = ["Games"]
+authors = ["Jean-Philip Desjardins"]
+tags = ["PlayStation Emulator", "Console Emulator"]
+frameworks = ["Qt6"]
+architectures = ["x86_64"]
+license = ["BSD-2-Clause"]
++++
 
 Play! is a PlayStation2 emulator for Windows, macOS, UNIX, Android, iOS and web browser platforms
 

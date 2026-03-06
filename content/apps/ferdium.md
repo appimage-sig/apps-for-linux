@@ -1,20 +1,16 @@
----
++++
 title: "Ferdium"
 description: |
  "All your services in one place, built by the community."
-pubDate: 2025-10-08T01:05:00Z
-categories: ["Network"]
-authors: ["Ferdium Team"]
-tags:
-- "Web apps"
-- "Browser"
-frameworks:
-- "Electron"
-architectures: 
-- "x86_64"
-license: ["Apache-2.0"]
-draft: false
----
+date: "2025-10-08T01:05:00"
+[taxonomies]
+categories = ["Network"]
+authors = ["Ferdium Team"]
+tags = ["Web apps", "Browser"]
+frameworks = ["Electron"]
+architectures = ["x86_64"]
+license = ["Apache-2.0"]
++++
 
 <img src="https://raw.githubusercontent.com/ferdium/ferdium-app/refs/heads/develop/branding/screenshots/service-store.png">
 

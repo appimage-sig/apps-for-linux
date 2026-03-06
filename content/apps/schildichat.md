@@ -1,21 +1,16 @@
----
++++
 title: "SchildiChat"
 description: |
  "Matrix client / Element Desktop fork."
-pubDate: 2025-08-15T18:13:00Z
-categories: ["Network"]
-authors: ["SchildiChat"]
-tags:
-- "Messenger"
-- "Matrix"
-- "Cross-platform software"
-frameworks:
-- "Electron"
-architectures: 
-- "x86_64"
-license: ["Apache-2.0"]
-draft: false
----
+date: "2025-08-15 18:13:00"
+[taxonomies]
+categories = ["Network"]
+authors = ["SchildiChat"]
+tags = ["Messenger", "Matrix", "Cross-platform software"]
+frameworks = ["Electron"]
+architectures = ["x86_64"]
+license = ["Apache-2.0"]
++++
 
 <img src="https://schildi.chat/desktop/img/1.png">
 

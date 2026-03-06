@@ -1,21 +1,16 @@
----
++++
 title: "OneKey"
 description: |
  "Secure, open source and community driven crypto wallet runs on all platforms and trusted by millions"
-pubDate: 2026-01-07T09:16:00Z
-categories: ["Finance"]
-authors: ["OneKey"]
-tags:
-- "Cryptocurrency"
-- "Cross-platform software"
-frameworks:
-- "Electron"
-architectures: 
-- "x86_64"
-- "arm64"
-license: ["Apache-2.0"]
-draft: false
----
+date: "2026-01-07 09:16:00"
+[taxonomies]
+categories = ["Finance"]
+authors = ["OneKey"]
+tags = ["Cryptocurrency", "Cross-platform software"]
+frameworks = ["Electron"]
+architectures = ["x86_64", "arm64"]
+license = ["Apache-2.0"]
++++
 
 Secure, open source and community driven crypto wallet runs on all platforms and trusted by millions
 

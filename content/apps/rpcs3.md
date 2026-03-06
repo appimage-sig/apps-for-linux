@@ -1,18 +1,15 @@
----
++++
 title: "RPCS3"
 description: |
  "Free and Open-source PlayStation 3 emulator/debugger"
-pubDate: 2026-01-17T11:22:00Z
-categories: ["Games"]
-authors: ["RPCS3 Authors"]
-tags:
-- "Console emulator"
-- "PlayStation emulator"
-architectures: 
-- "x86_64"
-license: ["GPL-2.0"]
-draft: false
----
+date: "2026-01-17 11:22:00"
+[taxonomies]
+categories = ["Games"]
+authors = ["RPCS3 Authors"]
+tags = ["Console emulator", "PlayStation emulator"
+architectures = ["x86_64"]
+license = ["GPL-2.0"]
++++
 
 Free and Open-source PlayStation 3 emulator/debugger
 

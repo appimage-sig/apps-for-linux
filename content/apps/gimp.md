@@ -1,20 +1,16 @@
----
++++
 title: "GIMP"
 description: |
  "The Free & Open Source Image Editor"
-pubDate: 2025-12-14T22:32:00Z
-categories: ["Graphics"]
-authors: ["GIMP’s Team"]
-tags:
-- "Image editing"
-frameworks:
-- "GTK+3"
-architectures: 
-- "x86_64"
-- "arm64"
-license: ["GPL-3.0"]
-draft: false
----
+date: "2025-12-14 22:32:00"
+[taxonomies]
+categories = ["Graphics"]
+authors = ["GIMP’s Team"]
+tags = ["Image editing"]
+frameworks = ["GTK+3"]
+architectures = ["x86_64", "arm64"]
+license = ["GPL-3.0"]
++++
 
 <img src="https://www.gimp.org/screenshots/Screenshot-gimp-3.0-painting.jpg">
 

@@ -1,21 +1,16 @@
----
++++
 title: "Vesktop"
 description: |
  "Vesktop is a custom Discord App aiming to give you better performance and improve linux support"
-pubDate: 2026-01-24T09:43:00Z
-categories: ["Network"]
-authors: ["Vendicated"]
-tags:
-- "Messenger"
-- "Discord client"
-frameworks:
-- "Electron"
-architectures: 
-- "x86_64"
-- "arm64"
-license: ["GPL-3.0"]
-draft: false
----
+date: "2026-01-24 09:43:00"
+[taxonomies]
+categories = ["Network"]
+authors = ["Vendicated"]
+tags = ["Messenger", "Discord client"]
+frameworks = ["Electron"]
+architectures = ["x86_64", "arm64"]
+license = ["GPL-3.0"]
++++
 
 <img src="https://vencord.dev/assets/screenshots/vesktop-1-appstream.png" alt="Main Screen">
 

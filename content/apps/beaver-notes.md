@@ -1,21 +1,16 @@
----
++++
 title: "Beaver Notes"
 description: |
  "Privacy-focused note-taking application"
-pubDate: 2025-12-05T12:07:00Z
-categories: ["Productivity"]
-authors: ["Daniele Rolli"]
-tags:
-- "Notes"
-- "Cross-platform software"
-frameworks:
-- "Electron"
-architectures: 
-- "x86_64"
-- "arm64"
-license: ["MIT"]
-draft: false
----
+date: "2025-12-05 12:07:00"
+[taxonomies]
+categories = ["Productivity"]
+authors = ["Daniele Rolli"]
+tags = ["Notes", "Cross-platform software"]
+frameworks = ["Electron"]
+architectures = ["x86_64", "arm64"]
+license = ["MIT"]
++++
 
 <img src="https://raw.githubusercontent.com/Beaver-Notes/Beaver-Notes/refs/heads/development/flatpak/Home.png" alt="Home">
 

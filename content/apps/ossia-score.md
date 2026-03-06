@@ -1,20 +1,16 @@
----
++++
 title: "Ossia Score"
 description: |
  "ossia score is a sequencer for audio-visual artists, designed to create interactive shows."
-pubDate: 2026-02-06T10:36:00Z
-categories: ["AudioVideo"]
-authors: ["ossia.io Contributors"]
-tags:
-- "Sequencer"
-frameworks:
-- "Qt6"
-architectures: 
-- "x86_64"
-- "arm64"
-license: ["GPL-3.0"]
-draft: false
----
+date: "2026-02-06 10:36:00"
+[taxonomies]
+categories = ["AudioVideo"]
+authors = ["ossia.io Contributors"]
+tags = ["Sequencer"]
+frameworks = ["Qt6"]
+architectures = ["x86_64", "arm64"]
+license = ["GPL-3.0"]
++++
 
 ossia score is a sequencer for audio-visual artists, designed to create interactive shows.
 

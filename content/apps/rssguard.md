@@ -1,21 +1,16 @@
----
++++
 title: "RSS Guard"
 description: |
  "Simple RSS/ATOM feed reader"
-pubDate: 2026-01-17T11:56:00Z
-categories: ["Network"]
-authors: ["Martin Rotter"]
-tags:
-- "RSS"
-- "News Reader"
-- "Podcast player"
-frameworks:
-- "Qt6"
-architectures: 
-- "x86_64"
-license: ["GPL-3.0"]
-draft: false
----
+date: "2026-01-17 11:56:00"
+[taxonomies]
+categories = ["Network"]
+authors = ["Martin Rotter"]
+tags = ["RSS", "News Reader", "Podcast player"]
+frameworks = ["Qt6"]
+architectures = ["x86_64"]
+license = ["GPL-3.0"]
++++
 
 Simple RSS/ATOM feed reader
 

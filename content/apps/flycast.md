@@ -1,20 +1,17 @@
----
++++
 title: "Flycast"
 description: |
  "Multi-platform Sega Dreamcast, Naomi, Naomi 2, and Atomiswave emulator derived from reicast"
-pubDate: 2026-01-10T19:28:00Z
-categories: ["Games"]
-authors: ["Flyinghead"]
-tags:
-- "Sega Emulator"
-- "Console Emulator"
+date: "2026-01-10 19:28:00"
+[taxonomies]
+categories = ["Games"]
+authors = ["Flyinghead"]
+tags = ["Sega Emulator", "Console Emulator"]
 frameworks:
 - "IMGUI"
-architectures: 
-- "x86_64"
-license: ["GPL-2.0"]
-draft: false
----
+architectures = ["x86_64"]
+license = ["GPL-2.0"]
++++
 
 <img src="https://raw.githubusercontent.com/flyinghead/flycast/master/shell/imgs/screenshot1.png">
 

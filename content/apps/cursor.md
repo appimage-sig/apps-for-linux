@@ -1,21 +1,16 @@
----
++++
 title: "Cursor"
 description: |
  "The AI Code Editor"
-pubDate: 2025-12-22T00:00:00Z
-categories: ["Development"]
-authors: ["Anysphere"]
-tags:
-- "AI-powered software"
-- "Code editor"
-frameworks:
-- "Electron"
-architectures: 
-- "x86_64"
-- "arm64"
-license: ["EULA"]
-draft: false
----
+date: "2025-12-22 00:00:00"
+[taxonomies]
+categories = ["Development"]
+authors = ["Anysphere"]
+tags = ["AI-powered software", "Code editor"]
+frameworks = ["Electron"]
+architectures = ["x86_64", "arm64"]
+license = ["EULA"]
++++
 
 The AI Code Editor
 

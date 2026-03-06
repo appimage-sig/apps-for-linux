@@ -1,20 +1,16 @@
----
++++
 title: "Anytype"
 description: |
  "Anytype is a personal knowledge base"
-pubDate: 2026-02-09T18:31:00Z
-categories: ["Productivity"]
-authors: ["Anytype"]
-tags:
-- "Knowledge base"
-- "Cross-platform software"
-frameworks:
-- "Electron"
-architectures: 
-- "x86_64"
-license: ["Custom"]
-draft: false
----
+date: "2026-02-09 18:31:00"
+[taxonomies]
+categories = ["Productivity"]
+authors = ["Anytype"]
+tags = ["Knowledge base", "Cross-platform software"]
+frameworks = ["Electron"]
+architectures = ["x86_64"]
+license = ["Custom"]
++++
 
 Anytype is a personal knowledge base, a digital brain that allows you to quickly capture, describe, and connect information
 

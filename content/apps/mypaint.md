@@ -1,19 +1,16 @@
----
++++
 title: "MyPaint"
 description: |
  "A fast and dead-simple painting app for artists"
-pubDate: 2020-07-10T12:28:00Z
-categories: ["Graphics"]
-authors: ["MyPaint Development Team"]
-tags:
-- "Painting software"
-frameworks:
-- "GTK+3"
-architectures: 
-- "x86_64"
-license: ["GPL-2.0"]
-draft: false
----
+date: " 2020-07-10 12:28:00"
+[taxonomies]
+categories = ["Graphics"]
+authors = ["MyPaint Development Team"]
+tags = ["Painting software"]
+frameworks = ["GTK+3"]
+architectures = ["x86_64"]
+license = ["GPL-2.0"]
++++
 
 A fast and dead-simple painting app for artists
 

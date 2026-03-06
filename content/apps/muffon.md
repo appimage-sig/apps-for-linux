@@ -1,23 +1,17 @@
----
++++
 title: "muffon"
 description: |
  "Advanced multi-source music streaming"
-pubDate: 2025-08-19T11:36:00Z
-categories: ["AudioVideo"]
-authors: ["Aleksey Shpakovsky"]
+date: "2025-08-19 11:36:00"
+[taxonomies]
+categories = ["AudioVideo"]
+authors = ["Aleksey Shpakovsky"]
 tags: 
-- "Music streaming client"
-- "SoundCloud client"
-- "YouTube Music client"
-- "YouTube Client"
-frameworks:
-- "Electron"
-architectures: 
-- "x86_64"
-- "arm64"
-license: ["AGPL-3.0"]
-draft: false
----
+- "Music streaming client", "SoundCloud client", "YouTube Music client", "YouTube Client"]
+frameworks = ["Electron"]
+architectures = ["x86_64", "arm64"]
+license = ["AGPL-3.0"]
++++
 
 <img src="https://camo.githubusercontent.com/b1e295878661da049cfa8655942d8ba0252a081c7786a6a149186a387863b751/68747470733a2f2f692e6962622e636f2f307448595a53372f707265766965772d6c696768742e706e67">
 

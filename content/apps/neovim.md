@@ -1,19 +1,15 @@
----
++++
 title: "Neovim"
 description: |
  "Vim-fork focused on extensibility and usability"
-pubDate: 2026-01-19T08:21:00Z
-categories: ["Development"]
-authors: ["Neovim contributors"]
-tags:
-- "Code editor"
-- "TUI"
-architectures: 
-- "x86_64"
-- "arm64"
-license: ["Apache-2.0"]
-draft: false
----
+date: "2026-01-19 08:21:00"
+[taxonomies]
+categories = ["Development"]
+authors = ["Neovim contributors"]
+tags = ["Code editor", "TUI"
+architectures = ["x86_64", "arm64"]
+license = ["Apache-2.0"]
++++
 
 Vim-fork focused on extensibility and usability
 

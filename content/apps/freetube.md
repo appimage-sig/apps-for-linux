@@ -1,21 +1,17 @@
----
++++
 title: "FreeTube"
 description: |
  "FreeTube is an open source desktop YouTube player built with privacy in mind"
-pubDate: 2026-01-18T01:28:00Z
-categories: ["Network"]
-authors: ["FreeTube Authors"]
-tags:
-- "Youtube client"
-frameworks:
-- "Electron"
-architectures: 
-- "x86_64"
-- "arm64"
+date: "2026-01-18 01:28:00"
+[taxonomies]
+categories = ["Network"]
+authors = ["FreeTube Authors"]
+tags = ["Youtube client"]
+frameworks = ["Electron"]
+architectures = ["x86_64", "arm64"]
 - "armv7l"
-license: ["AGPL-3.0"]
-draft: false
----
+license = ["AGPL-3.0"]
++++
 
 <img src="https://i.imgur.com/zFgZUUV.png">
 

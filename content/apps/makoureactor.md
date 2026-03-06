@@ -1,18 +1,17 @@
----
++++
 title: "Makoureactor"
 description: |
  "Final Fantasy VII field archive editor"
-pubDate: 2026-01-12T01:03:00Z
-categories: ["Games"]
-authors: ["Jérôme Arzel"]
+date: "2026-01-12T01:03:00"
+[taxonomies]
+categories = ["Games"]
+authors = ["Jérôme Arzel"]
 tags:
 - Games
 - Qt6
-architectures: 
-- "x86_64"
-license: ["GPL-3.0"]
-draft: false
----
+architectures = ["x86_64"]
+license = ["GPL-3.0"]
++++
 
 Final Fantasy VII field archive editor
 

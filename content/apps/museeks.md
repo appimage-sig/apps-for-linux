@@ -1,20 +1,16 @@
----
++++
 title: "museeks"
 description: |
  "A simple, clean and cross-platform music player"
-pubDate: 2025-09-22T17:11:00Z
-categories: ["AudioVideo"]
-authors: ["Pierre de la Martinière"]
-tags:
-- "Offline music player"
-frameworks:
-- "Tauri"
-architectures: 
-- "x86_64"
-- "arm64"
-license: ["MIT"]
-draft: false
----
+date: "2025-09-22 17:11:00"
+[taxonomies]
+categories = ["AudioVideo"]
+authors = ["Pierre de la Martinière"]
+tags = ["Offline music player"]
+frameworks = ["Tauri"]
+architectures = ["x86_64", "arm64"]
+license = ["MIT"]
++++
 
 <img src="https://raw.githubusercontent.com/martpie/museeks/refs/heads/master/screenshot.png">
 

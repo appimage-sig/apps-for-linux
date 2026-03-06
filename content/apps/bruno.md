@@ -1,21 +1,16 @@
----
++++
 title: "Bruno"
 description: |
  "Open-source IDE for exploring and testing APIs"
-pubDate: 2026-01-07T23:05:00Z
-categories: ["Development"]
-authors: ["Bruno Authors"]
-tags:
-- "API Testing"
-- "IDE"
-frameworks:
-- "Electron"
-architectures: 
-- "x86_64"
-- "arm64"
-license: ["MIT"]
-draft: false
----
+date: "2026-01-07 23:05:00"
+[taxonomies]
+categories = ["Development"]
+authors = ["Bruno Authors"]
+tags = ["API Testing", "IDE"]
+frameworks = ["Electron"]
+architectures = ["x86_64", "arm64"]
+license = ["MIT"]
++++
 
 <img src="https://raw.githubusercontent.com/usebruno/bruno/main/assets/images/landing-2.png">
 

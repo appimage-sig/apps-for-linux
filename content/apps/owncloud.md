@@ -1,20 +1,16 @@
----
++++
 title: "ownCloud"
 description: |
  "Open-source software for highly secure, borderless collaboration and filesharing on any device"
-pubDate: 2025-11-11T16:04:00Z
-categories: ["Network"]
-authors: ["ownCloud"]
-tags:
-- "Collaboration platform"
-- "Cross-platform software"
-frameworks:
-- "Qt6"
-architectures: 
-- "x86_64"
-license: ["GPL-2.0"]
-draft: false
----
+date: "2025-11-11 16:04:00"
+[taxonomies]
+categories = ["Network"]
+authors = ["ownCloud"]
+tags = ["Collaboration platform", "Cross-platform software"]
+frameworks = ["Qt6"]
+architectures = ["x86_64"]
+license = ["GPL-2.0"]
++++
 
 Open-source software for highly secure, borderless collaboration and filesharing on any device
 

@@ -1,20 +1,17 @@
----
++++
 title: "The Nexus Mods app"
 description: |
  "Mod installer, creator and manager for all your popular games."
-pubDate: 2025-11-17T12:54:00Z
-categories: ["Games"]
-authors: ["Black Tree Gaming Ltd"]
-tags:
-- "Gaming tool"
-- "Mod marketplace"
+date: "2025-11-17 12:54:00"
+[taxonomies]
+categories = ["Games"]
+authors = ["Black Tree Gaming Ltd"]
+tags = ["Gaming tool", "Mod marketplace"]
 frameworks:
 - "Avalonia"
-architectures: 
-- "x86_64"
-license: ["GPL-3.0"]
-draft: false
----
+architectures = ["x86_64"]
+license = ["GPL-3.0"]
++++
 
 Mod installer, creator and manager for all your popular games.
 

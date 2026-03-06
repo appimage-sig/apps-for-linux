@@ -1,19 +1,16 @@
----
++++
 title: "Flacon"
 description: |
  "Extracts audio tracks from an audio CD image to separate tracks."
-pubDate: 2025-02-14T21:09:00Z
-categories: ["AudioVideo"]
-authors: ["Flacon team"]
-tags:
-- "CD ripper"
-frameworks:
-- "Qt5"
-architectures: 
-- "x86_64"
-license: ["LGPL-2.1"]
-draft: false
----
+date: "2025-02-14 21:09:00"
+[taxonomies]
+categories = ["AudioVideo"]
+authors = ["Flacon team"]
+tags = ["CD ripper"]
+frameworks = ["Qt5"]
+architectures = ["x86_64"]
+license = ["LGPL-2.1"]
++++
 
 <img src="https://raw.githubusercontent.com/flacon/flacon.github.io/b76825f411f8de0ad4e4de6d46fd912a13a6e980/images/flacon-convert.png">
 

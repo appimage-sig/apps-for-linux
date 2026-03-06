@@ -1,20 +1,16 @@
----
++++
 title: "Trezor"
 description: |
  "Trezor desktop and web application for managing Trezor hardware wallet"
-pubDate: 2025-12-16T14:31:00Z
-categories: ["Finance"]
-authors: ["Trezor company"]
-tags:
-- "Cryptocurrency"
-frameworks:
-- "Electron"
-architectures: 
-- "x86_64"
-- "arm64"
-license: ["Custom"]
-draft: false
----
+date: "2025-12-16 14:31:00"
+[taxonomies]
+categories = ["Finance"]
+authors = ["Trezor company"]
+tags = ["Cryptocurrency"]
+frameworks = ["Electron"]
+architectures = ["x86_64", "arm64"]
+license = ["Custom"]
++++
 
 Trezor desktop and web application for managing Trezor hardware wallet
 

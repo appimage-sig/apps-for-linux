@@ -1,21 +1,16 @@
----
++++
 title: "LibreCAD"
 description: |
  "LibreCAD is a 2D Computer Aided Design (CAD) application for creating plans and designs on your computer"
-pubDate: 2026-01-11T23:47:00Z
-categories: ["Graphics"]
-authors: ["LibreCAD Contributors"]
-tags:
-- "2D"
-- "CAD"
-frameworks:
-- "Qt6"
-architectures: 
-- "x86_64"
-- "arm64"
-license: ["GPL-3.0"]
-draft: false
----
+date: "2026-01-11 23:47:00"
+[taxonomies]
+categories = ["Graphics"]
+authors = ["LibreCAD Contributors"]
+tags = ["2D", "CAD"]
+frameworks = ["Qt6"]
+architectures = ["x86_64", "arm64"]
+license = ["GPL-3.0"]
++++
 
 <img src="https://dokuwiki.librecad.org/lib/exe/fetch.php/librecad_screeshot_2.2.png">
 

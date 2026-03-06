@@ -1,17 +1,15 @@
----
++++
 title: "Wezterm"
 description: |
  "GPU-accelerated cross-platform terminal emulator and multiplexer"
-pubDate: 2024-02-03T21:32:00Z
-categories: ["System"]
-authors: ["Wez Furlong"]
-tags:
-- "Terminal"
-architectures: 
-- "x86_64"
-license: ["MIT"]
-draft: false
----
+date: " 2024-02-03 21:32:00"
+[taxonomies]
+categories = ["System"]
+authors = ["Wez Furlong"]
+tags = ["Terminal"
+architectures = ["x86_64"]
+license = ["MIT"]
++++
 
 <img src="https://wezterm.org/screenshots/wezterm-vday-screenshot.png">
 

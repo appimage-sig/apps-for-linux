@@ -1,20 +1,16 @@
----
++++
 title: "spotify-qt"
 description: |
  "Lightweight Spotify client using Qt."
-pubDate: 2025-07-26T00:58:00Z
-categories: ["AudioVideo"]
-authors: ["kraxie"]
-tags:
-- "Music streaming client"
-- "Spotify client"
-frameworks:
-- "Qt6"
-architectures: 
-- "x86_64"
-license: ["GPL-3.0"]
-draft: false
----
+date: "2025-07-26 00:58:00"
+[taxonomies]
+categories = ["AudioVideo"]
+authors = ["kraxie"]
+tags = ["Music streaming client", "Spotify client"]
+frameworks = ["Qt6"]
+architectures = ["x86_64"]
+license = ["GPL-3.0"]
++++
 
 <img src="https://raw.githubusercontent.com/kraxarn/spotify-qt/refs/heads/develop/.github/img/spotify-qt.png">
 

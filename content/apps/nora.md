@@ -1,19 +1,16 @@
----
++++
 title: "Nora"
 description: |
  "An elegant music player built using Electron and React"
-pubDate: 2025-12-23T12:28:00Z
-categories: ["AudioVideo"]
-authors: ["Sandakan Nipunajith"]
-tags:
-- "Offline music player"
-frameworks:
-- "Electron"
-architectures: 
-- "x86_64"
-license: ["MIT"]
-draft: false
----
+date: "2025-12-23 12:28:00"
+[taxonomies]
+categories = ["AudioVideo"]
+authors = ["Sandakan Nipunajith"]
+tags = ["Offline music player"]
+frameworks = ["Electron"]
+architectures = ["x86_64"]
+license = ["MIT"]
++++
 
 An elegant music player built using Electron and React
 

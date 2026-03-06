@@ -1,22 +1,16 @@
----
++++
 title: "OnlyOffice"
 description: |
  "Free office suite that combines text, spreadsheet and presentation editors"
-pubDate: 2025-12-01T16:25:00Z
-categories: ["Productivity"]
-authors: ["Ascensio System"]
-tags:
-- "Office Suite"
-- "Cross-platform software"
-- "Qt6"
-frameworks:
-- "GTK+3"
-architectures: 
-- "x86_64"
-- "arm64"
-license: ["AGPL-3.0"]
-draft: false
----
+date: "2025-12-01 16:25:00"
+[taxonomies]
+categories = ["Productivity"]
+authors = ["Ascensio System"]
+tags = ["Office Suite", "Cross-platform software", "Qt6"]
+frameworks = ["GTK+3"]
+architectures = ["x86_64", "arm64"]
+license = ["AGPL-3.0"]
++++
 
 Free office suite that combines text, spreadsheet and presentation editors
 

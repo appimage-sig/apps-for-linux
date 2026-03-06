@@ -1,20 +1,17 @@
----
++++
 title: "Bforartists"
 description: |
  "Bforartists is a fork of the popular 3D software Blender, with the goal to improve the UI"
-pubDate: 2025-12-30T21:40:00Z
-categories: ["Graphics"]
-authors: ["Reiner Prokein"]
-tags:
-- "3D"
-- "Blender"
+date: "2025-12-30 21:40:00"
+[taxonomies]
+categories = ["Graphics"]
+authors = ["Reiner Prokein"]
+tags = ["3D", "Blender"]
 frameworks:
 - "SDL2"
-architectures: 
-- "x86_64"
-license: ["GPL-2.0"]
-draft: false
----
+architectures = ["x86_64"]
+license = ["GPL-2.0"]
++++
 
 <img src="https://www.bforartists.de/wp-content/uploads/2020/04/modelingbfa2.jpg">
 

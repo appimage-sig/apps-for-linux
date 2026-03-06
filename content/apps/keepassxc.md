@@ -1,19 +1,16 @@
----
++++
 title: "KeePassXC"
 description: |
  "KeePassXC is a modern, secure, and open-source password manager that stores and manages your most sensitive information"
-pubDate: 2025-11-25T03:44:00Z
-categories: ["Utilities"]
-authors: ["KeePassXC Team"]
-tags:
-- "Offline password manager"
-frameworks:
-- "Qt5"
-architectures: 
-- "x86_64"
-license: ["GPL-3.0"]
-draft: false
----
+date: "2025-11-25 03:44:00"
+[taxonomies]
+categories = ["Utilities"]
+authors = ["KeePassXC Team"]
+tags = ["Offline password manager"]
+frameworks = ["Qt5"]
+architectures = ["x86_64"]
+license = ["GPL-3.0"]
++++
 
 <img src="https://keepassxc.org/assets/img/screenshots/database_view.png">
 

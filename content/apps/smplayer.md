@@ -1,19 +1,16 @@
----
++++
 title: "SMPlayer"
 description: |
  "Free Media Player with built-in codecs"
-pubDate: 2026-01-12T12:34:00Z
-categories: ["AudioVideo"]
-authors: ["Ricardo Villalba"]
-tags:
-- "Media player"
-frameworks:
-- "Qt5"
-architectures: 
-- "x86_64"
-license: ["GPL-2.0"]
-draft: false
----
+date: "2026-01-12 12:34:00"
+[taxonomies]
+categories = ["AudioVideo"]
+authors = ["Ricardo Villalba"]
+tags = ["Media player"]
+frameworks = ["Qt5"]
+architectures = ["x86_64"]
+license = ["GPL-2.0"]
++++
 
 <img src="https://www.smplayer.info/images/screenshots/mainwindow.png">
 

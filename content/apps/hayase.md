@@ -1,20 +1,16 @@
----
++++
 title: "Hayase"
 description: |
  "Stream anime torrents, real-time with no waiting for downloads"
-pubDate: 2026-01-20T00:00:00Z
-categories: ["Network"]
-authors: ["Cas"]
-tags:
-- "Anime"
-- "Torrent client"
-frameworks:
-- "Electron"
-architectures: 
-- "x86_64"
-license: ["GPL-3.0"]
-draft: false
----
+date: "2026-01-20 00:00:00"
+[taxonomies]
+categories = ["Network"]
+authors = ["Cas"]
+tags = ["Anime", "Torrent client"]
+frameworks = ["Electron"]
+architectures = ["x86_64"]
+license = ["GPL-3.0"]
++++
 
 <img src="https://hayase.watch/app.webp">
 

@@ -1,19 +1,16 @@
----
++++
 title: "authme"
 description: |
  "Simple cross-platform two-factor (2FA) authenticator app for desktop."
-pubDate: 2026-01-13T16:28:00Z
-categories: ["Productivity"]
-authors: ["Lőrik Levente"]
-tags:
-- "Authentificator"
-frameworks:
-- "Tauri"
-architectures: 
-- "x86_64"
-license: ["GPL-3.0"]
-draft: false
----
+date: "2026-01-13 16:28:00"
+[taxonomies]
+categories = ["Productivity"]
+authors = ["Lőrik Levente"]
+tags = ["Authentificator"]
+frameworks = ["Tauri"]
+architectures = ["x86_64"]
+license = ["GPL-3.0"]
++++
 
 <img src="https://raw.githubusercontent.com/Levminer/authme/dev/screenshots/codes.png" alt="Main Window">
 

@@ -1,20 +1,17 @@
----
++++
 title: "Conky"
 description: |
  "Light-weight system monitor for X, Wayland, and other things, too"
-pubDate: 2025-07-06T15:23:00Z
-categories: ["Utilities"]
-authors: ["Brenden Matthews"]
-tags:
-- "System Monitor"
-- "OSD"
+date: "2025-07-06 15:23:00"
+[taxonomies]
+categories = ["Utilities"]
+authors = ["Brenden Matthews"]
+tags = ["System Monitor", "OSD"]
 frameworks:
 - "ncurses"
-architectures: 
-- "x86_64"
-license: ["GPL-3.0"]
-draft: false
----
+architectures = ["x86_64"]
+license = ["GPL-3.0"]
++++
 
 <img src="https://raw.githubusercontent.com/wiki/brndnmtthws/conky/configs/brenden/screenshot.png">
 

@@ -1,21 +1,17 @@
----
++++
 title: "86box"
 description: |
  "Emulator of x86-based machines based on PCem."
-pubDate: 2025-12-22T04:42:00Z
-slug: 86box
-categories: ["Games"]
-authors: ["86box"]
+date: "2025-12-22 04:42:00"
+[taxonomies]
+categories = ["Games"]
+authors = ["86box"]
 tags: 
-- "Game Emulator"
-frameworks:
-- "Qt5"
-architectures: 
-- "x86_64"
-- "arm64"
-license: ["GPL-2.0"]
-draft: false
----
+- "Game Emulator"]
+frameworks = ["Qt5"]
+architectures = ["x86_64", "arm64"]
+license = ["GPL-2.0"]
++++
 
 <img src="https://raw.githubusercontent.com/86Box/86Box/master/src/unix/assets/screenshots/86Box.png" alt="Main Screen">
 

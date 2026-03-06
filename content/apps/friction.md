@@ -1,19 +1,16 @@
----
++++
 title: "Friction"
 description: |
  "Powerful and versatile free and open-source motion graphics application."
-pubDate: 2026-01-01T00:53:00Z
-categories: ["Graphics"]
-authors: ["Friction contributors"]
-tags:
-- "2D"
-frameworks:
-- "Qt5"
-architectures: 
-- "x86_64"
-license: ["GPL-3.0"]
-draft: false
----
+date: "2026-01-01 00:53:00"
+[taxonomies]
+categories = ["Graphics"]
+authors = ["Friction contributors"]
+tags = ["2D"]
+frameworks = ["Qt5"]
+architectures = ["x86_64"]
+license = ["GPL-3.0"]
++++
 
 <img src="https://friction.graphics/assets/screenshots/100/friction-100rc3-screenshot.png">
 

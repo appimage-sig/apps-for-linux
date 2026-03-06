@@ -1,19 +1,16 @@
----
++++
 title: "LibreOffice"
 description: |
  "Free open source office suite"
-pubDate: 2025-12-18T14:18:00Z
-categories: ["Productivity"]
-authors: ["The Document Foundation"]
-tags:
-- "Office Suite"
-frameworks:
-- "VCL"
-architectures: 
-- "x86_64"
-license: ["GPL-3.0"]
-draft: false
----
+date: "2025-12-18 14:18:00"
+[taxonomies]
+categories = ["Productivity"]
+authors = ["The Document Foundation"]
+tags = ["Office Suite"]
+frameworks = ["VCL"]
+architectures = ["x86_64"]
+license = ["GPL-3.0"]
++++
 
 Free open source office suite
 

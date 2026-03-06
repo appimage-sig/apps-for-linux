@@ -1,19 +1,16 @@
----
++++
 title: "OpenShot"
 description: |
  "OpenShot Video Editor is an award-winning free and open-source video editor"
-pubDate: 2025-12-16T10:26:00Z
-categories: ["AudioVideo"]
-authors: ["OpenShot Studios"]
-tags:
-- "Video Editor"
-frameworks:
-- "Qt5"
-architectures: 
-- "x86_64"
-license: ["GPL-3.0"]
-draft: false
----
+date: "2025-12-16 10:26:00"
+[taxonomies]
+categories = ["AudioVideo"]
+authors = ["OpenShot Studios"]
+tags = ["Video Editor"]
+frameworks = ["Qt5"]
+architectures = ["x86_64"]
+license = ["GPL-3.0"]
++++
 
 OpenShot Video Editor is an award-winning free and open-source video editor
 

@@ -1,19 +1,18 @@
----
++++
 title: "DevilutionX"
 description: |
  "Port of Diablo and Hellfire that strives to make it simple to run the game while providing engine improvements, bugfixes, and some optional quality of life features"
-pubDate: 2025-10-30T20:00:00Z
-categories: ["Games"]
-authors: ["diasurgical"]
+date: "2025-10-30 20:00:00"
+[taxonomies]
+categories = ["Games"]
+authors = ["diasurgical"]
 tags:
 - OSS Game
 frameworks:
 - "SDL2"
-architectures: 
-- "x86_64"
-license: ["SUL-1.0"]
-draft: false
----
+architectures = ["x86_64"]
+license = ["SUL-1.0"]
++++
 
 <img src="https://github.com/user-attachments/assets/db6e94b1-a98b-413d-a109-1fb77dda34bd">
 

@@ -1,20 +1,16 @@
----
++++
 title: "Scribus"
 description: |
  "Powerful desktop publishing software"
-pubDate: 2026-01-10T03:32:00Z
-categories: ["Productivity"]
-authors: ["The Scribus Team"]
-tags:
-- "DTP"
-- "Publishing"
-frameworks:
-- "Qt6"
-architectures: 
-- "x86_64"
-license: ["GPL-2.0"]
-draft: false
----
+date: "2026-01-10 03:32:00"
+[taxonomies]
+categories = ["Productivity"]
+authors = ["The Scribus Team"]
+tags = ["DTP", "Publishing"]
+frameworks = ["Qt6"]
+architectures = ["x86_64"]
+license = ["GPL-2.0"]
++++
 
 <img src="https://a.fsdn.com/con/app/proj/scribus/screenshots/Scribus_170_dark-theme-da248d2a.png/max/max/1">
 

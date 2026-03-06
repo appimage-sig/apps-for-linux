@@ -1,18 +1,15 @@
----
++++
 title: "Lunar"
 description: |
  "A modpack for all modern versions of Minecraft"
-pubDate: 2025-12-18T00:00:00Z
-categories: ["Games"]
-authors: ["Moonsworth"]
-tags:
-- "Game launcher"
-- "Minecraft launcher"
-architectures: 
-- "x86_64"
-license: ["GPL-3.0"]
-draft: false
----
+date: "2025-12-18 00:00:00"
+[taxonomies]
+categories = ["Games"]
+authors = ["Moonsworth"]
+tags = ["Game launcher", "Minecraft launcher"
+architectures = ["x86_64"]
+license = ["GPL-3.0"]
++++
 
 A modpack for all modern versions of Minecraft
 

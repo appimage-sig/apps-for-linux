@@ -1,19 +1,17 @@
----
++++
 title: "Avidemux"
 description: |
  "Avidemux is a free video editor designed for simple cutting, filtering and encoding tasks"
-pubDate: 2025-06-30T07:10:00Z
-categories: ["AudioVideo"]
-authors: ["Avidemux Authors"]
+date: "2025-06-30 07:10:00"
+[taxonomies]
+categories = ["AudioVideo"]
+authors = ["Avidemux Authors"]
 tags: 
-- "Video editor"
-frameworks:
-- "Qt5"
-architectures: 
-- "x86_64"
-license: ["GPL-2.0"]
-draft: false
----
+- "Video editor"]
+frameworks = ["Qt5"]
+architectures = ["x86_64"]
+license = ["GPL-2.0"]
++++
 
 <img src="http://fixounet.free.fr/avidemux/index_files/screenshot1.png" alt="Main Window">
 

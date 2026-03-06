@@ -1,22 +1,16 @@
----
++++
 title: "ente Photos"
 description: |
  "End-to-end encryption for photos and more."
-pubDate: 2026-01-08T14:23:00Z
-categories: ["Network"]
-authors: ["Ente"]
-tags:
-- "Photo Management"
-- "Cloud storage client"
-- "Cross-platform software"
-frameworks:
-- "Flutter"
-architectures: 
-- "x86_64"
-- "arm64"
-license: ["GPL-3.0"]
-draft: false
----
+date: "2026-01-08 14:23:00"
+[taxonomies]
+categories = ["Network"]
+authors = ["Ente"]
+tags = ["Photo Management", "Cloud storage client", "Cross-platform software"]
+frameworks = ["Flutter"]
+architectures = ["x86_64", "arm64"]
+license = ["GPL-3.0"]
++++
 
 <img src="https://raw.githubusercontent.com/ente-io/ente/main/.github/assets/photos.png">
 

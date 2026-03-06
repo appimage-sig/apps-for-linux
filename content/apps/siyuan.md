@@ -1,22 +1,16 @@
----
++++
 title: "Siyuan"
 description: |
  "A privacy-first, self-hosted, fully open source personal knowledge management software."
-pubDate: 2025-12-23T06:41:00Z
-categories: ["Productivity"]
-authors: ["Yunnan Liandi Technology"]
-tags:
-- "Knowledge base"
-- "AI-powered software"
-- "Cross-platform software"
-frameworks:
-- "Electron"
-architectures: 
-- "x86_64"
-- "arm64"
-license: ["AGPL-3.0"]
-draft: false
----
+date: "2025-12-23 06:41:00"
+[taxonomies]
+categories = ["Productivity"]
+authors = ["Yunnan Liandi Technology"]
+tags = ["Knowledge base", "AI-powered software", "Cross-platform software"]
+frameworks = ["Electron"]
+architectures = ["x86_64", "arm64"]
+license = ["AGPL-3.0"]
++++
 
 <img src="https://b3log.org/siyuan/static/home-img.png">
  

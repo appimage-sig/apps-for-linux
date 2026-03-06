@@ -1,19 +1,17 @@
----
++++
 title: "Lite XL"
 description: |
  "A lightweight text editor written in Lua"
-pubDate: 2025-06-09T01:58:00Z
-categories: ["Development"]
-authors: ["Lite XL Team"]
-tags:
-- "Code editor"
+date: "2025-06-09T01:58:00"
+[taxonomies]
+categories = ["Development"]
+authors = ["Lite XL Team"]
+tags = ["Code editor"]
 frameworks:
 - "Lua"
-architectures: 
-- "x86_64"
-license: ["MIT"]
-draft: false
----
+architectures = ["x86_64"]
+license = ["MIT"]
++++
 
 A lightweight text editor written in Lua
 

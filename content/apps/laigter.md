@@ -1,20 +1,16 @@
----
++++
 title: "Laigter"
 description: |
  "Laigter is a tool that automatically generates maps for dynamic lighting effects in games"
-pubDate: 2025-12-16T20:51:00Z
-categories: ["Graphics"]
-authors: ["Pablo Ivan Fonovich"]
-tags:
-- "Gaming tool"
-- "Game development"
-frameworks:
-- "Qt5"
-architectures: 
-- "x86_64"
-license: ["GPL-3.0"]
-draft: false
----
+date: "2025-12-16 20:51:00"
+[taxonomies]
+categories = ["Graphics"]
+authors = ["Pablo Ivan Fonovich"]
+tags = ["Gaming tool", "Game development"]
+frameworks = ["Qt5"]
+architectures = ["x86_64"]
+license = ["GPL-3.0"]
++++
 
 <img src="https://user-images.githubusercontent.com/46932830/90258696-4c14b780-de1f-11ea-8e33-33dbfc9fd86c.png">
 

@@ -1,21 +1,16 @@
----
++++
 title: "Notesnook"
 description: |
  "End-to-end encrypted note taking alternative to Evernote."
-pubDate: 2026-01-16T13:05:00Z
-categories: ["Productivity"]
-authors: ["Streetwriters"]
-tags:
-- "Notes"
-- "Cross-platform software"
-frameworks:
-- "Electron"
-architectures: 
-- "x86_64"
-- "arm64"
-license: ["GPL-3.0"]
-draft: false
----
+date: "2026-01-16 13:05:00"
+[taxonomies]
+categories = ["Productivity"]
+authors = ["Streetwriters"]
+tags = ["Notes", "Cross-platform software"]
+frameworks = ["Electron"]
+architectures = ["x86_64", "arm64"]
+license = ["GPL-3.0"]
++++
 
 End-to-end encrypted note taking alternative to Evernote
 

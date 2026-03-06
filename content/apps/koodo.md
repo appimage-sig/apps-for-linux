@@ -1,21 +1,16 @@
----
++++
 title: "Koodo Reader"
 description: |
  "A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web"
-pubDate: 2026-01-06T03:33:00Z
-categories: ["Productivity"]
-authors: ["App by Troye"]
-tags:
-- "eBook reader"
-- "Cross-platform software"
-frameworks:
-- "Electron"
-architectures: 
-- "x86_64"
-- "arm64"
-license: ["AGPL-3.0"]
-draft: false
----
+date: "2026-01-06 03:33:00"
+[taxonomies]
+categories = ["Productivity"]
+authors = ["App by Troye"]
+tags = ["eBook reader", "Cross-platform software"]
+frameworks = ["Electron"]
+architectures = ["x86_64", "arm64"]
+license = ["AGPL-3.0"]
++++
 
 <img src="https://koodoreader.com/demo1.png">
 

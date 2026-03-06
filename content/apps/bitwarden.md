@@ -1,20 +1,16 @@
----
++++
 title: "Bitwarden"
 description: |
  "Open source password management solutions for individuals, teams, and business organizations."
-pubDate: 2025-01-13T22:40:00Z
-categories: ["Utilities"]
-authors: ["BitWarden"]
-tags:
-- "Password management"
-- "Cross-platform software"
-frameworks:
-- "Electron"
-architectures: 
-- "x86_64"
-license: ["GPL-3.0"]
-draft: false
----
+date: "2025-01-13 22:40:00"
+[taxonomies]
+categories = ["Utilities"]
+authors = ["BitWarden"]
+tags = ["Password management", "Cross-platform software"]
+frameworks = ["Electron"]
+architectures = ["x86_64"]
+license = ["GPL-3.0"]
++++
 
 <img src="https://raw.githubusercontent.com/bitwarden/brand/main/screenshots/apps-combo-logo.png">
 

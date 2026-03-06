@@ -1,19 +1,16 @@
----
++++
 title: "OONI Probe"
 description: |
  "OONI Probe is a free and open source software designed to measure internet censorship and other forms of network interference."
-pubDate: 2025-06-23T20:56:00Z
-categories: ["Science"]
-authors: ["Open Observatory of Network Interference (OONI)"]
-tags:
-- "Censorship-resistance software"
-frameworks:
-- "Electron"
-architectures: 
-- "x86_64"
-license: ["BSD-3-Clause"]
-draft: false
----
+date: "2025-06-23 20:56:00"
+[taxonomies]
+categories = ["Science"]
+authors = ["Open Observatory of Network Interference (OONI)"]
+tags = ["Censorship-resistance software"]
+frameworks = ["Electron"]
+architectures = ["x86_64"]
+license = ["BSD-3-Clause"]
++++
 
 OONI Probe is a free and open source software designed to measure internet censorship and other forms of network interference.
 

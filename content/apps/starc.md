@@ -1,19 +1,16 @@
----
++++
 title: "Story Architect"
 description: |
  "All in one screenwriting app"
-pubDate: 2025-12-09T19:00:00Z
-categories: ["Productivity"]
-authors: ["Story Apps"]
-tags:
-- "Screenwriting"
-frameworks:
-- "Qt6"
-architectures: 
-- "x86_64"
-license: ["GPL-3.0"]
-draft: false
----
+date: "2025-12-09 19:00:00"
+[taxonomies]
+categories = ["Productivity"]
+authors = ["Story Apps"]
+tags = ["Screenwriting"]
+frameworks = ["Qt6"]
+architectures = ["x86_64"]
+license = ["GPL-3.0"]
++++
 
 <img src="https://starc.app/media/screenshot-main.png">
 

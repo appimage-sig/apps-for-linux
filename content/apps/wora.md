@@ -1,19 +1,16 @@
----
++++
 title: "Wora"
 description: |
  "A beautiful player for audiophiles."
-pubDate: 2025-06-23T11:06:00Z
-categories: ["AudioVideo"]
-authors: ["Aaryan Kapoor"]
-tags:
-- "Offline music player"
-frameworks:
-- "Electron"
-architectures: 
-- "x86_64"
-license: ["MIT"]
-draft: false
----
+date: "2025-06-23 11:06:00"
+[taxonomies]
+categories = ["AudioVideo"]
+authors = ["Aaryan Kapoor"]
+tags = ["Offline music player"]
+frameworks = ["Electron"]
+architectures = ["x86_64"]
+license = ["MIT"]
++++
 
 <img src="https://raw.githubusercontent.com/playwora/wora/refs/heads/main/renderer/public/github/Home%20Page.png
 

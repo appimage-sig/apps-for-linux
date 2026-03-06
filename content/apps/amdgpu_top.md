@@ -1,23 +1,17 @@
----
++++
 title: "AMDGPU_TOP"
 description: |
  "amdgpu_top is tool that display AMD GPU utilization."
-pubDate: 2026-02-05T08:38:00Z
-categories: ["Utilities"]
-authors: ["Umio Yasuno"]
-tags:
-- "Resource Monitor"
-- "GPU"
-- "TUI"
+date: "2026-02-05 08:38:00"
+[taxonomies]
+categories = ["Utilities"]
+authors = ["Umio Yasuno"]
+tags = ["Resource Monitor", "GPU", "TUI"]
 frameworks:
-- "egui"
-- "cursive"
-architectures: 
-- "x86_64"
-- "arm64"
-license: ["MIT"]  
-draft: false
----
+- "egui", "cursive"
+architectures = ["x86_64", "arm64"]
+license = ["MIT"]  
++++
 
 <img src="https://github.com/Umio-Yasuno/amdgpu_top/assets/53935716/e3ff372e-86f9-4b82-b3c9-910b638a3c90" alt="amdgpu_top GUI mode">
 

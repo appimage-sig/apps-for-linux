@@ -1,21 +1,16 @@
----
++++
 title: "Ricochet Refresh"
 description: |
  "Anonymous peer-to-peer instant messaging"
-pubDate: 2026-01-28T16:18:00Z
-categories: ["Network"]
-authors: ["Blueprint for Free Speech"]
-tags:
-- "Messenger"
-- "Censorship-resistance software"
-frameworks:
-- "Qt5"
-architectures: 
-- "x86_64"
-- "arm64"
-license: ["BSD-3-Clause"]
-draft: false
----
+date: "2026-01-28 16:18:00"
+[taxonomies]
+categories = ["Network"]
+authors = ["Blueprint for Free Speech"]
+tags = ["Messenger", "Censorship-resistance software"]
+frameworks = ["Qt5"]
+architectures = ["x86_64", "arm64"]
+license = ["BSD-3-Clause"]
++++
 
 Anonymous peer-to-peer instant messaging
 

@@ -1,20 +1,16 @@
----
++++
 title: "RustDesk"
 description: |
  "An open-source remote desktop, and alternative to TeamViewer"
-pubDate: 2026-01-09T06:03:00Z
-categories: ["Utilities"]
-authors: ["RustDesk"]
-tags:
-- "Remote control"
-frameworks:
-- "Flutter"
-architectures: 
-- "x86_64"
-- "arm64"
-license: ["AGPL-3.0"]
-draft: false
----
+date: "2026-01-09 06:03:00"
+[taxonomies]
+categories = ["Utilities"]
+authors = ["RustDesk"]
+tags = ["Remote control"]
+frameworks = ["Flutter"]
+architectures = ["x86_64", "arm64"]
+license = ["AGPL-3.0"]
++++
 
 An open-source remote desktop, and alternative to TeamViewer
 

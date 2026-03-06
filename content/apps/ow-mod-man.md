@@ -1,17 +1,16 @@
----
++++
 title: "Outer Wilds Mod Manager"
 description: |
  "The mod manager for the Outer Wilds Mod Loader"
-pubDate: 2025-07-25T05:34:00Z
-categories: ["Games"]
-authors: ["Outer Wilds Mods"]
+date: "2025-07-25 05:34:00"
+[taxonomies]
+categories = ["Games"]
+authors = ["Outer Wilds Mods"]
 tags: 
 - "Game Mods"
-architectures: 
-- "x86_64"
-license: ["GPL-3.0"]
-draft: false
----
+architectures = ["x86_64"]
+license = ["GPL-3.0"]
++++
 
 The mod manager for the Outer Wilds Mod Loader
 

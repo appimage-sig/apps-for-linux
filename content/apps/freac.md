@@ -1,22 +1,17 @@
----
++++
 title: "Freac"
 description: |
  "Free and open source audio converter"
-pubDate: 2026-01-23T18:12:00Z
-categories: ["AudioVideo"]
-authors: ["Robert Kausch"]
-tags:
-- "Audio Converter"
-frameworks:
-- "GTK+3"
-architectures: 
-- "x86_64"
-- "arm64"
-- "x86"
-- "armv7l"
-license: ["GPL-2.0"]
-draft: false
----
+date: "2026-01-23 18:12:00"
+[taxonomies]
+categories = ["AudioVideo"]
+authors = ["Robert Kausch"]
+tags = ["Audio Converter"]
+frameworks = ["GTK+3"]
+architectures = ["x86_64", "arm64"]
+- "x86", "armv7l"
+license = ["GPL-2.0"]
++++
 
 <img src="https://freac.org/images/freac-linux.png">
 

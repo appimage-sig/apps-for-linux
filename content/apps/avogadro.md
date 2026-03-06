@@ -1,20 +1,17 @@
----
++++
 title: "Avogadro"
 description: |
  "Advanced molecular editor designed for cross-platform use in computational chemistry, molecular modeling, bioinformatics, materials science, and related areas"
-pubDate: 2026-02-06T03:35:00Z
-categories: ["Science"]
-authors: ["Open Chemistry"]
+date: "2026-02-06 03:35:00"
+[taxonomies]
+categories = ["Science"]
+authors = ["Open Chemistry"]
 tags: 
-- "Chemistry"
-frameworks:
-- "Qt6"
-architectures: 
-- "x86_64"
-- "arm64"
-license: ["BSD-3-Clause"]
-draft: false
----
+- "Chemistry"]
+frameworks = ["Qt6"]
+architectures = ["x86_64", "arm64"]
+license = ["BSD-3-Clause"]
++++
 
 <img src="https://two.avogadro.cc/_images/home_screenshot_1.png" alt="Main Window">
 

@@ -1,21 +1,16 @@
----
++++
 title: "Rare"
 description: |
  "Frontend for legendary, the open source Epic Games Launcher alternative"
-pubDate: 2025-12-27T13:42:00Z
-categories: ["Games"]
-authors: ["Rare Devs"]
-tags:
-- "Epic Games"
-- "Game launcher"
-frameworks:
-- "Qt6"
-architectures: 
-- "x86_64"
-- "arm64"
-license: ["GPL-3.0"]
-draft: false
----
+date: "2025-12-27 13:42:00"
+[taxonomies]
+categories = ["Games"]
+authors = ["Rare Devs"]
+tags = ["Epic Games", "Game launcher"]
+frameworks = ["Qt6"]
+architectures = ["x86_64", "arm64"]
+license = ["GPL-3.0"]
++++
 
 Frontend for legendary, the open source Epic Games Launcher alternative
 

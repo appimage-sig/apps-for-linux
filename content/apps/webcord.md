@@ -1,22 +1,17 @@
----
++++
 title: "WebCord"
 description: |
  "A Discord and SpaceBar :electron:-based client implemented without Discord API."
-pubDate: 2025-11-18T03:55:00Z
-categories: ["Network"]
-authors: ["SpacingBat3"]
-tags:
-- "Messenger"
-- "Discord client"
-frameworks:
-- "Electron"
-architectures: 
-- "x86_64"
-- "arm64"
+date: "2025-11-18 03:55:00"
+[taxonomies]
+categories = ["Network"]
+authors = ["SpacingBat3"]
+tags = ["Messenger", "Discord client"]
+frameworks = ["Electron"]
+architectures = ["x86_64", "arm64"]
 - "armv7l"
-license: ["MIT"]
-draft: false
----
+license = ["MIT"]
++++
 
 A Discord and SpaceBar Electron-based client implemented without Discord API.
 

@@ -1,19 +1,16 @@
----
++++
 title: "FreeCAD"
 description: |
  "FreeCAD is a general purpose Open Source 3D CAD/MCAD/CAx/CAE/PLM modeler"
-pubDate: 2026-01-08T22:40:00Z
-categories: ["Graphics"]
-authors: ["The FreeCAD Team"]
-tags:
-- "CAD"
-frameworks:
-- "Qt5"
-architectures: 
-- "x86_64"
-license: ["LGPL-2.1"]
-draft: false
----
+date: "2026-01-08 22:40:00"
+[taxonomies]
+categories = ["Graphics"]
+authors = ["The FreeCAD Team"]
+tags = ["CAD"]
+frameworks = ["Qt5"]
+architectures = ["x86_64"]
+license = ["LGPL-2.1"]
++++
 
 <img src="https://raw.githubusercontent.com/FreeCAD/FreeCAD/refs/heads/main/.github/images/partdesign.png">
 

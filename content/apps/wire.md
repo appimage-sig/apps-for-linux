@@ -1,21 +1,16 @@
----
++++
 title: "Wire"
 description: |
  "Wire is the most secure platform for messaging, audio, and video calls, based on edge computing and zero knowledge architecture."
-pubDate: 2025-12-10T16:16:00Z
-categories: ["Network"]
-authors: ["Wire Swiss"]
-tags:
-- "Messenger"
-- "Censorship-resistance software"
-- "Cross-platform software"
-frameworks:
-- "Electron"
-architectures: 
-- "x86_64"
-license: ["GPL-3.0"]
-draft: false
----
+date: "2025-12-10 16:16:00"
+[taxonomies]
+categories = ["Network"]
+authors = ["Wire Swiss"]
+tags = ["Messenger", "Censorship-resistance software", "Cross-platform software"]
+frameworks = ["Electron"]
+architectures = ["x86_64"]
+license = ["GPL-3.0"]
++++
 
 Wire is the most secure platform for messaging, audio, and video calls, based on edge computing and zero knowledge architecture.
 

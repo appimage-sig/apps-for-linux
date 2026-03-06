@@ -1,19 +1,15 @@
----
++++
 title: "Zen Browser"
 description: |
  "Performance-optimized and privacy-focused browser built atop Firefox"
-pubDate: 2026-01-25T01:49:00Z
-categories: ["Network"]
-authors: ["Zen Browser Team"]
-tags:
-- "Browser"
-- "Firefox-based"
-architectures: 
-- "x86_64"
-- "arm64"
-license: ["MPL-2.0"]
-draft: false
----
+date: "2026-01-25T01:49:00"
+[taxonomies]
+categories = ["Network"]
+authors = ["Zen Browser Team"]
+tags = ["Browser", "Firefox-based"
+architectures = ["x86_64", "arm64"]
+license = ["MPL-2.0"]
++++
 
 <img src="https://zen-browser.app/_astro/ComImage.DV0rTSHO_BBUc2.webp">
 

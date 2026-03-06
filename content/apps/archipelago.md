@@ -1,19 +1,18 @@
----
++++
 title: "Archipelago"
 description: |
  "Archipelago provides a generic framework for developing multiworld capability for game randomizers"
-pubDate: 2026-01-19T23:05:00Z
-categories: ["Games"]
-authors: ["Archipelago"]
+date: "2026-01-19 23:05:00"
+[taxonomies]
+categories = ["Games"]
+authors = ["Archipelago"]
 tags: 
-- "Game Engine"
+- "Game Engine"]
 frameworks:
 - "Kivy"
-architectures: 
-- "x86_64"
-license: ["GPL-3.0"]
-draft: false
----
+architectures = ["x86_64"]
+license = ["GPL-3.0"]
++++
 
 Archipelago provides a generic framework for developing multiworld capability for game randomizers
 

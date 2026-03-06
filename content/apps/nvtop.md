@@ -1,20 +1,17 @@
----
++++
 title: "nvtop"
 description: |
  "GPUs process monitoring for AMD, Intel and NVIDIA"
-pubDate: 2026-01-18T16:18:00Z
-categories: ["Utilities"]
-authors: ["Maxime Schmitt"]
-tags:
-- "Resource Monitor"
-- "GPU"
+date: "2026-01-18 16:18:00"
+[taxonomies]
+categories = ["Utilities"]
+authors = ["Maxime Schmitt"]
+tags = ["Resource Monitor", "GPU"]
 frameworks:
 - "ncurses"
-architectures: 
-- "x86_64"
-license: ["GPL-3.0"]
-draft: false
----
+architectures = ["x86_64"]
+license = ["GPL-3.0"]
++++
 
 GPUs process monitoring for AMD, Intel and NVIDIA
 

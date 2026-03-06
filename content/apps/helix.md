@@ -1,20 +1,17 @@
----
++++
 title: "Helix"
 description: |
  "A post-modern modal text editor."
-pubDate: 2025-07-18T18:13:00Z
-categories: ["Development"]
-authors: ["Blaž Hrastnik"]
-tags:
-- "Code editor"
-- "TUI"
+date: "2025-07-18 18:13:00"
+[taxonomies]
+categories = ["Development"]
+authors = ["Blaž Hrastnik"]
+tags = ["Code editor", "TUI"]
 frameworks:
 - "tui-rs"
-architectures: 
-- "x86_64"
-license: ["MPL-2.0"]
-draft: false
----
+architectures = ["x86_64"]
+license = ["MPL-2.0"]
++++
 
 <img src="https://raw.githubusercontent.com/helix-editor/helix/refs/heads/master/screenshot.png">
 

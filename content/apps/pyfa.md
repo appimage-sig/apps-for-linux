@@ -1,18 +1,15 @@
----
++++
 title: "pyfa"
 description: |
  "Python fitting assistant, cross-platform fitting tool for EVE Online"
-pubDate: 2025-12-11T22:05:00Z
-categories: ["Games"]
-authors: ["Diego Duclos"]
-tags:
-- "Game client"
-- "WxWidgets"
-architectures: 
-- "x86_64"
-license: ["GPL-3.0"]
-draft: false
----
+date: "2025-12-11 22:05:00"
+[taxonomies]
+categories = ["Games"]
+authors = ["Diego Duclos"]
+tags = ["Game client", "WxWidgets"
+architectures = ["x86_64"]
+license = ["GPL-3.0"]
++++
 
 Python fitting assistant, cross-platform fitting tool for EVE Online
 

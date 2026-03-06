@@ -1,20 +1,16 @@
----
++++
 title: "Cinny"
 description: |
  "Matrix client focusing primarly on simple, elegant and secure interface"
-pubDate: 2025-11-05T10:24:00Z
-categories: ["Network"]
-authors: ["Ajay Bura"]
-tags:
-- "Matrix"
-- "Messenger"
-frameworks:
-- "Tauri"
-architectures: 
-- "x86_64"
-license: ["AGPL-3.0"]
-draft: false
----
+date: "2025-11-05 10:24:00"
+[taxonomies]
+categories = ["Network"]
+authors = ["Ajay Bura"]
+tags = ["Matrix", "Messenger"]
+frameworks = ["Tauri"]
+architectures = ["x86_64"]
+license = ["AGPL-3.0"]
++++
 
 <img src="https://cinny.in/assets/preview-light.png">
 

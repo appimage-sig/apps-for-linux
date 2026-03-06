@@ -1,19 +1,17 @@
----
++++
 title: "Blockstream"
 description: |
  "Non-custodial Bitcoin wallet"
-pubDate: 2026-01-14T01:17:00Z
-categories: ["Finance"]
-authors: ["Blockstream"]
+date: "2026-01-14T01:17:00"
+[taxonomies]
+categories = ["Finance"]
+authors = ["Blockstream"]
 tags: 
-- "Cryptocurrency"
-frameworks:
-- "Qt6"
-architectures: 
-- "x86_64"
-license: ["GPL-3.0"]
-draft: false
----
+- "Cryptocurrency"]
+frameworks = ["Qt6"]
+architectures = ["x86_64"]
+license = ["GPL-3.0"]
++++
 
 Non-custodial Bitcoin wallet
 

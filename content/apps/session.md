@@ -1,21 +1,16 @@
----
++++
 title: "Session"
 description: |
  "Session Desktop - Onion routing based messenger."
-pubDate: 2026-01-08T02:42:00Z
-categories: ["Network"]
-authors: ["The Oxen Project"]
-tags:
-- "Messenger"
-- "Censorship-resistance software"
-- "Cross-platform software"
-frameworks:
-- "Electron"
-architectures: 
-- "x86_64"
-license: ["GPL-3.0"]
-draft: false
----
+date: "2026-01-08 02:42:00"
+[taxonomies]
+categories = ["Network"]
+authors = ["The Oxen Project"]
+tags = ["Messenger", "Censorship-resistance software", "Cross-platform software"]
+frameworks = ["Electron"]
+architectures = ["x86_64"]
+license = ["GPL-3.0"]
++++
 
 <img src="https://i.imgur.com/ydVhH00.png">
 

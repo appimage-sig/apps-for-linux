@@ -1,20 +1,16 @@
----
++++
 title: "Bambu Studio"
 description: |
  "Bambu Studio is an open-source, cutting-edge, feature-rich slicing software"
-pubDate: 2025-11-19T06:00:00Z
-categories: ["Graphics"]
-authors: ["Bambu Lab"]
-tags:
-- "3D"
-- "Slicing software"
-frameworks:
-- "GTK+3"
-architectures: 
-- "x86_64"
-license: ["AGPL-3.0"]
-draft: false
----
+date: "2025-11-19 06:00:00"
+[taxonomies]
+categories = ["Graphics"]
+authors = ["Bambu Lab"]
+tags = ["3D", "Slicing software"]
+frameworks = ["GTK+3"]
+architectures = ["x86_64"]
+license = ["AGPL-3.0"]
++++
 
 <img src="https://github.com/flathub/flathub/assets/769861/66ce77d0-a376-4f57-8840-c5c210e95411" alt="Preparing a print">
 

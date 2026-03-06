@@ -1,20 +1,17 @@
----
++++
 title: "ImHex"
 description: |
  "ImHex is a feature-rich Hex Editor."
-pubDate: 2025-12-21T21:57:00Z
-categories: ["Development"]
-authors: ["WerWolv"]
-tags:
-- "Hex editor"
+date: "2025-12-21 21:57:00"
+[taxonomies]
+categories = ["Development"]
+authors = ["WerWolv"]
+tags = ["Hex editor"]
 frameworks:
 - "IMGUI"
-architectures: 
-- "x86_64"
-- "arm64"
-license: ["GPL-2.0"]
-draft: false
----
+architectures = ["x86_64", "arm64"]
+license = ["GPL-2.0"]
++++
 
 <img src="https://github.com/user-attachments/assets/902a7c4c-410d-490f-999e-14c856fec027">
 

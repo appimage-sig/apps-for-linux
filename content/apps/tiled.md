@@ -1,19 +1,17 @@
----
++++
 title: "Tiled"
 description: |
  "Tiled is a general purpose tile map editor for all tile-based games, such as RPGs, platformers or Breakout clones."
-pubDate: 2025-01-28T04:42:00Z
-categories: ["Games"]
-authors: ["Tiled Authors"]
+date: "2025-01-28 04:42:00"
+[taxonomies]
+categories = ["Games"]
+authors = ["Tiled Authors"]
 tags: 
-- "Map Editor"
-frameworks:
-- "Qt5"
-architectures: 
-- "x86_64"
-license: ["GPL-2.0"]
-draft: false
----
+- "Map Editor"]
+frameworks = ["Qt5"]
+architectures = ["x86_64"]
+license = ["GPL-2.0"]
++++
 
 <img src="http://mapeditor.org/img/screenshot-front.png" alt="Main Screen">
 

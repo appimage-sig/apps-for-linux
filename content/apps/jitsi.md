@@ -1,21 +1,17 @@
----
++++
 title: "Jitsi Meet"
 description: |
  "Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application."
-pubDate: 2026-02-04T19:42:00Z
-categories: ["Network"]
-authors: ["Jitsi team"]
+date: "2026-02-04 19:42:00"
+[taxonomies]
+categories = ["Network"]
+authors = ["Jitsi team"]
 tags: 
-- "Conference calling"
-- "Cross-platform software"
-frameworks:
-- "Electron"
-architectures: 
-- "x86_64"
-- "arm64"
-license: ["Apache-2.0"]
-draft: false
----
+- "Conference calling", "Cross-platform software"]
+frameworks = ["Electron"]
+architectures = ["x86_64", "arm64"]
+license = ["Apache-2.0"]
++++
 
 <img src="https://raw.githubusercontent.com/jitsi/jitsi-meet-electron/refs/heads/master/screenshot_linux.png">
 

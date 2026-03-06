@@ -1,22 +1,17 @@
----
++++
 title: "DuckStation"
 description: |
  "Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64"
-pubDate: 2026-01-17T19:05:00Z
-categories: ["Games"]
-authors: ["Connor McLaughlin"]
-tags:
-- "Console emulator"
-- "PlayStation Emulator"
-frameworks:
-- "Qt6"
-architectures: 
-- "x86_64"
-- "arm64"
+date: "2026-01-17 19:05:00"
+[taxonomies]
+categories = ["Games"]
+authors = ["Connor McLaughlin"]
+tags = ["Console emulator", "PlayStation Emulator"]
+frameworks = ["Qt6"]
+architectures = ["x86_64", "arm64"]
 - "armv7l"
-license: ["GPL-3.0"]
-draft: false
----
+license = ["GPL-3.0"]
++++
 
 <img src="https://raw.githubusercontent.com/stenzek/duckstation/md-images/main-qt.png">
 

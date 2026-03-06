@@ -1,20 +1,16 @@
----
++++
 title: "GitFourchette"
 description: |
  "The comfortable Git UI for Linux."
-pubDate: 2026-02-02T01:54:00Z
-categories: ["Development"]
-authors: ["Iliyas Jorio"]
-tags:
-- "Git client"
-frameworks:
-- "Qt6"
-architectures: 
-- "x86_64"
-- "arm64"
-license: ["GPL-3.0"]
-draft: false
----
+date: "2026-02-02 01:54:00"
+[taxonomies]
+categories = ["Development"]
+authors = ["Iliyas Jorio"]
+tags = ["Git client"]
+frameworks = ["Qt6"]
+architectures = ["x86_64", "arm64"]
+license = ["GPL-3.0"]
++++
 
 <img src="https://gitfourchette.org/_static/appstream/packshot-shadow-light.png">
 

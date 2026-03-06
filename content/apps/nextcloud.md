@@ -1,20 +1,16 @@
----
++++
 title: "Nextcloud"
 description: |
  "Nextcloud is the industry-leading, fully open-source, on-premises content collaboration platform."
-pubDate: 2025-12-15T21:39:00Z
-categories: ["Network"]
-authors: ["Nextcloud"]
-tags:
-- "Collaboration platform"
-- "Cross-platform software"
-frameworks:
-- "Qt6"
-architectures: 
-- "x86_64"
-license: ["GPL-2.0"]
-draft: false
----
+date: "2025-12-15 21:39:00"
+[taxonomies]
+categories = ["Network"]
+authors = ["Nextcloud"]
+tags = ["Collaboration platform", "Cross-platform software"]
+frameworks = ["Qt6"]
+architectures = ["x86_64"]
+license = ["GPL-2.0"]
++++
 
 Nextcloud is the industry-leading, fully open-source, on-premises content collaboration platform.
 

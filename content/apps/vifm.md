@@ -1,18 +1,15 @@
----
++++
 title: "vifm"
 description: |
  "File manager with curses interface"
-pubDate: 2025-06-04T20:43:00Z
-categories: ["System"]
-authors: ["vifm Authors"]
-tags:
-- "File Manager"
-- "ncurses"
-architectures: 
-- "x86_64"
-license: ["GPL-2.0"]
-draft: false
----
+date: "2025-06-04 20:43:00"
+[taxonomies]
+categories = ["System"]
+authors = ["vifm Authors"]
+tags = ["File Manager", "ncurses"
+architectures = ["x86_64"]
+license = ["GPL-2.0"]
++++
 
 <img src="https://raw.githubusercontent.com/vifm/vifm/refs/heads/master/data/graphics/screenshot.png" alt="Main Screen">
 

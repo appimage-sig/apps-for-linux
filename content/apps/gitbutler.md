@@ -1,20 +1,16 @@
----
++++
 title: "GitButler"
 description: |
  "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte."
-pubDate: 2025-02-03T18:11:00Z
-categories: ["Development"]
-authors: ["GitButler"]
-tags:
-- "Git client"
-frameworks:
-- "Tauri"
-architectures: 
-- "x86_64"
-- "arm64"
-license: ["FSL-1.0-MIT"]
-draft: false
----
+date: "2025-02-03 18:11:00"
+[taxonomies]
+categories = ["Development"]
+authors = ["GitButler"]
+tags = ["Git client"]
+frameworks = ["Tauri"]
+architectures = ["x86_64", "arm64"]
+license = ["FSL-1.0-MIT"]
++++
 
 <img src="https://github.com/gitbutlerapp/gitbutler/assets/16262535/0d180bfd-7a3c-4a66-a923-30534c5a8197">
 

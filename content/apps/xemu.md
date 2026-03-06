@@ -1,21 +1,17 @@
----
++++
 title: "xemu"
 description: |
  "Free and open-source original Xbox game console emulation"
-pubDate: 2026-01-16T10:14:00Z
-categories: ["Games"]
-authors: ["xemu Project"]
-tags:
-- "Xbox emulator"
-- "Console emulator"
+date: "2026-01-16 10:14:00"
+[taxonomies]
+categories = ["Games"]
+authors = ["xemu Project"]
+tags = ["Xbox emulator", "Console emulator"]
 frameworks:
 - "GTK3"
-architectures: 
-- "x86_64"
-- "arm64"
-license: ["GPL-2.0"]
-draft: false
----
+architectures = ["x86_64", "arm64"]
+license = ["GPL-2.0"]
++++
 
 Free and open-source original Xbox game console emulation
 

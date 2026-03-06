@@ -1,20 +1,16 @@
----
++++
 title: "Converseen"
 description: |
  "Converseen is a batch image converter and resizer"
-pubDate: 2025-12-01T17:04:00Z
-categories: ["Graphics"]
-authors: ["Francesco Mondello"]
-tags:
-- "Image converter"
-frameworks:
-- "Qt6"
-architectures: 
-- "x86_64"
-- "arm64"
-license: ["GPL-3.0"]
-draft: false
----
+date: "2025-12-01 17:04:00"
+[taxonomies]
+categories = ["Graphics"]
+authors = ["Francesco Mondello"]
+tags = ["Image converter"]
+frameworks = ["Qt6"]
+architectures = ["x86_64", "arm64"]
+license = ["GPL-3.0"]
++++
 
 <img src="https://converseen.fasterland.net/images/appstream/converseen-appdata-kde6_1.png">
 

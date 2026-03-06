@@ -1,20 +1,16 @@
----
++++
 title: "Cura"
 description: |
  "3D printer / slicing GUI built on top of the Uranium framework"
-pubDate: 2025-10-23T16:04:00Z
-categories: ["Graphics"]
-authors: ["Ultimaker"]
-tags:
-- "Slicing software"
-- "3D"
-frameworks:
-- "Qt6"
-architectures: 
-- "x86_64"
-license: ["LGPL-3.0"]
-draft: false
----
+date: "2025-10-23 16:04:00"
+[taxonomies]
+categories = ["Graphics"]
+authors = ["Ultimaker"]
+tags = ["Slicing software", "3D"]
+frameworks = ["Qt6"]
+architectures = ["x86_64"]
+license = ["LGPL-3.0"]
++++
 
 <img src="https://raw.githubusercontent.com/Ultimaker/Cura/main/cura-logo.PNG">
 

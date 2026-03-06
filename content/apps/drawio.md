@@ -1,20 +1,16 @@
----
++++
 title: "draw.io"
 description: |
  "Security-first diagramming for teams."
-pubDate: 2025-12-09T12:59:00Z
-categories: ["Graphics"]
-authors: ["JGraph"]
-tags:
-- "Diagramming tool"
-frameworks:
-- "Electron"
-architectures: 
-- "x86_64"
-- "arm64"
-license: ["Apache-2.0"]
-draft: false
----
+date: "2025-12-09 12:59:00"
+[taxonomies]
+categories = ["Graphics"]
+authors = ["JGraph"]
+tags = ["Diagramming tool"]
+frameworks = ["Electron"]
+architectures = ["x86_64", "arm64"]
+license = ["Apache-2.0"]
++++
 
 <img src="https://www.drawio.com/assets/svg/home-dia1.svg">
 

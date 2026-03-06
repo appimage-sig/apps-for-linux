@@ -1,19 +1,16 @@
----
++++
 title: "ksnip"
 description: |
  "ksnip the cross-platform screenshot and annotation tool"
-pubDate: 2024-01-20T01:49:00Z
-categories: ["Graphics"]
-authors: ["Damir Porobić"]
-tags:
-- "Screenshot tool"
-frameworks:
-- "Qt6"
-architectures: 
-- "x86_64"
-license: ["GPL-3.0"]
-draft: false
----
+date: " 2024-01-20T01:49:00"
+[taxonomies]
+categories = ["Graphics"]
+authors = ["Damir Porobić"]
+tags = ["Screenshot tool"]
+frameworks = ["Qt6"]
+architectures = ["x86_64"]
+license = ["GPL-3.0"]
++++
 
 ksnip the cross-platform screenshot and annotation tool
 

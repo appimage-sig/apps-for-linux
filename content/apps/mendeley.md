@@ -1,17 +1,15 @@
----
++++
 title: "Mendeley"
 description: |
  "The free all-in-one reference manager"
-pubDate: 2026-01-20T00:00:00Z
-categories: ["Science"]
-authors: ["Elsevier"]
-tags:
-- "Reference manager"
-architectures: 
-- "x86_64"
-license: ["EULA"]
-draft: false
----
+date: "2026-01-20 00:00:00"
+[taxonomies]
+categories = ["Science"]
+authors = ["Elsevier"]
+tags = ["Reference manager"
+architectures = ["x86_64"]
+license = ["EULA"]
++++
 
 The free all-in-one reference manager
 

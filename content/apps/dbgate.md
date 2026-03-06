@@ -1,21 +1,16 @@
----
++++
 title: "DbGate"
 description: |
  "Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others"
-pubDate: 2025-12-22T13:57:00Z
-categories: ["Development"]
-authors: ["Jan Prochazka"]
-tags:
-- "Database"
-- "SQL"
-frameworks:
-- "Electron"
-architectures: 
-- "x86_64"
-- "arm64"
-license: ["MIT"]
-draft: false
----
+date: "2025-12-22 13:57:00"
+[taxonomies]
+categories = ["Development"]
+authors = ["Jan Prochazka"]
+tags = ["Database", "SQL"]
+frameworks = ["Electron"]
+architectures = ["x86_64", "arm64"]
+license = ["MIT"]
++++
 
 <img src="https://raw.githubusercontent.com/dbgate/dbgate/master/img/screenshot1.png">
 

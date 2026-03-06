@@ -1,17 +1,15 @@
----
++++
 title: "Glint"
 description: |
  "A Graphical interface for Git"
-pubDate: 2025-10-31T19:51:00Z
-categories: ["Development"]
-authors: ["Logic Over Snacks"]
-tags:
-- "Git client"
-architectures: 
-- "x86_64"
-license: ["EULA"]
-draft: false
----
+date: "2025-10-31 19:51:00"
+[taxonomies]
+categories = ["Development"]
+authors = ["Logic Over Snacks"]
+tags = ["Git client"
+architectures = ["x86_64"]
+license = ["EULA"]
++++
 
 <img src="https://glint.info/assets/screenshot-1536.webp">
 

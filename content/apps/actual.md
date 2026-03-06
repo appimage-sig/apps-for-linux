@@ -1,20 +1,16 @@
----
++++
 title: "Actual Budget"
 description: |
  "Actual Budget is a super fast and privacy-focused app for managing your finances"
-pubDate: 2026-01-04T20:57:00Z
-categories: ["Finance"]
-authors: ["James Long"]
-tags:
-- "Budget software"
-frameworks:
-- "Electron"
-architectures: 
-- "x86_64"
-- "arm64"
-license: ["MIT"]
-draft: false
----
+date: "2026-01-04 20:57:00"
+[taxonomies]
+categories = ["Finance"]
+authors = ["James Long"]
+tags = ["Budget software"]
+frameworks = ["Electron"]
+architectures = ["x86_64", "arm64"]
+license = ["MIT"]
++++
 
 <img src="https://raw.githubusercontent.com/actualbudget/actual/master/packages/desktop-electron/screenshots/budget-gnome-light.png" alt="Budget screen">
 

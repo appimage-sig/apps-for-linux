@@ -1,20 +1,16 @@
----
++++
 title: "Tockler"
 description: |
  "An application that tracks your time by monitoring your active window title and idle time."
-pubDate: 2025-04-12T11:05:00Z
-categories: ["Productivity"]
-authors: ["Maigo Erit"]
-tags:
-- "Time management"
-- "Digital Wellbeing"
-frameworks:
-- "Electron"
-architectures: 
-- "x86_64"
-license: ["GPL-2.0"]
-draft: false
----
+date: "2025-04-12 11:05:00"
+[taxonomies]
+categories = ["Productivity"]
+authors = ["Maigo Erit"]
+tags = ["Time management", "Digital Wellbeing"]
+frameworks = ["Electron"]
+architectures = ["x86_64"]
+license = ["GPL-2.0"]
++++
 
 <img src="https://raw.githubusercontent.com/MayGo/tockler/master/screenshots/light/tockler-timeline.png" alt="Main Screen">
 

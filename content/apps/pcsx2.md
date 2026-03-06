@@ -1,20 +1,16 @@
----
++++
 title: "PCSX2"
 description: |
  "Free and open-source PlayStation 2 (PS2) emulator"
-pubDate: 2026-01-06T02:46:00Z
-categories: ["Games"]
-authors: ["PCSX2 Team"]
-tags:
-- "PlayStation Emulator"
-- "Console Emulator"
-frameworks:
-- "Qt6"
-architectures: 
-- "x86_64"
-license: ["GPL-3.0"]
-draft: false
----
+date: "2026-01-06 02:46:00"
+[taxonomies]
+categories = ["Games"]
+authors = ["PCSX2 Team"]
+tags = ["PlayStation Emulator", "Console Emulator"]
+frameworks = ["Qt6"]
+architectures = ["x86_64"]
+license = ["GPL-3.0"]
++++
 
 Free and open-source PlayStation 2 (PS2) emulator
 

@@ -1,19 +1,17 @@
----
++++
 title: "Kdenlive"
 description: |
  "Free and Open Source Video Editor"
-pubDate: 2025-12-18T16:44:00Z 	
-categories: ["AudioVideo"]
-authors: ["Kdenlive Team"]
+date: "2025-12-18 16:44:00"
+[taxonomies] 	
+categories = ["AudioVideo"]
+authors = ["Kdenlive Team"]
 tags: 
-- "Video Editor"
-frameworks:
-- "Qt6"
-architectures: 
-- "x86_64"
-license: ["GPL-3.0"]
-draft: false
----
+- "Video Editor"]
+frameworks = ["Qt6"]
+architectures = ["x86_64"]
+license = ["GPL-3.0"]
++++
 
 <img src="https://cdn.kde.org/screenshots/kdenlive/k6.png" alt="Main Screen">
 

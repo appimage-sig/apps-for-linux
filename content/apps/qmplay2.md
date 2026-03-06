@@ -1,19 +1,16 @@
----
++++
 title: "QMPlay2"
 description: |
  "QMPlay2 is a video and audio player which can play most formats and codecs."
-pubDate: 2025-09-11T22:27:00Z
-categories: ["AudioVideo"]
-authors: ["Błażej Szczygieł"]
-tags:
-- "Media player"
-frameworks:
-- "Qt5"
-architectures: 
-- "x86_64"
-license: ["LGPL-3.0"]
-draft: false
----
+date: "2025-09-11 22:27:00"
+[taxonomies]
+categories = ["AudioVideo"]
+authors = ["Błażej Szczygieł"]
+tags = ["Media player"]
+frameworks = ["Qt5"]
+architectures = ["x86_64"]
+license = ["LGPL-3.0"]
++++
 
 <img src="https://raw.githubusercontent.com/zaps166/GitHubCommonContents/master/Screenshots/QMPlay2.png">
 

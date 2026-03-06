@@ -1,18 +1,15 @@
----
++++
 title: "Lychee"
 description: |
  "Lychee simplifies the printing process and makes 3D printing accessible to everyone by offering the most innovative and user-friendly solutions."
-pubDate: 2025-12-17T00:00:00Z
-categories: ["Graphics"]
-authors: ["Mango 3D"]
-tags:
-- "3D"
-- "Slicing software"
-architectures: 
-- "x86_64"
-license: ["EULA"]
-draft: false
----
+date: "2025-12-17 00:00:00"
+[taxonomies]
+categories = ["Graphics"]
+authors = ["Mango 3D"]
+tags = ["3D", "Slicing software"
+architectures = ["x86_64"]
+license = ["EULA"]
++++
 
 Lychee simplifies the printing process and makes 3D printing accessible to everyone by offering the most innovative and user-friendly solutions.
 

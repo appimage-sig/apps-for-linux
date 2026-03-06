@@ -1,20 +1,16 @@
----
++++
 title: "Vieb"
 description: |
  "Vim Inspired Electron Browser"
-pubDate: 2025-11-03T01:13:00Z
-categories: ["Network"]
-authors: ["Jelmer van Arnhem"]
-tags:
-- "Browser"
-frameworks:
-- "Electron"
-architectures: 
-- "x86_64"
-- "arm64"
-license: ["GPL-3.0"]
-draft: false
----
+date: "2025-11-03 01:13:00"
+[taxonomies]
+categories = ["Network"]
+authors = ["Jelmer van Arnhem"]
+tags = ["Browser"]
+frameworks = ["Electron"]
+architectures = ["x86_64", "arm64"]
+license = ["GPL-3.0"]
++++
 
 <img src="https://vieb.dev/img/1.png" alt="Main Screen">
 

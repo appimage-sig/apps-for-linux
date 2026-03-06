@@ -1,18 +1,15 @@
----
++++
 title: "Mochi"
 description: |
  "Take notes and make flashcards using markdown, then study them using spaced repetition."
-pubDate: 2026-01-27T00:00:00Z
-categories: ["Productivity"]
-authors: ["Mochi Cards"]
-tags:
-- "Notes"
-- "Cross-platform software"
-architectures: 
-- "x86_64"
-license: ["EULA"]
-draft: false
----
+date: "2026-01-27 00:00:00"
+[taxonomies]
+categories = ["Productivity"]
+authors = ["Mochi Cards"]
+tags = ["Notes", "Cross-platform software"
+architectures = ["x86_64"]
+license = ["EULA"]
++++
 
 Take notes and make flashcards using markdown, then study them using spaced repetition.
 

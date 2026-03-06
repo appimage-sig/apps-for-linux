@@ -1,18 +1,15 @@
----
++++
 title: "Wavebox"
 description: |
  "Connect all the apps and websites you need to run your business and stay signed-in to every account"
-pubDate: 2026-01-21T13:11:00Z
-categories: ["Network"]
-authors: ["Wavebox"]
-tags:
-- "Web apps"
-- "Browser"
-architectures: 
-- "x86_64"
-license: ["EULA"]
-draft: false
----
+date: "2026-01-21 13:11:00"
+[taxonomies]
+categories = ["Network"]
+authors = ["Wavebox"]
+tags = ["Web apps", "Browser"
+architectures = ["x86_64"]
+license = ["EULA"]
++++
 
 <img src="https://raw.githubusercontent.com/wavebox/waveboxapp/refs/heads/master/images/hero.png">
 

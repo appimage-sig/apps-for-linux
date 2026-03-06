@@ -1,20 +1,16 @@
----
++++
 title: "CP Editor"
 description: |
  "The IDE for competitive programming."
-pubDate: 2024-02-17T07:58:00Z
-categories: ["Development"]
-authors: ["CP Editor team"]
-tags:
-- "Code editor"
-- "Competitive programming"
-frameworks:
-- "Qt5"
-architectures: 
-- "x86_64"
-license: ["GPL-3.0"]
-draft: false
----
+date: " 2024-02-17 07:58:00"
+[taxonomies]
+categories = ["Development"]
+authors = ["CP Editor team"]
+tags = ["Code editor", "Competitive programming"]
+frameworks = ["Qt5"]
+architectures = ["x86_64"]
+license = ["GPL-3.0"]
++++
 
 <img src="https://raw.githubusercontent.com/cpeditor/cpeditor/refs/heads/master/assets/demo.gif">
 

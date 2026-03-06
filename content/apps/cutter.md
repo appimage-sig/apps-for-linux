@@ -1,19 +1,16 @@
----
++++
 title: "Cutter"
 description: |
  "Free and Open Source Reverse Engineering platform powered by Rizin"
-pubDate: 2025-05-11T17:58:00Z
-categories: ["Development"]
-authors: ["Rizin"]
-tags:
-- "Reverse Engineering"
-frameworks:
-- "Qt6"
-architectures: 
-- "x86_64"
-license: ["GPL-3.0"]
-draft: false
----
+date: "2025-05-11 17:58:00"
+[taxonomies]
+categories = ["Development"]
+authors = ["Rizin"]
+tags = ["Reverse Engineering"]
+frameworks = ["Qt6"]
+architectures = ["x86_64"]
+license = ["GPL-3.0"]
++++
 
 <img src="https://raw.githubusercontent.com/rizinorg/cutter/dev/docs/source/images/screenshot.png">
 

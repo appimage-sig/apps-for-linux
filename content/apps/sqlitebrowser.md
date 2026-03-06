@@ -1,21 +1,16 @@
----
++++
 title: "DB Browser for SQLite"
 description: |
  "High quality, visual, open source tool to create, design, and edit database files compatible with SQLite"
-pubDate: 2026-01-28T21:49:00Z
-categories: ["Development"]
-authors: ["DB Browser for SQLite Team"]
-tags:
-- "Database"
-- "SQL"
-frameworks:
-- "Qt5"
-architectures: 
-- "x86_64"
-- "arm64"
-license: ["GPL-3.0"]
-draft: false
----
+date: "2026-01-28 21:49:00"
+[taxonomies]
+categories = ["Development"]
+authors = ["DB Browser for SQLite Team"]
+tags = ["Database", "SQL"]
+frameworks = ["Qt5"]
+architectures = ["x86_64", "arm64"]
+license = ["GPL-3.0"]
++++
 
 <img src="https://raw.githubusercontent.com/sqlitebrowser/sqlitebrowser/master/images/sqlitebrowser.png
 

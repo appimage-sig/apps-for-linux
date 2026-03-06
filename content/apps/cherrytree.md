@@ -1,19 +1,16 @@
----
++++
 title: "CherryTree"
 description: |
  "A hierarchical note taking application, featuring rich text and syntax highlighting"
-pubDate: 2026-01-13T01:44:00Z
-categories: ["Productivity"]
-authors: ["Giuseppe Penone"]
-tags:
-- "Notes"
-frameworks:
-- "GTK+3"
-architectures: 
-- "x86_64"
-license: ["GPL-3.0"]
-draft: false
----
+date: "2026-01-13T01:44:00"
+[taxonomies]
+categories = ["Productivity"]
+authors = ["Giuseppe Penone"]
+tags = ["Notes"]
+frameworks = ["GTK+3"]
+architectures = ["x86_64"]
+license = ["GPL-3.0"]
++++
 
 <img src="https://raw.githubusercontent.com/giuspen/cherrytree/refs/heads/master/docs/cherrytree-main_window_text.png">
 

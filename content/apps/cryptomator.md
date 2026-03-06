@@ -1,20 +1,17 @@
----
++++
 title: "Cryptomator"
 description: |
  "Multi-platform transparent client-side encryption of your files in the cloud"
-pubDate: 2025-11-25T12:06:00Z
-categories: ["Productivity"]
-authors: ["Skymatic"]
-tags:
-- "Cloud encryption"
+date: "2025-11-25 12:06:00"
+[taxonomies]
+categories = ["Productivity"]
+authors = ["Skymatic"]
+tags = ["Cloud encryption"]
 frameworks:
 - "Java"
-architectures: 
-- "x86_64"
-- "arm64"
-license: ["GPL-3.0"]
-draft: false
----
+architectures = ["x86_64", "arm64"]
+license = ["GPL-3.0"]
++++
 
 <img src="https://static.cryptomator.org/desktop/flathubScreenshots/MainWindowUnlocked_light.png">
 

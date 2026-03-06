@@ -1,20 +1,16 @@
----
++++
 title: "Upscayl"
 description: |
  "Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy."
-pubDate: 2024-12-25T16:44:00Z
-categories: ["Graphics"]
-authors: ["Nayam Amarshe"]
-tags:
-- "Upscaling software"
-- "AI-powered software"
-frameworks:
-- "Electron"
-architectures: 
-- "x86_64"
-license: ["AGPL-3.0"]
-draft: false
----
+date: " 2024-12-25 16:44:00"
+[taxonomies]
+categories = ["Graphics"]
+authors = ["Nayam Amarshe"]
+tags = ["Upscaling software", "AI-powered software"]
+frameworks = ["Electron"]
+architectures = ["x86_64"]
+license = ["AGPL-3.0"]
++++
 
 <img src="https://raw.githubusercontent.com/upscayl/upscayl.github.io/main/static/2.png" alt="Main Screen">
 

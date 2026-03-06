@@ -1,20 +1,17 @@
----
++++
 title: "qBittorrent-Enhanced-Edition"
 description: |
  "qBittorrent is a bittorrent client programmed in C++ / Qt"
-pubDate: 2025-11-15T19:20:00Z
-categories: ["Network"]
-authors: ["c0re100"]
-tags:
-- "Torrent client"
-- "Download manager"
-frameworks:
-- "Qt6"
-architectures: 
-- "x86_64"
-license: ["GPL-2.0"]
-draft: false
----
+date: "2025-11-15 19:20:00"
+[taxonomies]
+categories = ["Network"]
+authors = ["c0re100"
+[taxonomies]]
+tags = ["Torrent client", "Download manager"]
+frameworks = ["Qt6"]
+architectures = ["x86_64"]
+license = ["GPL-2.0"]
++++
 
 qBittorrent is a bittorrent client programmed in C++ / Qt
 

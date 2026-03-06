@@ -1,21 +1,16 @@
----
++++
 title: "Buckets"
 description: |
  "Make your budget quick, simple and private"
-pubDate: 2025-05-15T17:51:00Z
-categories: ["Finance"]
-authors: ["One Part Rain"]
-tags:
-- "Budget software"
-- "Cross-platform software"
-frameworks:
-- "Electron"
-architectures: 
-- "x86_64"
-- "arm64"
-license: ["EULA"]
-draft: false
----
+date: "2025-05-15 17:51:00"
+[taxonomies]
+categories = ["Finance"]
+authors = ["One Part Rain"]
+tags = ["Budget software", "Cross-platform software"]
+frameworks = ["Electron"]
+architectures = ["x86_64", "arm64"]
+license = ["EULA"]
++++
 
 <img src="https://www.budgetwithbuckets.com/images/main-screenshot-hires.png">
 

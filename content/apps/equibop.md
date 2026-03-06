@@ -1,21 +1,16 @@
----
++++
 title: "Equibop"
 description: |
  "Equibop is a fork of Vesktop."
-pubDate: 2026-01-25T01:02:00Z
-categories: ["Network"]
-authors: ["Equicord"]
-tags:
-- "Messenger"
-- "Discord client"
-frameworks:
-- "Electron"
-architectures: 
-- "x86_64"
-- "arm64"
-license: ["GPL-3.0"]
-draft: false
----
+date: "2026-01-25T01:02:00"
+[taxonomies]
+categories = ["Network"]
+authors = ["Equicord"]
+tags = ["Messenger", "Discord client"]
+frameworks = ["Electron"]
+architectures = ["x86_64", "arm64"]
+license = ["GPL-3.0"]
++++
 
 Equibop is a fork of Vesktop - custom Discord App aiming to give you better performance and improve linux support
 

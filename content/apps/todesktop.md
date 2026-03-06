@@ -1,16 +1,14 @@
----
++++
 title: "ToDesktop"
 description: "Web app to desktop app in minutes"
-pubDate: 2025-12-11T00:00:00Z
-categories: ["Network"]
-authors: ["ToDesktop"]
-tags:
-- "Web apps management"
-architectures: 
-- "x86_64"
-license: ["EULA"]
-draft: false
----
+date: "2025-12-11 00:00:00"
+[taxonomies]
+categories = ["Network"]
+authors = ["ToDesktop"]
+tags = ["Web apps management"
+architectures = ["x86_64"]
+license = ["EULA"]
++++
 
 Web app to desktop app in minutes
 

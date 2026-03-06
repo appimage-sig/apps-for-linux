@@ -1,22 +1,17 @@
----
++++
 title: "Headlamp"
 description: |
  "A Kubernetes web UI that is fully-featured, user-friendly and extensible"
-pubDate: 2025-12-17T16:45:00Z
-categories: ["Development"]
-authors: ["The Headlamp Contributors"]
-tags:
-- "DevOps"
-- "Kubernetes"
-frameworks:
-- "Electron"
-architectures: 
-- "x86_64"
-- "arm64"
+date: "2025-12-17 16:45:00"
+[taxonomies]
+categories = ["Development"]
+authors = ["The Headlamp Contributors"]
+tags = ["DevOps", "Kubernetes"]
+frameworks = ["Electron"]
+architectures = ["x86_64", "arm64"]
 - "armv7l"
-license: ["Apache-2.0"]
-draft: false
----
+license = ["Apache-2.0"]
++++
 
 <img src="https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/videos/headlamp_quick_run.gif">
 

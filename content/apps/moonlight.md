@@ -1,19 +1,16 @@
----
++++
 title: "Moonlight"
 description: |
  "Moonlight PC is an open source PC client for NVIDIA GameStream and Sunshine."
-pubDate: 2024-09-17T04:35:00Z
-categories: ["Games"]
-authors: ["Moonlight Game Streaming Project"]
-tags:
-- "Remote play"
-frameworks:
-- "Qt6"
-architectures: 
-- "x86_64"
-license: ["GPL-3.0"]
-draft: false
----
+date: " 2024-09-17 04:35:00"
+[taxonomies]
+categories = ["Games"]
+authors = ["Moonlight Game Streaming Project"]
+tags = ["Remote play"]
+frameworks = ["Qt6"]
+architectures = ["x86_64"]
+license = ["GPL-3.0"]
++++
 
 Moonlight PC is an open source PC client for NVIDIA GameStream and Sunshine
 

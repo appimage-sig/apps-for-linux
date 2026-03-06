@@ -1,21 +1,18 @@
----
++++
 title: "Tidal-Hifi"
 description: |
  "The web version of TIDAL running in electron with Hi-Fi (High & Max) support thanks to widevine."
-pubDate: 2026-01-11T23:20:00Z
+date: "2026-01-11 23:20:00"
+[taxonomies]
 slug: Tidal-Hifi
-categories: ["AudioVideo"]
-authors: ["Rick van Lieshout"]
+categories = ["AudioVideo"]
+authors = ["Rick van Lieshout"]
 tags: 
-- "Music streaming client"
-- "Cross-platform software"
-frameworks:
-- "Electron"
-architectures: 
-- "x86_64"
-license: ["MIT"]
-draft: false
----
+- "Music streaming client", "Cross-platform software"]
+frameworks = ["Electron"]
+architectures = ["x86_64"]
+license = ["MIT"]
++++
 
 <img src="https://raw.githubusercontent.com/Mastermindzh/tidal-hifi/refs/heads/master/docs/images/preview.png" alt="Preview">
 

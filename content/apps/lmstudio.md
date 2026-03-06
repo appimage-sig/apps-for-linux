@@ -1,19 +1,16 @@
----
++++
 title: "LM Studio"
 description: |
  "Discover, download, and run local LLMs"
-pubDate: 2026-01-15T00:00:00Z
-categories: ["Productivity"]
-authors: ["Element Labs"]
+date: "2026-01-15 00:00:00"
+[taxonomies]
+categories = ["Productivity"]
+authors = ["Element Labs"]
 tags: 
-- "AI-powered software"
-- "Chatbot"
-architectures: 
-- "x86_64"
-- "arm64"
-license: ["EULA"]
-draft: false
----
+- "AI-powered software", "Chatbot"
+architectures = ["x86_64", "arm64"]
+license = ["EULA"]
++++
 
 Discover, download, and run local LLMs
 

@@ -1,20 +1,16 @@
----
++++
 title: "Tuta"
 description: |
  "Email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices."
-pubDate: 2026-01-08T12:16:00Z
-categories: ["Network"]
-authors: ["Tutao"]
-tags:
-- "Mail Client"
-- "Censorship-resistance software"
-frameworks:
-- "Electron"
-architectures: 
-- "x86_64"
-license: ["GPL-3.0"]
-draft: false
----
+date: "2026-01-08 12:16:00"
+[taxonomies]
+categories = ["Network"]
+authors = ["Tutao"]
+tags = ["Mail Client", "Censorship-resistance software"]
+frameworks = ["Electron"]
+architectures = ["x86_64"]
+license = ["GPL-3.0"]
++++
 
 <img src="https://raw.githubusercontent.com/flathub/com.tutanota.Tutanota/master/screenshot_mail.png" alt="Main Screen">
 

@@ -1,19 +1,16 @@
----
++++
 title: "Heroic Games Launcher"
 description: |
  "A Native GOG, Amazon and Epic Games Launcher"
-pubDate: 2026-01-26T20:18:00Z
-categories: ["Games"]
-authors: ["Heroic Games Launcher Authors"]
-tags:
-- "Game Launcher"
-frameworks:
-- "Electron"
-architectures: 
-- "x86_64"
-license: ["GPL-3.0"]
-draft: false
----
+date: "2026-01-26 20:18:00"
+[taxonomies]
+categories = ["Games"]
+authors = ["Heroic Games Launcher Authors"]
+tags = ["Game Launcher"]
+frameworks = ["Electron"]
+architectures = ["x86_64"]
+license = ["GPL-3.0"]
++++
 
 <img src="https://heroicgameslauncher.com/_next/static/images/heroic_01-766acd921e989be3aec2af1174d69dea.webp">
 

@@ -1,20 +1,16 @@
----
++++
 title: "Chatterino2"
 description: |
  "Chat client for Twitch.tv"
-pubDate: 2025-09-21T13:56:00Z
-categories: ["Network"]
-authors: ["Chatterino2 Authors"]
-tags:
-- "Twitch"
-- "Streaming tools"
-frameworks:
-- "Qt6"
-architectures: 
-- "x86_64"
-license: ["MIT"]
-draft: false
----
+date: "2025-09-21 13:56:00"
+[taxonomies]
+categories = ["Network"]
+authors = ["Chatterino2 Authors"]
+tags = ["Twitch", "Streaming tools"]
+frameworks = ["Qt6"]
+architectures = ["x86_64"]
+license = ["MIT"]
++++
 
 Chat client for Twitch.tv
 

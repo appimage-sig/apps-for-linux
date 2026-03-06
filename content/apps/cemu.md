@@ -1,20 +1,16 @@
----
++++
 title: "Cemu"
 description: |
  "Nintendo Wii U emulator"
-pubDate: 2025-02-06T16:18:00Z
-categories: ["Games"]
-authors: ["Cemu Project"]
-tags:
-- "Game Emulator"
-- "Nintendo Emulator"
-frameworks:
-- "GTK+3"
-architectures: 
-- "x86_64"
-license: ["MPL-2.0"]
-draft: false
----
+date: "2025-02-06 16:18:00"
+[taxonomies]
+categories = ["Games"]
+authors = ["Cemu Project"]
+tags = ["Game Emulator", "Nintendo Emulator"]
+frameworks = ["GTK+3"]
+architectures = ["x86_64"]
+license = ["MPL-2.0"]
++++
 
 Nintendo Wii U emulator
 

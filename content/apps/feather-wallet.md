@@ -1,22 +1,17 @@
----
++++
 title: "Feather"
 description: |
  "A free and open-source Monero desktop wallet"
-pubDate: 2025-04-14T07:48:00Z
-categories: ["Finance"]
-authors: ["Feather Wallet"]
-tags:
-- "Cryptocurrency"
-frameworks:
-- "Qt6"
-architectures: 
-- "x86_64"
-- "arm64"
-- "armv7l"
-- "riscv64"
-license: ["BSD-3-Clause"]
-draft: false
----
+date: "2025-04-14 07:48:00"
+[taxonomies]
+categories = ["Finance"]
+authors = ["Feather Wallet"]
+tags = ["Cryptocurrency"]
+frameworks = ["Qt6"]
+architectures = ["x86_64", "arm64"]
+- "armv7l", "riscv64"
+license = ["BSD-3-Clause"]
++++
 
 <img src="https://featherwallet.org/img/home_monero_light.png">
 

@@ -1,21 +1,17 @@
----
++++
 title: "Teams for Linux"
 description: |
  "Unofficial Microsoft Teams for Linux client."
-pubDate: 2025-12-13T01:05:00Z
-categories: ["Network"]
-authors: ["Ismael Martinez"]
+date: "2025-12-13T01:05:00"
+[taxonomies]
+categories = ["Network"]
+authors = ["Ismael Martinez"]
 tags: 
-- "Conference calling"
-- "Cross-platform software"
-frameworks:
-- "Electron"
-architectures: 
-- "x86_64"
-- "arm64"
-license: ["GPL-3.0"]
-draft: false
----
+- "Conference calling", "Cross-platform software"]
+frameworks = ["Electron"]
+architectures = ["x86_64", "arm64"]
+license = ["GPL-3.0"]
++++
 
 Unofficial Microsoft Teams for Linux client
 

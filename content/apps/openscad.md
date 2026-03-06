@@ -1,20 +1,16 @@
----
++++
 title: "OpenSCAD"
 description: |
  "The Programmers Solid 3D CAD Modeller"
-pubDate: 2025-12-23T17:27:00Z
-categories: ["Graphics"]
-authors: ["Marius Kintel"]
-tags:
-- "3D"
-- "CAD"
-frameworks:
-- "Qt5"
-architectures: 
-- "x86_64"
-license: ["GPL-3.0"]
-draft: false
----
+date: "2025-12-23 17:27:00"
+[taxonomies]
+categories = ["Graphics"]
+authors = ["Marius Kintel"]
+tags = ["3D", "CAD"]
+frameworks = ["Qt5"]
+architectures = ["x86_64"]
+license = ["GPL-3.0"]
++++
 
 The Programmers Solid 3D CAD Modeller
 

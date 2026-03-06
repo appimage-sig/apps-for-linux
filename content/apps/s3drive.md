@@ -1,18 +1,16 @@
----
++++
 title: "S3Drive"
 description: |
  "Zero Knowledge E2E encrypted storage compatible with multiple providers"
-pubDate: 2026-01-12T12:52:00Z
-categories: ["Network"]
-authors: ["Cloud storage"]
+date: "2026-01-12 12:52:00"
+[taxonomies]
+categories = ["Network"]
+authors = ["Cloud storage"]
 tags: 
-- "Cloud storage client"
-- "Cross-platform software"
-architectures: 
-- "x86_64"
-license: ["EULA"]
-draft: false
----
+- "Cloud storage client", "Cross-platform software"
+architectures = ["x86_64"]
+license = ["EULA"]
++++
 
 Zero Knowledge E2E encrypted storage compatible with multiple providers
 

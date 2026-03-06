@@ -1,20 +1,16 @@
----
++++
 title: "Passy"
 description: |
  "Offline password manager with cross-platform synchronization"
-pubDate: 2025-05-24T23:59:00Z
-categories: ["Utilities"]
-authors: ["GlitterWare"]
-tags:
-- "Offline password manager"
-frameworks:
-- "Flutter"
-architectures: 
-- "x86_64"
-- "arm64"
-license: ["GPL-3.0"]
-draft: false
----
+date: "2025-05-24 23:59:00"
+[taxonomies]
+categories = ["Utilities"]
+authors = ["GlitterWare"]
+tags = ["Offline password manager"]
+frameworks = ["Flutter"]
+architectures = ["x86_64", "arm64"]
+license = ["GPL-3.0"]
++++
 
 Offline password manager with cross-platform synchronization
 

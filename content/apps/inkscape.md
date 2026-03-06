@@ -1,19 +1,16 @@
----
++++
 title: "Inkscape"
 description: |
  "A Free and open source vector graphics editor"
-pubDate: 2025-12-25T15:35:00Z
-categories: ["Graphics"]
-authors: ["Inkscape Authors"]
-tags:
-- "Vector graphics editor"
-frameworks:
-- "GTK4"
-architectures: 
-- "x86_64"
-license: ["GPL-2.0"]
-draft: false
----
+date: "2025-12-25 15:35:00"
+[taxonomies]
+categories = ["Graphics"]
+authors = ["Inkscape Authors"]
+tags = ["Vector graphics editor"]
+frameworks = ["GTK4"]
+architectures = ["x86_64"]
+license = ["GPL-2.0"]
++++
 
 <img src="https://media.inkscape.org/media/resources/file/light-2.png">
 

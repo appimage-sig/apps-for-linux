@@ -1,20 +1,16 @@
----
++++
 title: "Krita"
 description: |
  "Krita is a professional free and open source painting program"
-pubDate: 2026-01-24T13:30:00Z
-categories: ["Graphics"]
-authors: ["Stichting Krita Foundation"]
-tags:
-- "Painting software"
-- "Photo editor"
-frameworks:
-- "Qt6"
-architectures: 
-- "x86_64"
-license: ["GPL-3.0"]
-draft: false
----
+date: "2026-01-24 13:30:00"
+[taxonomies]
+categories = ["Graphics"]
+authors = ["Stichting Krita Foundation"]
+tags = ["Painting software", "Photo editor"]
+frameworks = ["Qt6"]
+architectures = ["x86_64"]
+license = ["GPL-3.0"]
++++
 
 <img src="https://cdn.kde.org/screenshots/krita/splash.png">
 

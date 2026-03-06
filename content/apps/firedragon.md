@@ -1,19 +1,15 @@
----
++++
 title: "FireDragon"
 description: |
  "A Floorp fork with custom branding and opinionated settings."
-pubDate: 2025-12-22T09:36:00Z
-categories: ["Network"]
-authors: ["Nico Jensch"]
-tags:
-- "Browser"
-- "Firefox-based"
-architectures: 
-- "x86_64"
-- "arm64"
-license: ["MPL-2.0"]
-draft: false
----
+date: "2025-12-22 09:36:00"
+[taxonomies]
+categories = ["Network"]
+authors = ["Nico Jensch"]
+tags = ["Browser", "Firefox-based"
+architectures = ["x86_64", "arm64"]
+license = ["MPL-2.0"]
++++
 
 <img src="https://gitlab.com/garuda-linux/firedragon/settings/-/raw/master/home.png">
 

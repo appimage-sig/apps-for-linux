@@ -1,20 +1,16 @@
----
++++
 title: "Logseq"
 description: |
  "A privacy-first, open-source platform for knowledge management and collaboration"
-pubDate: 2025-12-01T15:33:00Z
-categories: ["Productivity"]
-authors: ["Logseq"]
-tags:
-- "Knowledge base"
-- "Cross-platform software"
-frameworks:
-- "Electron"
-architectures: 
-- "x86_64"
-license: ["AGPL-3.0"]
-draft: false
----
+date: "2025-12-01 15:33:00"
+[taxonomies]
+categories = ["Productivity"]
+authors = ["Logseq"]
+tags = ["Knowledge base", "Cross-platform software"]
+frameworks = ["Electron"]
+architectures = ["x86_64"]
+license = ["AGPL-3.0"]
++++
 
 <img src="https://raw.githubusercontent.com/logseq/logseq/refs/heads/master/resources/img/screenshot.png">
 

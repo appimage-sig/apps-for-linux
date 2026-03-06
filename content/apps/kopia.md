@@ -1,21 +1,17 @@
----
++++
 title: "KopiaUI"
 description: |
  "Cross-platform backup tool"
-pubDate: 2025-12-02T21:37:00Z
-categories: ["Network"]
-authors: ["Kopia Authors"]
-tags:
-- "Backup tool"
-frameworks:
-- "Electron"
-architectures: 
-- "x86_64"
-- "arm64"
+date: "2025-12-02 21:37:00"
+[taxonomies]
+categories = ["Network"]
+authors = ["Kopia Authors"]
+tags = ["Backup tool"]
+frameworks = ["Electron"]
+architectures = ["x86_64", "arm64"]
 - "armv7l"
-license: ["Apache-2.0"]
-draft: false
----
+license = ["Apache-2.0"]
++++
 
 Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 

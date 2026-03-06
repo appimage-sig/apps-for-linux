@@ -1,19 +1,16 @@
----
++++
 title: "Lossless-cut"
 description: |
  "Simple and ultra fast cross platform tool for lossless trimming/cutting of video and audio files."
-pubDate: 2025-12-04T19:30:00Z
-categories: ["AudioVideo"]
-authors: ["Mikael Finstad"]
-tags:
-- "Video editor"
-frameworks:
-- "Electron"
-architectures: 
-- "x86_64"
-license: ["GPL-2.0"]
-draft: false
----
+date: "2025-12-04 19:30:00"
+[taxonomies]
+categories = ["AudioVideo"]
+authors = ["Mikael Finstad"]
+tags = ["Video editor"]
+frameworks = ["Electron"]
+architectures = ["x86_64"]
+license = ["GPL-2.0"]
++++
 
 <img src="https://raw.githubusercontent.com/mifi/lossless-cut/refs/heads/master/main_screenshot.jpg">
 

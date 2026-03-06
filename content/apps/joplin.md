@@ -1,21 +1,17 @@
----
++++
 title: "Joplin"
 description: |
  "The secure note taking and to-do app with synchronisation capabilities"
-pubDate: 2026-01-18T23:10:00Z
-categories: ["Productivity"]
-authors: ["Laurent Cozic"]
+date: "2026-01-18 23:10:00"
+[taxonomies]
+categories = ["Productivity"]
+authors = ["Laurent Cozic"]
 tags: 
-- "Notes"
-- "To-do"
-- "Cross-platform software"
-frameworks:
-- "Electron"
-architectures: 
-- "x86_64"
-license: ["AGPL-3.0"]
-draft: false
----
+- "Notes", "To-do", "Cross-platform software"]
+frameworks = ["Electron"]
+architectures = ["x86_64"]
+license = ["AGPL-3.0"]
++++
 
 The secure note taking and to-do app with synchronisation capabilities
 

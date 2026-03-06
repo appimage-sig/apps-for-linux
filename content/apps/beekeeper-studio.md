@@ -1,20 +1,16 @@
----
++++
 title: "Beekeeper Studio"
 description: |
  "Beekeeper Studio is a cross-platform SQL editor and database manager"
-pubDate: 2026-01-20T00:59:00Z
-categories: ["Development"]
-authors: ["Matthew Rathbone"]
-tags:
-- "Database"
-- "SQL"
-frameworks:
-- "Electron"
-architectures: 
-- "x86_64"
-license: ["GPL-3.0"]
-draft: false
----
+date: "2026-01-20 00:59:00"
+[taxonomies]
+categories = ["Development"]
+authors = ["Matthew Rathbone"]
+tags = ["Database", "SQL"]
+frameworks = ["Electron"]
+architectures = ["x86_64"]
+license = ["GPL-3.0"]
++++
 
 <img src="https://user-images.githubusercontent.com/279769/203650152-4a34af1f-8a38-47cf-a273-d34d1c84feeb.png">
 
