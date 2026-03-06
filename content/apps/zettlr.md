@@ -9,8 +9,6 @@ tags = ["Notes"]
 frameworks = ["Electron"]
 architectures = ["x86_64", "arm64"]
 license = ["GPL-3.0"]
-draft: false
-
 +++
 
 <img src="https://raw.githubusercontent.com/Zettlr/Zettlr/refs/heads/develop/resources/screenshots/zettlr_view.png">
