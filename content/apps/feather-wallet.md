@@ -7,7 +7,7 @@ categories = ["Finance"]
 authors = ["Feather Wallet"]
 tags = ["Cryptocurrency"]
 frameworks = ["Qt6"]
-architectures = ["x86_64", "arm64", "armv7l"], "riscv64"
+architectures = ["x86_64", "arm64", "armv7l", "riscv64"]
 license = ["BSD-3-Clause"]
 +++
 
