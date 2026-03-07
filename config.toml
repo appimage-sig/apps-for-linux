@@ -23,7 +23,7 @@ taxonomies = [
     { name = "license" },
 ]
 
-taxonomy_root = "apps"
+taxonomy_root = "/apps"
 
 [extra]
 logo_image = "images/logo.svg"
@@ -35,18 +35,18 @@ author_image = '/images/avatar.jpg'
 
 navigation = [
     { url = "$BASE_URL", title = "Home" },
-    { url = "$BASE_URL/apps", title = "Apps" },
+    { url = "$BASE_URL/$TAXONOMY_ROOT", title = "Apps" },
     { url = "", title = "Categories", submenu = [
-        { url = "$BASE_URL/categories/audiovideo", title = "Audio & Video" },
-        { url = "$BASE_URL/categories/development", title = "Development" },
-        { url = "$BASE_URL/categories/finance", title = "Finance" },
-        { url = "$BASE_URL/categories/games", title = "Games" },
-        { url = "$BASE_URL/categories/graphics", title = "Graphics" },
-        { url = "$BASE_URL/categories/network", title = "Network" },
-        { url = "$BASE_URL/categories/productivity", title = "Productivity" },
-        { url = "$BASE_URL/categories/science", title = "Science" },
-        { url = "$BASE_URL/categories/system", title = "System" },
-        { url = "$BASE_URL/categories/utility", title = "Utility" },
+        { url = "$BASE_URL/$TAXONOMY_ROOT/categories/audiovideo", title = "Audio & Video" },
+        { url = "$BASE_URL/$TAXONOMY_ROOT/categories/development", title = "Development" },
+        { url = "$BASE_URL/$TAXONOMY_ROOT/categories/finance", title = "Finance" },
+        { url = "$BASE_URL/$TAXONOMY_ROOT/categories/games", title = "Games" },
+        { url = "$BASE_URL/$TAXONOMY_ROOT/categories/graphics", title = "Graphics" },
+        { url = "$BASE_URL/$TAXONOMY_ROOT/categories/network", title = "Network" },
+        { url = "$BASE_URL/$TAXONOMY_ROOT/categories/productivity", title = "Productivity" },
+        { url = "$BASE_URL/$TAXONOMY_ROOT/categories/science", title = "Science" },
+        { url = "$BASE_URL/$TAXONOMY_ROOT/categories/system", title = "System" },
+        { url = "$BASE_URL/$TAXONOMY_ROOT/categories/utility", title = "Utility" },
     ] }
 ]
 social_icons = [
@@ -62,16 +62,16 @@ keywords = ["keyword1", "keyword2", "keyword3"]
 [extra.footer]
 menu = [
     { url = "$BASE_URL", title = "Home" },
-        { url = "$BASE_URL/categories/audiovideo", title = "Audio & Video" },
-        { url = "$BASE_URL/categories/development", title = "Development" },
-        { url = "$BASE_URL/categories/finance", title = "Finance" },
-        { url = "$BASE_URL/categories/games", title = "Games" },
-        { url = "$BASE_URL/categories/graphics", title = "Graphics" },
-        { url = "$BASE_URL/categories/network", title = "Network" },
-        { url = "$BASE_URL/categories/productivity", title = "Productivity" },
-        { url = "$BASE_URL/categories/science", title = "Science" },
-        { url = "$BASE_URL/categories/system", title = "System" },
-        { url = "$BASE_URL/categories/utility", title = "Utility" },
+        { url = "$BASE_URL/$TAXONOMY_ROOT/categories/audiovideo", title = "Audio & Video" },
+        { url = "$BASE_URL/$TAXONOMY_ROOT/categories/development", title = "Development" },
+        { url = "$BASE_URL/$TAXONOMY_ROOT/categories/finance", title = "Finance" },
+        { url = "$BASE_URL/$TAXONOMY_ROOT/categories/games", title = "Games" },
+        { url = "$BASE_URL/$TAXONOMY_ROOT/categories/graphics", title = "Graphics" },
+        { url = "$BASE_URL/$TAXONOMY_ROOT/categories/network", title = "Network" },
+        { url = "$BASE_URL/$TAXONOMY_ROOT/categories/productivity", title = "Productivity" },
+        { url = "$BASE_URL/$TAXONOMY_ROOT/categories/science", title = "Science" },
+        { url = "$BASE_URL/$TAXONOMY_ROOT/categories/system", title = "System" },
+        { url = "$BASE_URL/$TAXONOMY_ROOT/categories/utility", title = "Utility" },
 ]
 #copyright = ""
 
